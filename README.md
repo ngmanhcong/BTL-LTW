@@ -1,10 +1,6 @@
 # PTITSocial
 
-Bản nộp bài tập lớn Lập trình Web, gồm mã nguồn PTITSocial và tài liệu chạy local. Xem [kết quả kiểm thử](Doi_chieu_va_minh_chung_kiem_thu_PTITSocial.md).
-
-Repository nhóm (private): [Young-Tobi/PTITSocial](https://github.com/Young-Tobi/PTITSocial).
-
-Mạng xã hội dành cho sinh viên, dùng React, Express, Node.js và MongoDB. Backend được tách thành bốn dịch vụ và một API Gateway; mỗi dịch vụ sở hữu database riêng.
+PTITSocial là mạng xã hội dành cho sinh viên, có bảng tin, bạn bè, nhắn tin, Roadmap học tập và trợ lý Gemini. Project dùng React, Node.js, Express và MongoDB.
 
 ## Cấu trúc
 
@@ -51,7 +47,7 @@ Dừng mà vẫn giữ dữ liệu:
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\stop-local.ps1
 ```
 
-Máy đang làm bài đã được chuyển dữ liệu từ bản cũ, bao gồm tài khoản và các nội dung bạn tạo. Khi cài mới với MongoDB trống, đăng ký tài khoản qua website và xác minh email trong Mailpit.
+Khi chạy lần đầu với MongoDB trống, đăng ký tài khoản trên website rồi mở Mailpit để xác minh email.
 
 Firebase Messaging được tắt theo mặc định khi chạy local. Nếu bật tính năng tùy chọn này, dùng cấu hình Firebase của bạn ở frontend và service worker, đặt `REACT_APP_FIREBASE_API_KEY` trong `apps/web/.env.local` và thay giá trị mẫu trong `apps/web/public/firebase-messaging-sw.js`.
 
@@ -97,8 +93,6 @@ npm.cmd run check:migration
 
 Lệnh sao chép từ database `backbook`, giữ nguyên ObjectId và không sửa database nguồn. Những bản ghi đã có trong database mới không bị ghi đè. Bản sao lưu nằm ở `.local-backups/`; ảnh được sao chép vào `services/content/uploads/`.
 
-Đây là bước chuyển sang dùng hệ thống mới, không phải đồng bộ hai chiều. Sau khi chuyển, tiếp tục làm việc với ba database `ptitsocial_*`.
-
 ## Đọc tiếp
 
 - [Học và trình bày BASE, Roadmap và Learn with AI](docs/HUONG-DAN-BAO-VE-PROJECT.md)
@@ -108,5 +102,4 @@ Lệnh sao chép từ database `backbook`, giữ nguyên ObjectId và không s�
 - [Nên đọc và sửa file nào](docs/CODE-GUIDE.md)
 - [Làm việc nhóm: clone, chia nhánh và Pull Request](docs/TEAM-WORKFLOW.md)
 - [Ghi chú giao diện](PTITSOCIAL-DESIGN.md)
-
-Source ban đầu được phát triển từ [Backbook frontend](https://github.com/msobkyy/backbook) và [Backbook backend](https://github.com/msobkyy/backbook-server). Giữ nguồn tham khảo này trong báo cáo môn học.
+- [Kết quả kiểm thử](Doi_chieu_va_minh_chung_kiem_thu_PTITSocial.md)
