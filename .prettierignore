@@ -1,0 +1,6 @@
+**/node_modules/
+legacy/
+.local-*/
+apps/web/build/
+services/content/uploads/
+package-lock.json

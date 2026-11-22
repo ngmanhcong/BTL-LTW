@@ -1,0 +1,4077 @@
+{
+  "id": "sql",
+  "sourceTitle": {
+    "card": "SQL",
+    "page": "SQL Roadmap",
+    "_id": "6a9931beaca636c6b9e98d48"
+  },
+  "reference": "https://roadmap.sh/sql",
+  "source": {
+    "publisher": "roadmap.sh",
+    "url": "https://roadmap.sh/sql",
+    "contentRepository": "https://github.com/nilbuild/developer-roadmap",
+    "commit": "3e1cb72a72b15d32b236d1f558800db87e977370",
+    "fetchedAt": "2026-11-18T14:51:26.348006+00:00",
+    "updatedAt": "2026-09-03T08:37:19.312Z",
+    "licenseUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/license"
+  },
+  "stages": [
+    {
+      "id": "roadmap-sh-topics",
+      "title": "Các chủ đề theo sơ đồ gốc",
+      "topics": [
+        {
+          "id": "rs-R9DQNc0AyAQ2HLpP4HOk6",
+          "sourceId": "R9DQNc0AyAQ2HLpP4HOk6",
+          "title": "What are Relational Databases?",
+          "description": "Chủ đề “What are Relational Databases?” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/what-are-relational-databases@R9DQNc0AyAQ2HLpP4HOk6.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: What are Relational Databases?",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/what-are-relational-databases@R9DQNc0AyAQ2HLpP4HOk6.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is a relational database - AWS",
+              "url": "https://aws.amazon.com/relational-database/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What is a relational database?",
+              "url": "https://www.youtube.com/watch?v=OqjJjpjDRLc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-fNTb9y3zs1HPYclAmu_Wv",
+          "sourceId": "fNTb9y3zs1HPYclAmu_Wv",
+          "title": "RDBMS Benefits and Limitations",
+          "description": "Chủ đề “RDBMS Benefits and Limitations” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rdbms-benefits-and-limitations@fNTb9y3zs1HPYclAmu_Wv.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: RDBMS Benefits and Limitations",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rdbms-benefits-and-limitations@fNTb9y3zs1HPYclAmu_Wv.md",
+              "kind": "source"
+            },
+            {
+              "title": "Advantages and Disadvantages of DBMS",
+              "url": "https://cloud.google.com/learn/what-is-a-relational-database",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-nhUKKWyBH80nyKfGT8ErC",
+          "sourceId": "nhUKKWyBH80nyKfGT8ErC",
+          "title": "Learn the Basics",
+          "description": "Chủ đề “Learn the Basics” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/learn-the-basics@nhUKKWyBH80nyKfGT8ErC.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Learn the Basics",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/learn-the-basics@nhUKKWyBH80nyKfGT8ErC.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Tutorial - Mode",
+              "url": "https://mode.com/sql-tutorial/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Tutorial",
+              "url": "https://www.sqltutorial.org/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-6yoo7qC6X2jYDIjd3HIm7",
+          "sourceId": "6yoo7qC6X2jYDIjd3HIm7",
+          "title": "SQL Keywords",
+          "description": "Chủ đề “SQL Keywords” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sql-keywords@6yoo7qC6X2jYDIjd3HIm7.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SQL Keywords",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sql-keywords@6yoo7qC6X2jYDIjd3HIm7.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Keywords, Operators and Statements",
+              "url": "https://blog.hubspot.com/website/sql-keywords-operators-statements",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-gx4KaFqKgJX9n9_ZGMqlZ",
+          "sourceId": "gx4KaFqKgJX9n9_ZGMqlZ",
+          "title": "SQL vs NoSQL Databases",
+          "description": "Chủ đề “SQL vs NoSQL Databases” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sql-vs-nosql-databases@gx4KaFqKgJX9n9_ZGMqlZ.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SQL vs NoSQL Databases",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sql-vs-nosql-databases@gx4KaFqKgJX9n9_ZGMqlZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Understanding SQL vs NoSQL Databases",
+              "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL vs NoSQL Databases in 4 mins",
+              "url": "https://www.youtube.com/watch?v=_Ss42Vb1SU4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-tBzMDfCMh6MIagNaxCzin",
+          "sourceId": "tBzMDfCMh6MIagNaxCzin",
+          "title": "Data Types",
+          "description": "Chủ đề “Data Types” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-types@tBzMDfCMh6MIagNaxCzin.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Types",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-types@tBzMDfCMh6MIagNaxCzin.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Data Types",
+              "url": "https://www.digitalocean.com/community/tutorials/sql-data-types",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "MySQL 101 - Data Types",
+              "url": "https://www.youtube.com/watch?v=vAiBa69YCnk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ffwniprGJHZzJ7t3lQcXz",
+          "sourceId": "ffwniprGJHZzJ7t3lQcXz",
+          "title": "Operators",
+          "description": "Chủ đề “Operators” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/operators@ffwniprGJHZzJ7t3lQcXz.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/operators@ffwniprGJHZzJ7t3lQcXz.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Operators: 6 Different Types",
+              "url": "https://dataengineeracademy.com/blog/sql-operators-6-different-types-code-examples/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-JDDG4KfhtIlw1rkNCzUli",
+          "sourceId": "JDDG4KfhtIlw1rkNCzUli",
+          "title": "Basic SQL Syntax",
+          "description": "Chủ đề “Basic SQL Syntax” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/basic-sql-syntax@JDDG4KfhtIlw1rkNCzUli.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Basic SQL Syntax",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/basic-sql-syntax@JDDG4KfhtIlw1rkNCzUli.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Tutorial - Mode",
+              "url": "https://mode.com/sql-tutorial/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Tutorial",
+              "url": "https://www.sqltutorial.org/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-xPOeXK1EPBNG56vgfG-VV",
+          "sourceId": "xPOeXK1EPBNG56vgfG-VV",
+          "title": "Data Definition Language (DDL)",
+          "description": "Chủ đề “Data Definition Language (DDL)” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-definition-language-ddl@xPOeXK1EPBNG56vgfG-VV.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Definition Language (DDL)",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-definition-language-ddl@xPOeXK1EPBNG56vgfG-VV.md",
+              "kind": "source"
+            },
+            {
+              "title": "Data Definition Language (DDL)",
+              "url": "https://docs.getdbt.com/terms/ddl",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The Definitive Guide on Data Definition Language",
+              "url": "https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-rmqXH29n1oXtZ8tvmcRFn",
+          "sourceId": "rmqXH29n1oXtZ8tvmcRFn",
+          "title": "SELECT",
+          "description": "Chủ đề “SELECT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/select@rmqXH29n1oXtZ8tvmcRFn.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SELECT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/select@rmqXH29n1oXtZ8tvmcRFn.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-mPj6BiK5FKKkIQ9WsWEo6",
+          "sourceId": "mPj6BiK5FKKkIQ9WsWEo6",
+          "title": "INSERT",
+          "description": "Chủ đề “INSERT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/insert@mPj6BiK5FKKkIQ9WsWEo6.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: INSERT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/insert@mPj6BiK5FKKkIQ9WsWEo6.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL INSERT Statement",
+              "url": "https://www.youtube.com/watch?v=Yp1MKeIG-M4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-K5vhqTJrdPK08Txv8zaEj",
+          "sourceId": "K5vhqTJrdPK08Txv8zaEj",
+          "title": "Truncate Table",
+          "description": "Chủ đề “Truncate Table” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/truncate-table@K5vhqTJrdPK08Txv8zaEj.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Truncate Table",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/truncate-table@K5vhqTJrdPK08Txv8zaEj.md",
+              "kind": "source"
+            },
+            {
+              "title": "TRUNCATE TABLE",
+              "url": "https://www.tutorialspoint.com/sql/sql-truncate-table.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Tutorial - TRUNCATE TABLE",
+              "url": "https://www.youtube.com/watch?v=zJidbjOQlJM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ddtVaA4Ls6qRj-7OtTSIH",
+          "sourceId": "ddtVaA4Ls6qRj-7OtTSIH",
+          "title": "DELETE",
+          "description": "Chủ đề “DELETE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/delete@ddtVaA4Ls6qRj-7OtTSIH.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DELETE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/delete@ddtVaA4Ls6qRj-7OtTSIH.md",
+              "kind": "source"
+            },
+            {
+              "title": "DELETE",
+              "url": "https://www.w3schools.com/sql/sql_delete.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-eu9dJFi6gBPMBdy08Y5Bb",
+          "sourceId": "eu9dJFi6gBPMBdy08Y5Bb",
+          "title": "UPDATE",
+          "description": "Chủ đề “UPDATE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/update@eu9dJFi6gBPMBdy08Y5Bb.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: UPDATE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/update@eu9dJFi6gBPMBdy08Y5Bb.md",
+              "kind": "source"
+            },
+            {
+              "title": "Efficient column updates in SQL",
+              "url": "https://www.atlassian.com/data/sql/how-to-update-a-column-based-on-a-filter-of-another-column",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-WMSXi-eez_hHGDM8kUdWz",
+          "sourceId": "WMSXi-eez_hHGDM8kUdWz",
+          "title": "Data Manipulation Language (DML)",
+          "description": "Chủ đề “Data Manipulation Language (DML)” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-manipulation-language-dml@WMSXi-eez_hHGDM8kUdWz.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Manipulation Language (DML)",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-manipulation-language-dml@WMSXi-eez_hHGDM8kUdWz.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is DML?",
+              "url": "https://satoricyber.com/glossary/dml-data-manipulation-language",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What is DML?(Wiki)",
+              "url": "https://en.wikipedia.org/wiki/Data_manipulation_language",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Difference Between DDL & DML",
+              "url": "https://appmaster.io/blog/difference-between-ddl-and-dml",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-WjXlO42WL9saDS7RIGapt",
+          "sourceId": "WjXlO42WL9saDS7RIGapt",
+          "title": "Alter Table",
+          "description": "Chủ đề “Alter Table” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/alter-table@WjXlO42WL9saDS7RIGapt.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Alter Table",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/alter-table@WjXlO42WL9saDS7RIGapt.md",
+              "kind": "source"
+            },
+            {
+              "title": "ALTER TABLE Statement",
+              "url": "https://www.techonthenet.com/sql/tables/alter_table.php",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "ALTER TABLE - PostgreSQL",
+              "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-alter-table/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-epEpBxRosLhuAuKwp823r",
+          "sourceId": "epEpBxRosLhuAuKwp823r",
+          "title": "Create Table",
+          "description": "Chủ đề “Create Table” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/create-table@epEpBxRosLhuAuKwp823r.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Create Table",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/create-table@epEpBxRosLhuAuKwp823r.md",
+              "kind": "source"
+            },
+            {
+              "title": "CREATE TABLE",
+              "url": "https://www.tutorialspoint.com/sql/sql-create-table.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL CREATE TABLE",
+              "url": "https://www.programiz.com/sql/create-table",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-i8u8E_sne6XiKJo2FXDog",
+          "sourceId": "i8u8E_sne6XiKJo2FXDog",
+          "title": "Select",
+          "description": "Chủ đề “Select” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/select@i8u8E_sne6XiKJo2FXDog.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Select",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/select@i8u8E_sne6XiKJo2FXDog.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-YzJ6QmY2arMfRzMAPaI0T",
+          "sourceId": "YzJ6QmY2arMfRzMAPaI0T",
+          "title": "Drop Table",
+          "description": "Chủ đề “Drop Table” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/drop-table@YzJ6QmY2arMfRzMAPaI0T.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Drop Table",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/drop-table@YzJ6QmY2arMfRzMAPaI0T.md",
+              "kind": "source"
+            },
+            {
+              "title": "Drop a Table",
+              "url": "https://www.coginiti.co/tutorials/beginner/drop-a-table/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-w4T3jFb0ilf1KNw-AvRXG",
+          "sourceId": "w4T3jFb0ilf1KNw-AvRXG",
+          "title": "SUM",
+          "description": "Chủ đề “SUM” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sum@w4T3jFb0ilf1KNw-AvRXG.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SUM",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/sum@w4T3jFb0ilf1KNw-AvRXG.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL SUM",
+              "url": "https://www.studysmarter.co.uk/explanations/computer-science/databases/sql-sum/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-9aHYrOQDkA84tlxcVK5aD",
+          "sourceId": "9aHYrOQDkA84tlxcVK5aD",
+          "title": "COUNT",
+          "description": "Chủ đề “COUNT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/count@9aHYrOQDkA84tlxcVK5aD.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: COUNT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/count@9aHYrOQDkA84tlxcVK5aD.md",
+              "kind": "source"
+            },
+            {
+              "title": "The SQL COUNT() Function",
+              "url": "https://www.w3schools.com/sql/sql_count.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-N1Racr3ZpU320gS545We8",
+          "sourceId": "N1Racr3ZpU320gS545We8",
+          "title": "FROM",
+          "description": "Chủ đề “FROM” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/from@N1Racr3ZpU320gS545We8.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: FROM",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/from@N1Racr3ZpU320gS545We8.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to write basic SQL",
+              "url": "https://www.youtube.com/watch?v=YfTDBA45PHk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-WhYAy6f7Euk3E49-ot644",
+          "sourceId": "WhYAy6f7Euk3E49-ot644",
+          "title": "WHERE",
+          "description": "Chủ đề “WHERE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/where@WhYAy6f7Euk3E49-ot644.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: WHERE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/where@WhYAy6f7Euk3E49-ot644.md",
+              "kind": "source"
+            },
+            {
+              "title": "WHERE Clause",
+              "url": "https://www.w3schools.com/sql/sql_where.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to filter with the WHERE clause in SQL",
+              "url": "https://www.youtube.com/watch?v=4Uv0o8IBqw0",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-4UQQYbjzwVxZOAxBuXKQS",
+          "sourceId": "4UQQYbjzwVxZOAxBuXKQS",
+          "title": "JOINs",
+          "description": "Chủ đề “JOINs” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/joins@4UQQYbjzwVxZOAxBuXKQS.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: JOINs",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/joins@4UQQYbjzwVxZOAxBuXKQS.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL JOINs Tutorial for beginners",
+              "url": "https://www.youtube.com/watch?v=0OQJDd3QqQM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Wou6YXLYUgomvcELh851L",
+          "sourceId": "Wou6YXLYUgomvcELh851L",
+          "title": "AVG",
+          "description": "Chủ đề “AVG” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/avg@Wou6YXLYUgomvcELh851L.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: AVG",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/avg@Wou6YXLYUgomvcELh851L.md",
+              "kind": "source"
+            },
+            {
+              "title": "AVG",
+              "url": "https://www.sqlshack.com/sql-avg-function-introduction-and-examples/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL AVG() Function",
+              "url": "https://www.w3schools.com/sql/sql_avg.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-bFEYMlqPZtTUYtDQxqHzT",
+          "sourceId": "bFEYMlqPZtTUYtDQxqHzT",
+          "title": "MIN",
+          "description": "Chủ đề “MIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/min@bFEYMlqPZtTUYtDQxqHzT.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: MIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/min@bFEYMlqPZtTUYtDQxqHzT.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL MAX & MIN",
+              "url": "https://www.programiz.com/sql/min-and-max",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "COUNT, SUM, AVG, MIN, MAX (SQL) - Aggregating Data",
+              "url": "https://www.youtube.com/watch?v=muwEdPsx534",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Jlwmyq6CUQeDAlL4dazOP",
+          "sourceId": "Jlwmyq6CUQeDAlL4dazOP",
+          "title": "Primary Key",
+          "description": "Chủ đề “Primary Key” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/primary-key@Jlwmyq6CUQeDAlL4dazOP.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Primary Key",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/primary-key@Jlwmyq6CUQeDAlL4dazOP.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Primary Key",
+              "url": "https://www.tutorialspoint.com/sql/sql-primary-key.htm",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-14TKE6KhrH1yFtHcSZSXq",
+          "sourceId": "14TKE6KhrH1yFtHcSZSXq",
+          "title": "GROUP BY",
+          "description": "Chủ đề “GROUP BY” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/group-by@14TKE6KhrH1yFtHcSZSXq.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: GROUP BY",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/group-by@14TKE6KhrH1yFtHcSZSXq.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL GROUP BY",
+              "url": "https://www.programiz.com/sql/group-by",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Advanced Aggregate Functions in SQL",
+              "url": "https://www.youtube.com/watch?v=nNrgRVIzeHg",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-NfCiSPrL4upMssukcw3Kh",
+          "sourceId": "NfCiSPrL4upMssukcw3Kh",
+          "title": "ORDER BY",
+          "description": "Chủ đề “ORDER BY” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/order-by@NfCiSPrL4upMssukcw3Kh.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ORDER BY",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/order-by@NfCiSPrL4upMssukcw3Kh.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL ORDER BY Sorting Clause",
+              "url": "https://www.youtube.com/watch?v=h_HHTNjAgS8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ytwCkSMTiTuemE0KVfAfy",
+          "sourceId": "ytwCkSMTiTuemE0KVfAfy",
+          "title": "HAVING",
+          "description": "Chủ đề “HAVING” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/having@ytwCkSMTiTuemE0KVfAfy.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: HAVING",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/having@ytwCkSMTiTuemE0KVfAfy.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL HAVING Clause",
+              "url": "https://www.programiz.com/sql/having",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "HAVING Clause",
+              "url": "https://www.youtube.com/watch?v=tYBOMw7Ob8E",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-YqDJq3fPxUZlwsdq0kJg7",
+          "sourceId": "YqDJq3fPxUZlwsdq0kJg7",
+          "title": "MAX",
+          "description": "Chủ đề “MAX” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/max@YqDJq3fPxUZlwsdq0kJg7.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: MAX",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/max@YqDJq3fPxUZlwsdq0kJg7.md",
+              "kind": "source"
+            },
+            {
+              "title": "MAX",
+              "url": "https://www.techonthenet.com/sql/max.php",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Basic Aggregate Functions",
+              "url": "https://www.youtube.com/watch?v=jcoJuc5e3RE",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-LX9nzJ4uqznHN4SksoDvr",
+          "sourceId": "LX9nzJ4uqznHN4SksoDvr",
+          "title": "Aggregate Queries",
+          "description": "Chủ đề “Aggregate Queries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/aggregate-queries@LX9nzJ4uqznHN4SksoDvr.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Aggregate Queries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/aggregate-queries@LX9nzJ4uqznHN4SksoDvr.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-DHz6sRLYhFeCbAcNJS8hm",
+          "sourceId": "DHz6sRLYhFeCbAcNJS8hm",
+          "title": "Foreign Key",
+          "description": "Chủ đề “Foreign Key” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/foreign-key@DHz6sRLYhFeCbAcNJS8hm.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Foreign Key",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/foreign-key@DHz6sRLYhFeCbAcNJS8hm.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is a foreign key?",
+              "url": "https://www.cockroachlabs.com/blog/what-is-a-foreign-key/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Foreign Keys are easy (kind of)",
+              "url": "https://www.youtube.com/watch?v=rFssfx37UJw",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs--Hew0y53ziZK3epQnGA0O",
+          "sourceId": "-Hew0y53ziZK3epQnGA0O",
+          "title": "INSERT",
+          "description": "Chủ đề “INSERT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/insert@-Hew0y53ziZK3epQnGA0O.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: INSERT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/insert@-Hew0y53ziZK3epQnGA0O.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL INSERT Statement",
+              "url": "https://www.youtube.com/watch?v=Yp1MKeIG-M4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-KJJ6PYjTnr_3yU2mNPL9v",
+          "sourceId": "KJJ6PYjTnr_3yU2mNPL9v",
+          "title": "UPDATE",
+          "description": "Chủ đề “UPDATE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/update@KJJ6PYjTnr_3yU2mNPL9v.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: UPDATE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/update@KJJ6PYjTnr_3yU2mNPL9v.md",
+              "kind": "source"
+            },
+            {
+              "title": "Efficient column updates in SQL",
+              "url": "https://www.atlassian.com/data/sql/how-to-update-a-column-based-on-a-filter-of-another-column",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zWnvuHJLHr03PWkrW1wZZ",
+          "sourceId": "zWnvuHJLHr03PWkrW1wZZ",
+          "title": "DELETE",
+          "description": "Chủ đề “DELETE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/delete@zWnvuHJLHr03PWkrW1wZZ.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DELETE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/delete@zWnvuHJLHr03PWkrW1wZZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "DELETE",
+              "url": "https://www.w3schools.com/sql/sql_delete.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Zw8IHfCCMSxmVjx5Ho5ff",
+          "sourceId": "Zw8IHfCCMSxmVjx5Ho5ff",
+          "title": "GROUP BY",
+          "description": "Chủ đề “GROUP BY” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/group-by@Zw8IHfCCMSxmVjx5Ho5ff.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: GROUP BY",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/group-by@Zw8IHfCCMSxmVjx5Ho5ff.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL GROUP BY",
+              "url": "https://www.programiz.com/sql/group-by",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Advanced Aggregate Functions in SQL",
+              "url": "https://www.youtube.com/watch?v=nNrgRVIzeHg",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-5yGo8i7eplxtXOD_qfzOs",
+          "sourceId": "5yGo8i7eplxtXOD_qfzOs",
+          "title": "Unique",
+          "description": "Chủ đề “Unique” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/unique@5yGo8i7eplxtXOD_qfzOs.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Unique",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/unique@5yGo8i7eplxtXOD_qfzOs.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL UNIQUE Constraint",
+              "url": "https://www.w3schools.com/sql/sql_unique.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-HhICJpCK5__b-itUoEBES",
+          "sourceId": "HhICJpCK5__b-itUoEBES",
+          "title": "HAVING",
+          "description": "Chủ đề “HAVING” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/having@HhICJpCK5__b-itUoEBES.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: HAVING",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/having@HhICJpCK5__b-itUoEBES.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL HAVING Clause",
+              "url": "https://www.programiz.com/sql/having",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "HAVING Clause",
+              "url": "https://www.youtube.com/watch?v=tYBOMw7Ob8E",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-M4M_-vjM9GNy0NmXZneDA",
+          "sourceId": "M4M_-vjM9GNy0NmXZneDA",
+          "title": "NOT NULL",
+          "description": "Chủ đề “NOT NULL” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/not-null@M4M_-vjM9GNy0NmXZneDA.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: NOT NULL",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/not-null@M4M_-vjM9GNy0NmXZneDA.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL IS NULL and IS NOT NULL",
+              "url": "https://www.programiz.com/sql/is-null-not-null",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "NOT NULL Constraint",
+              "url": "https://www.youtube.com/watch?v=unzHhq82mKU",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-qBios3sZVhcJMpXmj9f7B",
+          "sourceId": "qBios3sZVhcJMpXmj9f7B",
+          "title": "Data Constraints",
+          "description": "Chủ đề “Data Constraints” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-constraints@qBios3sZVhcJMpXmj9f7B.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Constraints",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-constraints@qBios3sZVhcJMpXmj9f7B.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Constraints",
+              "url": "https://www.programiz.com/sql/constraints",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-Q0h9Wfnl_W9ThOkv7Q17A",
+          "sourceId": "Q0h9Wfnl_W9ThOkv7Q17A",
+          "title": "CHECK",
+          "description": "Chủ đề “CHECK” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/check@Q0h9Wfnl_W9ThOkv7Q17A.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CHECK",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/check@Q0h9Wfnl_W9ThOkv7Q17A.md",
+              "kind": "source"
+            },
+            {
+              "title": "CHECK Constraint",
+              "url": "https://www.youtube.com/watch?v=EeG2boJCXbc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-eXQ-TrTlqL5p2AdGnozkL",
+          "sourceId": "eXQ-TrTlqL5p2AdGnozkL",
+          "title": "Scalar",
+          "description": "Chủ đề “Scalar” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/scalar@eXQ-TrTlqL5p2AdGnozkL.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Scalar",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/scalar@eXQ-TrTlqL5p2AdGnozkL.md",
+              "kind": "source"
+            },
+            {
+              "title": "Creating SQL Scalar Functions",
+              "url": "https://www.ibm.com/docs/en/db2/12.1.x?topic=functions-creating-sql-scalar",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Using Scalar SQL to boost performance",
+              "url": "https://www.youtube.com/watch?v=v8X5FGzzc9A",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-wmtt-3auWLdQWuVdwZLPd",
+          "sourceId": "wmtt-3auWLdQWuVdwZLPd",
+          "title": "Column",
+          "description": "Chủ đề “Column” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/column@wmtt-3auWLdQWuVdwZLPd.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Column",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/column@wmtt-3auWLdQWuVdwZLPd.md",
+              "kind": "source"
+            },
+            {
+              "title": "Column Types - PostgreSQL",
+              "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-data-types/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-aLDl75i8gtLRA2Ud-fMmQ",
+          "sourceId": "aLDl75i8gtLRA2Ud-fMmQ",
+          "title": "Row",
+          "description": "Chủ đề “Row” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/row@aLDl75i8gtLRA2Ud-fMmQ.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Row",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/row@aLDl75i8gtLRA2Ud-fMmQ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Row - Database",
+              "url": "https://en.wikipedia.org/wiki/Row_%28database%29",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Database Row: Definition, Examples",
+              "url": "https://www.devx.com/terms/database-row/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-R9WDMRd-3wxsKH97-sT3n",
+          "sourceId": "R9WDMRd-3wxsKH97-sT3n",
+          "title": "Table",
+          "description": "Chủ đề “Table” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/table@R9WDMRd-3wxsKH97-sT3n.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Table",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/table@R9WDMRd-3wxsKH97-sT3n.md",
+              "kind": "source"
+            },
+            {
+              "title": "Table (Database)",
+              "url": "https://en.wikipedia.org/wiki/Table_%28database%29",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Introduction to Tables",
+              "url": "https://support.microsoft.com/en-gb/office/introduction-to-tables-78ff21ea-2f76-4fb0-8af6-c318d1ee0ea7",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-xkPJ2MYiXmzC4yqQWyB_7",
+          "sourceId": "xkPJ2MYiXmzC4yqQWyB_7",
+          "title": "Nested Subqueries",
+          "description": "Chủ đề “Nested Subqueries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/nested-subqueries@xkPJ2MYiXmzC4yqQWyB_7.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Nested Subqueries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/nested-subqueries@xkPJ2MYiXmzC4yqQWyB_7.md",
+              "kind": "source"
+            },
+            {
+              "title": "Nested Subqueries",
+              "url": "https://www.studysmarter.co.uk/explanations/computer-science/databases/nested-subqueries-in-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "MySQL Subqueries",
+              "url": "https://www.youtube.com/watch?v=i5acg3Hvu6g",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-86iZ8s8EdhSuYwgwAM_EO",
+          "sourceId": "86iZ8s8EdhSuYwgwAM_EO",
+          "title": "Subqueries",
+          "description": "Chủ đề “Subqueries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/subqueries@86iZ8s8EdhSuYwgwAM_EO.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Subqueries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/subqueries@86iZ8s8EdhSuYwgwAM_EO.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Sub Queries",
+              "url": "https://www.tutorialspoint.com/sql/sql-sub-queries.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Advanced SQL Tutorial | Subqueries",
+              "url": "https://www.youtube.com/watch?v=m1KcNV-Zhmc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-8V6yw7kLaow-VVcv_K_pL",
+          "sourceId": "8V6yw7kLaow-VVcv_K_pL",
+          "title": "JOIN Queries",
+          "description": "Chủ đề “JOIN Queries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/join-queries@8V6yw7kLaow-VVcv_K_pL.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: JOIN Queries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/join-queries@8V6yw7kLaow-VVcv_K_pL.md",
+              "kind": "source"
+            },
+            {
+              "title": "7 SQL JOIN Examples With Detailed Explanations",
+              "url": "https://learnsql.com/blog/sql-join-examples-with-explanations/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Joins are easy",
+              "url": "https://www.youtube.com/watch?v=G3lJAxg1cy8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-aaua13CkTxLOYXr8cAgPm",
+          "sourceId": "aaua13CkTxLOYXr8cAgPm",
+          "title": "INNER JOIN",
+          "description": "Chủ đề “INNER JOIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/inner-join@aaua13CkTxLOYXr8cAgPm.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: INNER JOIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/inner-join@aaua13CkTxLOYXr8cAgPm.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL INNER JOIN Clause",
+              "url": "https://www.programiz.com/sql/inner-join",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-JZqS3Xapw6mfSPVgFW7av",
+          "sourceId": "JZqS3Xapw6mfSPVgFW7av",
+          "title": "Correlated Subqueries",
+          "description": "Chủ đề “Correlated Subqueries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/correlated-subqueries@JZqS3Xapw6mfSPVgFW7av.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Correlated Subqueries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/correlated-subqueries@JZqS3Xapw6mfSPVgFW7av.md",
+              "kind": "source"
+            },
+            {
+              "title": "Correlated Subqueries",
+              "url": "https://dev.mysql.com/doc/refman/8.4/en/correlated-subqueries.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Intro To Subqueries",
+              "url": "https://www.youtube.com/watch?v=TUxadt94L0M",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-X9cJJ8zLZCF2cOoqxwFfY",
+          "sourceId": "X9cJJ8zLZCF2cOoqxwFfY",
+          "title": "LEFT JOIN",
+          "description": "Chủ đề “LEFT JOIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/left-join@X9cJJ8zLZCF2cOoqxwFfY.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: LEFT JOIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/left-join@X9cJJ8zLZCF2cOoqxwFfY.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL LEFT JOIN - SQL Tutorial",
+              "url": "https://www.youtube.com/watch?v=giKwmtsz1U8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-shpgZkh1CLqUwjOaRtAFy",
+          "sourceId": "shpgZkh1CLqUwjOaRtAFy",
+          "title": "RIGHT JOIN",
+          "description": "Chủ đề “RIGHT JOIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/right-join@shpgZkh1CLqUwjOaRtAFy.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: RIGHT JOIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/right-join@shpgZkh1CLqUwjOaRtAFy.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL RIGHT JOIN With Examples",
+              "url": "https://www.programiz.com/sql/right-join",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-o2SH4iQn1Ap2yDZ7cVYLO",
+          "sourceId": "o2SH4iQn1Ap2yDZ7cVYLO",
+          "title": "FLOOR",
+          "description": "Chủ đề “FLOOR” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/floor@o2SH4iQn1Ap2yDZ7cVYLO.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: FLOOR",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/floor@o2SH4iQn1Ap2yDZ7cVYLO.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to Round in SQL",
+              "url": "https://www.youtube.com/watch?v=AUXw2JRwCFY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-6vYFb_D1N_-tLWZftL-Az",
+          "sourceId": "6vYFb_D1N_-tLWZftL-Az",
+          "title": "ABS",
+          "description": "Chủ đề “ABS” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/abs@6vYFb_D1N_-tLWZftL-Az.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ABS",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/abs@6vYFb_D1N_-tLWZftL-Az.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to compute an absolute value in SQL",
+              "url": "https://www.airops.com/sql-guide/how-to-compute-an-absolute-value-in-sql",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "ABS",
+              "url": "https://www.w3schools.com/sql/func_sqlserver_abs.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-OUw--8zEq6lk5-6oySVHe",
+          "sourceId": "OUw--8zEq6lk5-6oySVHe",
+          "title": "MOD",
+          "description": "Chủ đề “MOD” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/mod@OUw--8zEq6lk5-6oySVHe.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: MOD",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/mod@OUw--8zEq6lk5-6oySVHe.md",
+              "kind": "source"
+            },
+            {
+              "title": "MOD Function in SQL",
+              "url": "https://www.youtube.com/watch?v=f1Rqf7CwjE0",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-5inpEqafeVCfqsURHzQQg",
+          "sourceId": "5inpEqafeVCfqsURHzQQg",
+          "title": "CONCAT",
+          "description": "Chủ đề “CONCAT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/concat@5inpEqafeVCfqsURHzQQg.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CONCAT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/concat@5inpEqafeVCfqsURHzQQg.md",
+              "kind": "source"
+            },
+            {
+              "title": "An overview of the CONCAT function in SQL",
+              "url": "https://www.sqlshack.com/an-overview-of-the-concat-function-in-sql-with-examples/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-RH8DLiQpDUWqw3U1522q5",
+          "sourceId": "RH8DLiQpDUWqw3U1522q5",
+          "title": "LENGTH",
+          "description": "Chủ đề “LENGTH” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/length@RH8DLiQpDUWqw3U1522q5.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: LENGTH",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/length@RH8DLiQpDUWqw3U1522q5.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to Check the Length of a String in SQL",
+              "url": "https://learnsql.com/cookbook/how-to-check-the-length-of-a-string-in-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "MySQL Length Function",
+              "url": "https://www.w3schools.com/sql/func_mysql_length.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-vTMd0bqz4eTgLnhfgY61h",
+          "sourceId": "vTMd0bqz4eTgLnhfgY61h",
+          "title": "Advanced Functions",
+          "description": "Chủ đề “Advanced Functions” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/advanced-functions@vTMd0bqz4eTgLnhfgY61h.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Advanced Functions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/advanced-functions@vTMd0bqz4eTgLnhfgY61h.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-aS5zCyJRA779yHF0G2pje",
+          "sourceId": "aS5zCyJRA779yHF0G2pje",
+          "title": "FULL OUTER JOIN",
+          "description": "Chủ đề “FULL OUTER JOIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/full-outer-join@aS5zCyJRA779yHF0G2pje.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: FULL OUTER JOIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/full-outer-join@aS5zCyJRA779yHF0G2pje.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL FULL OUTER JOIN",
+              "url": "https://www.youtube.com/watch?v=XpBkXo3DCEg",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-9DntFiZV1AyaRPhYP5q6u",
+          "sourceId": "9DntFiZV1AyaRPhYP5q6u",
+          "title": "ROUND",
+          "description": "Chủ đề “ROUND” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/round@9DntFiZV1AyaRPhYP5q6u.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ROUND",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/round@9DntFiZV1AyaRPhYP5q6u.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL ROUND Function: Syntax, Usage, and Examples",
+              "url": "https://mimo.org/glossary/sql/round",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-BAqJQvcguhIhzyII5LRH6",
+          "sourceId": "BAqJQvcguhIhzyII5LRH6",
+          "title": "CEILING",
+          "description": "Chủ đề “CEILING” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/ceiling@BAqJQvcguhIhzyII5LRH6.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CEILING",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/ceiling@BAqJQvcguhIhzyII5LRH6.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL CEILING",
+              "url": "https://www.w3schools.com/sql/func_sqlserver_ceiling.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-PnG_5D6q66NAKxXVOwA6N",
+          "sourceId": "PnG_5D6q66NAKxXVOwA6N",
+          "title": "SUBSTRING",
+          "description": "Chủ đề “SUBSTRING” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/substring@PnG_5D6q66NAKxXVOwA6N.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SUBSTRING",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/substring@PnG_5D6q66NAKxXVOwA6N.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL SUBSTRING",
+              "url": "https://www.w3schools.com/sql/func_sqlserver_substring.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Advanced SQL Tutorial | String Functions + Use Cases",
+              "url": "https://www.youtube.com/watch?v=GQj6_6V_jVA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-VNbb3YPc0FtrROylRns8h",
+          "sourceId": "VNbb3YPc0FtrROylRns8h",
+          "title": "REPLACE",
+          "description": "Chủ đề “REPLACE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/replace@VNbb3YPc0FtrROylRns8h.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: REPLACE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/replace@VNbb3YPc0FtrROylRns8h.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL REPLACE Function: Syntax, Usage, and Examples",
+              "url": "https://mimo.org/glossary/sql/replace-function",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-6qG0AVYd6Y1B8LOSDoMX9",
+          "sourceId": "6qG0AVYd6Y1B8LOSDoMX9",
+          "title": "Self Join",
+          "description": "Chủ đề “Self Join” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/self-join@6qG0AVYd6Y1B8LOSDoMX9.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Self Join",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/self-join@6qG0AVYd6Y1B8LOSDoMX9.md",
+              "kind": "source"
+            },
+            {
+              "title": "Understanding the Self Joins in SQL",
+              "url": "https://www.dbvis.com/thetable/understanding-self-joins-in-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL self joins",
+              "url": "https://www.w3schools.com/sql/sql_join_self.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Othfo7NvTVzfyL906PLM1",
+          "sourceId": "Othfo7NvTVzfyL906PLM1",
+          "title": "UPPER",
+          "description": "Chủ đề “UPPER” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/upper@Othfo7NvTVzfyL906PLM1.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: UPPER",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/upper@Othfo7NvTVzfyL906PLM1.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to Convert a String to Uppercase in SQL",
+              "url": "https://learnsql.com/cookbook/how-to-convert-a-string-to-uppercase-in-sql/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-knTG6pAq2mYP24WMa29xI",
+          "sourceId": "knTG6pAq2mYP24WMa29xI",
+          "title": "LOWER",
+          "description": "Chủ đề “LOWER” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lower@knTG6pAq2mYP24WMa29xI.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: LOWER",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lower@knTG6pAq2mYP24WMa29xI.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to change text to lowercase in SQL",
+              "url": "https://learnsql.com/cookbook/how-to-change-text-to-lowercase-in-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "LOWER Function",
+              "url": "https://www.w3schools.com/sql/func_sqlserver_lower.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-7ow6tiSSCnTpv_GYQU017",
+          "sourceId": "7ow6tiSSCnTpv_GYQU017",
+          "title": "Cross Join",
+          "description": "Chủ đề “Cross Join” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/cross-join@7ow6tiSSCnTpv_GYQU017.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Cross Join",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/cross-join@7ow6tiSSCnTpv_GYQU017.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL CROSS JOIN With Examples",
+              "url": "https://www.sqlshack.com/sql-cross-join-with-examples/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-W2ePJHdfEiEJ3ZKoRQKt_",
+          "sourceId": "W2ePJHdfEiEJ3ZKoRQKt_",
+          "title": "CASE",
+          "description": "Chủ đề “CASE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/case@W2ePJHdfEiEJ3ZKoRQKt_.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CASE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/case@W2ePJHdfEiEJ3ZKoRQKt_.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL CASE - Intermediate SQL",
+              "url": "https://mode.com/sql-tutorial/sql-case",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-KI6vngoYcHsnpIk8ErhhS",
+          "sourceId": "KI6vngoYcHsnpIk8ErhhS",
+          "title": "NULLIF",
+          "description": "Chủ đề “NULLIF” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/nullif@KI6vngoYcHsnpIk8ErhhS.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: NULLIF",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/nullif@KI6vngoYcHsnpIk8ErhhS.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is NULLIF in SQL?",
+              "url": "https://www.youtube.com/watch?v=Jaw53T__RRY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-2tyezwOIxV6O84N-Q3Awh",
+          "sourceId": "2tyezwOIxV6O84N-Q3Awh",
+          "title": "Views",
+          "description": "Chủ đề “Views” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/views@2tyezwOIxV6O84N-Q3Awh.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Views",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/views@2tyezwOIxV6O84N-Q3Awh.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Views Tutorial",
+              "url": "https://www.youtube.com/watch?v=cLSxasHg9WY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-k7lZe4QRt9q4InUImFmvx",
+          "sourceId": "k7lZe4QRt9q4InUImFmvx",
+          "title": "COALESCE",
+          "description": "Chủ đề “COALESCE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/coalesce@k7lZe4QRt9q4InUImFmvx.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: COALESCE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/coalesce@k7lZe4QRt9q4InUImFmvx.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to use the COALESCE function in SQL",
+              "url": "https://learnsql.com/blog/coalesce-function-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "COALESCE - PostgreSQL",
+              "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-coalesce/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-NtxGd6Vx-REBclry7lZuE",
+          "sourceId": "NtxGd6Vx-REBclry7lZuE",
+          "title": "Managing Indexes",
+          "description": "Chủ đề “Managing Indexes” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/managing-indexes@NtxGd6Vx-REBclry7lZuE.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Managing Indexes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/managing-indexes@NtxGd6Vx-REBclry7lZuE.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Server Indexes",
+              "url": "https://www.sqlservercentral.com/articles/introduction-to-indexes",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Optimize index maintenance",
+              "url": "https://learn.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver16",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Ivqo2wa-_NhGU3vGd0pUI",
+          "sourceId": "Ivqo2wa-_NhGU3vGd0pUI",
+          "title": "DATE",
+          "description": "Chủ đề “DATE” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/date@Ivqo2wa-_NhGU3vGd0pUI.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DATE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/date@Ivqo2wa-_NhGU3vGd0pUI.md",
+              "kind": "source"
+            },
+            {
+              "title": "Working with Dates",
+              "url": "https://www.youtube.com/watch?v=XyZ9HwXoR7o",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-88KlrMqSza9_YaD7Dv61p",
+          "sourceId": "88KlrMqSza9_YaD7Dv61p",
+          "title": "TIME",
+          "description": "Chủ đề “TIME” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/time@88KlrMqSza9_YaD7Dv61p.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: TIME",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/time@88KlrMqSza9_YaD7Dv61p.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-PcsGK4VBh0zNQIPZvNES4",
+          "sourceId": "PcsGK4VBh0zNQIPZvNES4",
+          "title": "Creating Views",
+          "description": "Chủ đề “Creating Views” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/creating-views@PcsGK4VBh0zNQIPZvNES4.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Creating Views",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/creating-views@PcsGK4VBh0zNQIPZvNES4.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to create a view in SQL",
+              "url": "https://www.sqlshack.com/how-to-create-a-view-in-sql-server/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Views in 4 minutes",
+              "url": "https://www.youtube.com/watch?v=vLLkNI-vkV8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Ps9Yv2s-bKvEegGAbPsiA",
+          "sourceId": "Ps9Yv2s-bKvEegGAbPsiA",
+          "title": "Query Optimization",
+          "description": "Chủ đề “Query Optimization” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/query-optimization@Ps9Yv2s-bKvEegGAbPsiA.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Query Optimization",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/query-optimization@Ps9Yv2s-bKvEegGAbPsiA.md",
+              "kind": "source"
+            },
+            {
+              "title": "12 Ways to Optimize SQL Queries",
+              "url": "https://www.developernation.net/blog/12-ways-to-optimize-sql-queries-in-database-management/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Query Optimization",
+              "url": "https://www.youtube.com/watch?v=GA8SaXDLdsY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-7hEqkoxkdAWmakGZsMJx-",
+          "sourceId": "7hEqkoxkdAWmakGZsMJx-",
+          "title": "TIMESTAMP",
+          "description": "Chủ đề “TIMESTAMP” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/timestamp@7hEqkoxkdAWmakGZsMJx-.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: TIMESTAMP",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/timestamp@7hEqkoxkdAWmakGZsMJx-.md",
+              "kind": "source"
+            },
+            {
+              "title": "Different SQL TimeStamp functions in SQL Server",
+              "url": "https://www.sqlshack.com/different-sql-timestamp-functions-in-sql-server/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3eE-l-P93nOXoWfLr8PSW",
+          "sourceId": "3eE-l-P93nOXoWfLr8PSW",
+          "title": "Modifying Views",
+          "description": "Chủ đề “Modifying Views” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/modifying-views@3eE-l-P93nOXoWfLr8PSW.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Modifying Views",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/modifying-views@3eE-l-P93nOXoWfLr8PSW.md",
+              "kind": "source"
+            },
+            {
+              "title": "Modify Views in SQL Server",
+              "url": "https://www.sqlshack.com/create-view-sql-modifying-views-in-sql-server/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL VIEWs in 4 Minutes",
+              "url": "https://www.youtube.com/watch?v=vLLkNI-vkV8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-BJ4fQvagTO0B5UtXblyx8",
+          "sourceId": "BJ4fQvagTO0B5UtXblyx8",
+          "title": "DATEPART",
+          "description": "Chủ đề “DATEPART” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/datepart@BJ4fQvagTO0B5UtXblyx8.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DATEPART",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/datepart@BJ4fQvagTO0B5UtXblyx8.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL DATEPART",
+              "url": "https://hightouch.com/sql-dictionary/sql-datepart",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-1E1WdWOyqxbbdiIbw26dZ",
+          "sourceId": "1E1WdWOyqxbbdiIbw26dZ",
+          "title": "DATEADD",
+          "description": "Chủ đề “DATEADD” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dateadd@1E1WdWOyqxbbdiIbw26dZ.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DATEADD",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dateadd@1E1WdWOyqxbbdiIbw26dZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "DATEADD",
+              "url": "https://www.mssqltips.com/sqlservertutorial/9380/sql-dateadd-function/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "DATEADD Function",
+              "url": "https://www.youtube.com/watch?v=DYCWOzzOycU",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-MIOuWWcCjLAmgzog2DBC3",
+          "sourceId": "MIOuWWcCjLAmgzog2DBC3",
+          "title": "Dropping Views",
+          "description": "Chủ đề “Dropping Views” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dropping-views@MIOuWWcCjLAmgzog2DBC3.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Dropping Views",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dropping-views@MIOuWWcCjLAmgzog2DBC3.md",
+              "kind": "source"
+            },
+            {
+              "title": "DROP VIEW",
+              "url": "https://study.com/academy/lesson/sql-drop-view-tutorial-overview.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "DROP or DELETE a View",
+              "url": "https://www.tutorialspoint.com/sql/sql-drop-view.htm",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-LcljR70T-OnzSrJJDqOWf",
+          "sourceId": "LcljR70T-OnzSrJJDqOWf",
+          "title": "Indexes",
+          "description": "Chủ đề “Indexes” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/indexes@LcljR70T-OnzSrJJDqOWf.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Indexes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/indexes@LcljR70T-OnzSrJJDqOWf.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Indexing Best Practices",
+              "url": "https://www.youtube.com/watch?v=BIlFTFrEFOI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-mBQ3Z8GlFcpIena3IB7D_",
+          "sourceId": "mBQ3Z8GlFcpIena3IB7D_",
+          "title": "Data Integrity Constraints",
+          "description": "Chủ đề “Data Integrity Constraints” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-integrity-constraints@mBQ3Z8GlFcpIena3IB7D_.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Integrity Constraints",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-integrity-constraints@mBQ3Z8GlFcpIena3IB7D_.md",
+              "kind": "source"
+            },
+            {
+              "title": "Integrity Constraints in DBMS: Key to Database Quality",
+              "url": "https://www.theknowledgeacademy.com/blog/integrity-constraints-in-dbms/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ujeq8EIFcrqkBjoFizsJM",
+          "sourceId": "ujeq8EIFcrqkBjoFizsJM",
+          "title": "Transaction Isolation Levels",
+          "description": "Chủ đề “Transaction Isolation Levels” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/transaction-isolation-levels@ujeq8EIFcrqkBjoFizsJM.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Transaction Isolation Levels",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/transaction-isolation-levels@ujeq8EIFcrqkBjoFizsJM.md",
+              "kind": "source"
+            },
+            {
+              "title": "Everything you always wanted to know about SQL isolation levels",
+              "url": "https://www.cockroachlabs.com/blog/sql-isolation-levels-explained/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Isolation Levels in SQL Server",
+              "url": "https://www.sqlservercentral.com/articles/isolation-levels-in-sql-server",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-w7FNjdwqjY7X69aJqqBy4",
+          "sourceId": "w7FNjdwqjY7X69aJqqBy4",
+          "title": "Stored Procedures & Functions",
+          "description": "Chủ đề “Stored Procedures & Functions” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/stored-procedures--functions@w7FNjdwqjY7X69aJqqBy4.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Stored Procedures & Functions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/stored-procedures--functions@w7FNjdwqjY7X69aJqqBy4.md",
+              "kind": "source"
+            },
+            {
+              "title": "Stored Procedure vs Functions",
+              "url": "https://www.shiksha.com/online-courses/articles/stored-procedure-vs-function-what-are-the-differences/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-R1ktDJpXOz0PTllAcBrdu",
+          "sourceId": "R1ktDJpXOz0PTllAcBrdu",
+          "title": "Data Integrity & Security",
+          "description": "Chủ đề “Data Integrity & Security” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-integrity--security@R1ktDJpXOz0PTllAcBrdu.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Integrity & Security",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/data-integrity--security@R1ktDJpXOz0PTllAcBrdu.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-OdaBXz2XBAVLsQ-m7xtAM",
+          "sourceId": "OdaBXz2XBAVLsQ-m7xtAM",
+          "title": "Transactions",
+          "description": "Chủ đề “Transactions” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/transactions@OdaBXz2XBAVLsQ-m7xtAM.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Transactions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/transactions@OdaBXz2XBAVLsQ-m7xtAM.md",
+              "kind": "source"
+            },
+            {
+              "title": "Transactions",
+              "url": "https://www.tutorialspoint.com/sql/sql-transactions.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "A Guide to ACID Properties in Database Management Systems",
+              "url": "https://www.mongodb.com/resources/basics/databases/acid-transactions",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-03qMopxzjx_-dZbYw9b7J",
+          "sourceId": "03qMopxzjx_-dZbYw9b7J",
+          "title": "GRANT and Revoke",
+          "description": "Chủ đề “GRANT and Revoke” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/grant-and-revoke@03qMopxzjx_-dZbYw9b7J.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: GRANT and Revoke",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/grant-and-revoke@03qMopxzjx_-dZbYw9b7J.md",
+              "kind": "source"
+            },
+            {
+              "title": "GRANT",
+              "url": "https://www.ibm.com/docs/en/qmf/13.1.3?topic=SS9UMF_13.1.3/igm/igm/tpc/dsq_priv_sql_grant.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "REVOKE",
+              "url": "https://www.ibm.com/docs/en/qmf/13.1.3?topic=SS9UMF_13.1.3/igm/igm/tpc/dsq_priv_sql_revoke.htm",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-igg34gLPl3HYVAmRNFGcV",
+          "sourceId": "igg34gLPl3HYVAmRNFGcV",
+          "title": "ACID",
+          "description": "Chủ đề “ACID” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/acid@igg34gLPl3HYVAmRNFGcV.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ACID",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/acid@igg34gLPl3HYVAmRNFGcV.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is ACID Compliant Database?",
+              "url": "https://retool.com/blog/whats-an-acid-compliant-database/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "ACID Explained: Atomic, Consistent, Isolated & Durable",
+              "url": "https://www.youtube.com/watch?v=yaQ5YMWkxq4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-7sTW1vwUhCFOMXYjScVEt",
+          "sourceId": "7sTW1vwUhCFOMXYjScVEt",
+          "title": "BEGIN",
+          "description": "Chủ đề “BEGIN” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/begin@7sTW1vwUhCFOMXYjScVEt.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: BEGIN",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/begin@7sTW1vwUhCFOMXYjScVEt.md",
+              "kind": "source"
+            },
+            {
+              "title": "BEGIN...END Statement",
+              "url": "https://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc00801.1510/html/iqrefso/BABFBJAB.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL 'BEGIN' & 'END' Statements",
+              "url": "https://reintech.io/blog/understanding-sql-begin-end-statements-guide",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-vhBZqqmUcEon6-Vwvla4q",
+          "sourceId": "vhBZqqmUcEon6-Vwvla4q",
+          "title": "DB Security Best Practices",
+          "description": "Chủ đề “DB Security Best Practices” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/db-security-best-practices@vhBZqqmUcEon6-Vwvla4q.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: DB Security Best Practices",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/db-security-best-practices@vhBZqqmUcEon6-Vwvla4q.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is database security?",
+              "url": "https://www.ibm.com/think/topics/database-security",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3cMECz5QPVDOFrk5duObs",
+          "sourceId": "3cMECz5QPVDOFrk5duObs",
+          "title": "COMMIT",
+          "description": "Chủ đề “COMMIT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/commit@3cMECz5QPVDOFrk5duObs.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: COMMIT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/commit@3cMECz5QPVDOFrk5duObs.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL COMMIT and ROLLBACK",
+              "url": "https://www.digitalocean.com/community/tutorials/sql-commit-sql-rollback",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-cucCPw3KfetAP2OMFUs0X",
+          "sourceId": "cucCPw3KfetAP2OMFUs0X",
+          "title": "rank",
+          "description": "Chủ đề “rank” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rank@cucCPw3KfetAP2OMFUs0X.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: rank",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rank@cucCPw3KfetAP2OMFUs0X.md",
+              "kind": "source"
+            },
+            {
+              "title": "Overview of SQL RANK Functions",
+              "url": "https://www.sqlshack.com/overview-of-sql-rank-functions/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "RANK, DENSE_RANK, ROW_NUMBER SQL Analytical Functions Simplified",
+              "url": "https://www.youtube.com/watch?v=xMWEVFC4FOk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-xbD67KVlt3UhHpKh8HLx8",
+          "sourceId": "xbD67KVlt3UhHpKh8HLx8",
+          "title": "ROLLBACK",
+          "description": "Chủ đề “ROLLBACK” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rollback@xbD67KVlt3UhHpKh8HLx8.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ROLLBACK",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/rollback@xbD67KVlt3UhHpKh8HLx8.md",
+              "kind": "source"
+            },
+            {
+              "title": "Difference between COMMIT and ROLLBACK in SQL",
+              "url": "https://byjus.com/gate/difference-between-commit-and-rollback-in-sql/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to undo a mistake a in SQL: Rollback and Commit",
+              "url": "https://www.youtube.com/watch?v=jomsdMLiIZM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-QM0ltgPu8lLLYc2MsTLj-",
+          "sourceId": "QM0ltgPu8lLLYc2MsTLj-",
+          "title": "dense_rank",
+          "description": "Chủ đề “dense_rank” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dense_rank@QM0ltgPu8lLLYc2MsTLj-.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: dense_rank",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dense_rank@QM0ltgPu8lLLYc2MsTLj-.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL DENSE_RANK",
+              "url": "https://www.sqltutorial.org/sql-window-functions/sql-dense_rank/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Breaking Down DENSE_RANK",
+              "url": "https://www.kdnuggets.com/breaking-down-denserank-a-step-by-step-guide-for-sql-enthusiasts",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-4rqCPpTb0dAgpheBKshRG",
+          "sourceId": "4rqCPpTb0dAgpheBKshRG",
+          "title": "Performance Optimization",
+          "description": "Chủ đề “Performance Optimization” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/performance-optimization@4rqCPpTb0dAgpheBKshRG.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Performance Optimization",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/performance-optimization@4rqCPpTb0dAgpheBKshRG.md",
+              "kind": "source"
+            },
+            {
+              "title": "Performance Tuning SQL Queries",
+              "url": "https://mode.com/sql-tutorial/sql-performance-tuning",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL performance tuning",
+              "url": "https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-pJtYvXUo81aZfPuRjIbMq",
+          "sourceId": "pJtYvXUo81aZfPuRjIbMq",
+          "title": "SAVEPOINT",
+          "description": "Chủ đề “SAVEPOINT” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/savepoint@pJtYvXUo81aZfPuRjIbMq.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SAVEPOINT",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/savepoint@pJtYvXUo81aZfPuRjIbMq.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL SAVEPOINT",
+              "url": "https://www.ibm.com/docs/pl/informix-servers/12.10?topic=statements-savepoint-statement",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "DBMS - Save Point",
+              "url": "https://www.youtube.com/watch?v=30ldSUkswGM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-aJJjaGunRrwyh9MjQfJt-",
+          "sourceId": "aJJjaGunRrwyh9MjQfJt-",
+          "title": "lead",
+          "description": "Chủ đề “lead” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lead@aJJjaGunRrwyh9MjQfJt-.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: lead",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lead@aJJjaGunRrwyh9MjQfJt-.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL LEAD",
+              "url": "https://www.codecademy.com/resources/docs/sql/window-functions/lead",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "LAG and LEAD Window Functions in SQL",
+              "url": "https://www.youtube.com/watch?v=nHEEyX_yDvo",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-BcXdxY6bld5c0YNFSKkh-",
+          "sourceId": "BcXdxY6bld5c0YNFSKkh-",
+          "title": "lag",
+          "description": "Chủ đề “lag” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lag@BcXdxY6bld5c0YNFSKkh-.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: lag",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/lag@BcXdxY6bld5c0YNFSKkh-.md",
+              "kind": "source"
+            },
+            {
+              "title": "LAG and LEAD functions",
+              "url": "https://www.youtube.com/watch?v=j2u52RQ0qlw",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zW27ZHdLwQY-85iqbBKQZ",
+          "sourceId": "zW27ZHdLwQY-85iqbBKQZ",
+          "title": "row_number",
+          "description": "Chủ đề “row_number” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/row_number@zW27ZHdLwQY-85iqbBKQZ.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: row_number",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/row_number@zW27ZHdLwQY-85iqbBKQZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL ROW_NUMBER",
+              "url": "https://www.sqltutorial.org/sql-window-functions/sql-row_number/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Use ROW_NUMBER OVER() in SQL to Rank Data",
+              "url": "https://learnsql.com/blog/row-number-over-in-sql/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-C6P69YiFdS-ioPXMNfX07",
+          "sourceId": "C6P69YiFdS-ioPXMNfX07",
+          "title": "Query Analysis Techniques",
+          "description": "Chủ đề “Query Analysis Techniques” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/query-analysis-techniques@C6P69YiFdS-ioPXMNfX07.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Query Analysis Techniques",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/query-analysis-techniques@C6P69YiFdS-ioPXMNfX07.md",
+              "kind": "source"
+            },
+            {
+              "title": "EXPLAIN",
+              "url": "https://docs.snowflake.com/en/sql-reference/sql/explain",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "EXPLAIN PLAN",
+              "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/EXPLAIN-PLAN.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Xp6G2Us7Y6LeKoYQh_AKl",
+          "sourceId": "Xp6G2Us7Y6LeKoYQh_AKl",
+          "title": "first_value",
+          "description": "Chủ đề “first_value” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://roadmap.sh/sql",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: first_value",
+              "url": "https://roadmap.sh/sql",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-9wOgP0i9G4HSeZGn2Gm7r",
+          "sourceId": "9wOgP0i9G4HSeZGn2Gm7r",
+          "title": "Using Indexes",
+          "description": "Chủ đề “Using Indexes” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/using-indexes@9wOgP0i9G4HSeZGn2Gm7r.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Using Indexes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/using-indexes@9wOgP0i9G4HSeZGn2Gm7r.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is an index in SQL?",
+              "url": "https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Indexes - Definition, Examples, and Tips",
+              "url": "https://www.youtube.com/watch?v=NZgfYbAmge8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-C0dhS6uLf4TUSfvcWyXhv",
+          "sourceId": "C0dhS6uLf4TUSfvcWyXhv",
+          "title": "Optimizing Joins",
+          "description": "Chủ đề “Optimizing Joins” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/optimizing-joins@C0dhS6uLf4TUSfvcWyXhv.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Optimizing Joins",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/optimizing-joins@C0dhS6uLf4TUSfvcWyXhv.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to Optimize a SQL Query with Multiple Joins",
+              "url": "https://dezbor.com/blog/optimize-sql-query-with-multiple-joins",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Secret to optimizing SQL queries",
+              "url": "https://www.youtube.com/watch?v=BHwzDmr6d7s",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-tBvXLLp5FKeSSN35Kj1X4",
+          "sourceId": "tBvXLLp5FKeSSN35Kj1X4",
+          "title": "Window Functions",
+          "description": "Chủ đề “Window Functions” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/window-functions@tBvXLLp5FKeSSN35Kj1X4.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Window Functions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/window-functions@tBvXLLp5FKeSSN35Kj1X4.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL Window Functions",
+              "url": "https://mode.com/sql-tutorial/sql-window-functions",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL Window Functions in 10 Minutes",
+              "url": "https://www.youtube.com/watch?v=y1KCM8vbYe4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-UVTgbZrqpbYl1bQvQejcF",
+          "sourceId": "UVTgbZrqpbYl1bQvQejcF",
+          "title": "Reducing Subqueries",
+          "description": "Chủ đề “Reducing Subqueries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/reducing-subqueries@UVTgbZrqpbYl1bQvQejcF.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Reducing Subqueries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/reducing-subqueries@UVTgbZrqpbYl1bQvQejcF.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-TjgwabhEtaSoYMLNr6q9l",
+          "sourceId": "TjgwabhEtaSoYMLNr6q9l",
+          "title": "Recursive Queries",
+          "description": "Chủ đề “Recursive Queries” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/recursive-queries@TjgwabhEtaSoYMLNr6q9l.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Recursive Queries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/recursive-queries@TjgwabhEtaSoYMLNr6q9l.md",
+              "kind": "source"
+            },
+            {
+              "title": "Recursive Queries in SQL",
+              "url": "https://codedamn.com/news/sql/recursive-queries-in-sql",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Recursive SQL Expression Visually Explained",
+              "url": "https://builtin.com/data-science/recursive-sql",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-w53CSY53nAAN0ux-XeJ4c",
+          "sourceId": "w53CSY53nAAN0ux-XeJ4c",
+          "title": "Selective Projection",
+          "description": "Chủ đề “Selective Projection” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/selective-projection@w53CSY53nAAN0ux-XeJ4c.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Selective Projection",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/selective-projection@w53CSY53nAAN0ux-XeJ4c.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-UDqbT1y-YzBrljfKSz_RG",
+          "sourceId": "UDqbT1y-YzBrljfKSz_RG",
+          "title": "Advanced SQL",
+          "description": "Chủ đề “Advanced SQL” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/advanced-sql@UDqbT1y-YzBrljfKSz_RG.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Advanced SQL",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/advanced-sql@UDqbT1y-YzBrljfKSz_RG.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-nwFaz9i-1s0WVrVaFsoqb",
+          "sourceId": "nwFaz9i-1s0WVrVaFsoqb",
+          "title": "Pivot / Unpivot Operations",
+          "description": "Chủ đề “Pivot / Unpivot Operations” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/pivot--unpivot-operations@nwFaz9i-1s0WVrVaFsoqb.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pivot / Unpivot Operations",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/pivot--unpivot-operations@nwFaz9i-1s0WVrVaFsoqb.md",
+              "kind": "source"
+            },
+            {
+              "title": "SQL PIVOT",
+              "url": "https://builtin.com/articles/sql-pivot",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SQL UNPIVOT",
+              "url": "https://duckdb.org/docs/sql/statements/unpivot.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-tedQynR0xicVKhuR1oahw",
+          "sourceId": "tedQynR0xicVKhuR1oahw",
+          "title": "Common Table Expressions",
+          "description": "Chủ đề “Common Table Expressions” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/common-table-expressions@tedQynR0xicVKhuR1oahw.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Common Table Expressions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/common-table-expressions@tedQynR0xicVKhuR1oahw.md",
+              "kind": "source"
+            },
+            {
+              "title": "Common Table Expressions (CTEs)",
+              "url": "https://hightouch.com/sql-dictionary/sql-common-table-expression-cte",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What is a Common Table Expression?",
+              "url": "https://learnsql.com/blog/what-is-common-table-expression/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-z5Sf0VU14ZCQ80kL1qOqc",
+          "sourceId": "z5Sf0VU14ZCQ80kL1qOqc",
+          "title": "Dynamic SQL",
+          "description": "Chủ đề “Dynamic SQL” trong {'card': 'SQL', 'page': 'SQL Roadmap', '_id': '6a9931beaca636c6b9e98d48'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dynamic-sql@z5Sf0VU14ZCQ80kL1qOqc.md",
+          "reference": "https://roadmap.sh/sql",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Dynamic SQL",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/sql/content/dynamic-sql@z5Sf0VU14ZCQ80kL1qOqc.md",
+              "kind": "source"
+            },
+            {
+              "title": "Dynamic SQL in SQL Server",
+              "url": "https://www.sqlshack.com/dynamic-sql-in-sql-server/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Dynamic SQL",
+              "url": "https://www.youtube.com/watch?v=01LZMCotcpY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "uAWe6RysRWSe8PqyYQKKX",
+        "type": "vertical",
+        "x": 92.75,
+        "y": 1827.8,
+        "width": 21,
+        "height": 101
+      },
+      {
+        "id": "GEdhZU9WflZsSbHIAL6Y8",
+        "type": "section",
+        "x": -599.97,
+        "y": 1805.46,
+        "width": 272,
+        "height": 270
+      },
+      {
+        "id": "hWk-3dRw9XQyHpc9_oxet",
+        "type": "vertical",
+        "x": -111.76,
+        "y": 1372.43,
+        "width": 21,
+        "height": 167
+      },
+      {
+        "id": "bxQ-MepnAll0CkNFpqeJA",
+        "type": "vertical",
+        "x": 244.59,
+        "y": 1372.43,
+        "width": 21,
+        "height": 167
+      },
+      {
+        "id": "V800FmJL7JvYLHj_s6Qpe",
+        "type": "vertical",
+        "x": 368.95,
+        "y": 1461.43,
+        "width": 21,
+        "height": 78
+      },
+      {
+        "id": "XeLCXJ5VfwHrIFGqcB8QH",
+        "type": "vertical",
+        "x": 335.47,
+        "y": 1208.38,
+        "width": 21,
+        "height": 95
+      },
+      {
+        "id": "eyqdjMFVONWDshElnh-fS",
+        "type": "section",
+        "x": -314.25,
+        "y": 1122.88,
+        "width": 219,
+        "height": 196
+      },
+      {
+        "id": "5iMBYXe8Al0ZeiRBnJ-cn",
+        "type": "vertical",
+        "x": -193.26,
+        "y": 821.89,
+        "width": 21,
+        "height": 287
+      },
+      {
+        "id": "H-11E5G6rdTKj3k7PK12l",
+        "type": "section",
+        "x": -612.75,
+        "y": 1124.73,
+        "width": 244,
+        "height": 216
+      },
+      {
+        "id": "6FdHTzqQwJqR4czP5qXAY",
+        "type": "section",
+        "x": -45.25,
+        "y": 897.73,
+        "width": 239,
+        "height": 160
+      },
+      {
+        "id": "nSShTLakj1E_JAHdcsfe4",
+        "type": "section",
+        "x": -45.25,
+        "y": 1051.89,
+        "width": 239,
+        "height": 163
+      },
+      {
+        "id": "OPT7zGno_ghrrj4dAUKaW",
+        "type": "horizontal",
+        "x": -369.75,
+        "y": 967.73,
+        "width": 96,
+        "height": 20
+      },
+      {
+        "id": "vVvwzfWSzMXhGop1nX_9k",
+        "type": "section",
+        "x": -612.75,
+        "y": 914.23,
+        "width": 244,
+        "height": 214
+      },
+      {
+        "id": "BZD3zEjZNwFZN5Erp2UwN",
+        "type": "vertical",
+        "x": -193.26,
+        "y": 749.05,
+        "width": 21,
+        "height": 78
+      },
+      {
+        "id": "WigElh37ztiRYRstQR9NE",
+        "type": "section",
+        "x": -615.25,
+        "y": 697.23,
+        "width": 318,
+        "height": 73
+      },
+      {
+        "id": "tUokjJrzZ4hp8c6f7iBI0",
+        "type": "horizontal",
+        "x": 90.45,
+        "y": 807.39,
+        "width": 139,
+        "height": 20
+      },
+      {
+        "id": "Zr7u2K8_wGkPwWzTvSJJu",
+        "type": "horizontal",
+        "x": 117.45,
+        "y": 662.39,
+        "width": 139,
+        "height": 20
+      },
+      {
+        "id": "zO8ETJn55ShzPf8ifDqO2",
+        "type": "horizontal",
+        "x": -271.26,
+        "y": 295.3,
+        "width": 226,
+        "height": 20
+      },
+      {
+        "id": "80OaUGoB4961Qak9JZ7sS",
+        "type": "vertical",
+        "x": 147.03,
+        "y": 300.8,
+        "width": 21,
+        "height": 104
+      },
+      {
+        "id": "6yiWcpPgkAuYFZlDGlM1P",
+        "type": "vertical",
+        "x": 147.03,
+        "y": 171.52,
+        "width": 21,
+        "height": 144
+      },
+      {
+        "id": "vpSPxfiH2jcZiDF4glMnG",
+        "type": "vertical",
+        "x": 348.95,
+        "y": 171.52,
+        "width": 21,
+        "height": 111
+      },
+      {
+        "id": "7YsPMUciWuosgKwI9YJrI",
+        "type": "section",
+        "x": -611.89,
+        "y": 213.52,
+        "width": 233,
+        "height": 164
+      },
+      {
+        "id": "LEijbLyxg4RyutKEM2Y5g",
+        "type": "vertical",
+        "x": -114.17,
+        "y": -227.77,
+        "width": 21,
+        "height": 76
+      },
+      {
+        "id": "xwpc_KxehAruFM0pCQnie",
+        "type": "vertical",
+        "x": -178.83,
+        "y": 2309.64,
+        "width": 21,
+        "height": 104
+      },
+      {
+        "id": "R9DQNc0AyAQ2HLpP4HOk6",
+        "type": "subtopic",
+        "x": 130.9,
+        "y": -41.63,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "fNTb9y3zs1HPYclAmu_Wv",
+        "type": "subtopic",
+        "x": 130.9,
+        "y": 11.37,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "nhUKKWyBH80nyKfGT8ErC",
+        "type": "topic",
+        "x": -227.17,
+        "y": 13.44,
+        "width": 247,
+        "height": 49
+      },
+      {
+        "id": "gx4KaFqKgJX9n9_ZGMqlZ",
+        "type": "subtopic",
+        "x": 130.9,
+        "y": 64.37,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "JDDG4KfhtIlw1rkNCzUli",
+        "type": "topic",
+        "x": -227.17,
+        "y": 159.23,
+        "width": 247,
+        "height": 50
+      },
+      {
+        "id": "6yoo7qC6X2jYDIjd3HIm7",
+        "type": "subtopic",
+        "x": -611.92,
+        "y": 50.23,
+        "width": 233,
+        "height": 49
+      },
+      {
+        "id": "tBzMDfCMh6MIagNaxCzin",
+        "type": "subtopic",
+        "x": -611.92,
+        "y": 103.23,
+        "width": 233,
+        "height": 53
+      },
+      {
+        "id": "ffwniprGJHZzJ7t3lQcXz",
+        "type": "subtopic",
+        "x": -611.92,
+        "y": 160.23,
+        "width": 233,
+        "height": 49
+      },
+      {
+        "id": "rmqXH29n1oXtZ8tvmcRFn",
+        "type": "subtopic",
+        "x": -601.68,
+        "y": 223.52,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "mPj6BiK5FKKkIQ9WsWEo6",
+        "type": "subtopic",
+        "x": -497.61,
+        "y": 223.52,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "eu9dJFi6gBPMBdy08Y5Bb",
+        "type": "subtopic",
+        "x": -497.61,
+        "y": 276.52,
+        "width": 108,
+        "height": 49
+      },
+      {
+        "id": "ddtVaA4Ls6qRj-7OtTSIH",
+        "type": "subtopic",
+        "x": -601.68,
+        "y": 276.52,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "91OF3VQdzsu_YPsT6zrVT",
+        "type": "label",
+        "x": -548.89,
+        "y": 336.52,
+        "width": 104,
+        "height": 36,
+        "label": "Statements"
+      },
+      {
+        "id": "xPOeXK1EPBNG56vgfG-VV",
+        "type": "topic",
+        "x": 118.9,
+        "y": 159.73,
+        "width": 323,
+        "height": 49
+      },
+      {
+        "id": "K5vhqTJrdPK08Txv8zaEj",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 238.8,
+        "width": 167,
+        "height": 53
+      },
+      {
+        "id": "WjXlO42WL9saDS7RIGapt",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 295.8,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "epEpBxRosLhuAuKwp823r",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 348.8,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "YzJ6QmY2arMfRzMAPaI0T",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 401.8,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "WMSXi-eez_hHGDM8kUdWz",
+        "type": "topic",
+        "x": -147.57,
+        "y": 280.8,
+        "width": 356,
+        "height": 49
+      },
+      {
+        "id": "i8u8E_sne6XiKJo2FXDog",
+        "type": "subtopic",
+        "x": -148.91,
+        "y": 376.84,
+        "width": 362,
+        "height": 49
+      },
+      {
+        "id": "N1Racr3ZpU320gS545We8",
+        "type": "subtopic",
+        "x": -148.91,
+        "y": 430.84,
+        "width": 134,
+        "height": 49
+      },
+      {
+        "id": "WhYAy6f7Euk3E49-ot644",
+        "type": "subtopic",
+        "x": -11.91,
+        "y": 430.84,
+        "width": 115,
+        "height": 49
+      },
+      {
+        "id": "NfCiSPrL4upMssukcw3Kh",
+        "type": "subtopic",
+        "x": -11.91,
+        "y": 483.84,
+        "width": 133,
+        "height": 49
+      },
+      {
+        "id": "14TKE6KhrH1yFtHcSZSXq",
+        "type": "subtopic",
+        "x": -148.91,
+        "y": 483.84,
+        "width": 135,
+        "height": 49
+      },
+      {
+        "id": "ytwCkSMTiTuemE0KVfAfy",
+        "type": "subtopic",
+        "x": 125.09,
+        "y": 483.84,
+        "width": 88,
+        "height": 49
+      },
+      {
+        "id": "4UQQYbjzwVxZOAxBuXKQS",
+        "type": "subtopic",
+        "x": 107.09,
+        "y": 430.84,
+        "width": 106,
+        "height": 49
+      },
+      {
+        "id": "-Hew0y53ziZK3epQnGA0O",
+        "type": "subtopic",
+        "x": -148.91,
+        "y": 536.84,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "KJJ6PYjTnr_3yU2mNPL9v",
+        "type": "subtopic",
+        "x": -44.41,
+        "y": 536.84,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "zWnvuHJLHr03PWkrW1wZZ",
+        "type": "subtopic",
+        "x": 112.09,
+        "y": 536.84,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "68Y4cMQtdnJrbqSvl7aHc",
+        "type": "vertical",
+        "x": -281.26,
+        "y": 303.3,
+        "width": 21,
+        "height": 207
+      },
+      {
+        "id": "LX9nzJ4uqznHN4SksoDvr",
+        "type": "topic",
+        "x": -369.76,
+        "y": 511.23,
+        "width": 198,
+        "height": 49
+      },
+      {
+        "id": "w4T3jFb0ilf1KNw-AvRXG",
+        "type": "subtopic",
+        "x": -609.47,
+        "y": 407.23,
+        "width": 76,
+        "height": 49
+      },
+      {
+        "id": "9aHYrOQDkA84tlxcVK5aD",
+        "type": "subtopic",
+        "x": -531.89,
+        "y": 407.23,
+        "width": 81,
+        "height": 49
+      },
+      {
+        "id": "Wou6YXLYUgomvcELh851L",
+        "type": "subtopic",
+        "x": -609.47,
+        "y": 459.73,
+        "width": 76,
+        "height": 49
+      },
+      {
+        "id": "bFEYMlqPZtTUYtDQxqHzT",
+        "type": "subtopic",
+        "x": -531.89,
+        "y": 459.73,
+        "width": 81,
+        "height": 49
+      },
+      {
+        "id": "YqDJq3fPxUZlwsdq0kJg7",
+        "type": "subtopic",
+        "x": -609.47,
+        "y": 512.23,
+        "width": 158,
+        "height": 49
+      },
+      {
+        "id": "Zw8IHfCCMSxmVjx5Ho5ff",
+        "type": "subtopic",
+        "x": -609.47,
+        "y": 564.73,
+        "width": 158,
+        "height": 49
+      },
+      {
+        "id": "HhICJpCK5__b-itUoEBES",
+        "type": "subtopic",
+        "x": -609.47,
+        "y": 617.23,
+        "width": 158,
+        "height": 49
+      },
+      {
+        "id": "qBios3sZVhcJMpXmj9f7B",
+        "type": "topic",
+        "x": -1.78,
+        "y": 646.23,
+        "width": 177,
+        "height": 49
+      },
+      {
+        "id": "Jlwmyq6CUQeDAlL4dazOP",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 470.39,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "DHz6sRLYhFeCbAcNJS8hm",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 523.39,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "5yGo8i7eplxtXOD_qfzOs",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 576.39,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "M4M_-vjM9GNy0NmXZneDA",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 629.39,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "Q0h9Wfnl_W9ThOkv7Q17A",
+        "type": "subtopic",
+        "x": 275.45,
+        "y": 682.39,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "1Crqx9BUhD84lOdUAjFA4",
+        "type": "vertical",
+        "x": 245.45,
+        "y": 472.89,
+        "width": 21,
+        "height": 259
+      },
+      {
+        "id": "8V6yw7kLaow-VVcv_K_pL",
+        "type": "topic",
+        "x": -1.78,
+        "y": 791.23,
+        "width": 177,
+        "height": 49
+      },
+      {
+        "id": "aaua13CkTxLOYXr8cAgPm",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 792.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "X9cJJ8zLZCF2cOoqxwFfY",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 845.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "shpgZkh1CLqUwjOaRtAFy",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 898.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "aS5zCyJRA779yHF0G2pje",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 951.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "6qG0AVYd6Y1B8LOSDoMX9",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 1004.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "7ow6tiSSCnTpv_GYQU017",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 1057.05,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "0Rk1z-F_PEgOIh1qeG8rJ",
+        "type": "vertical",
+        "x": 218.45,
+        "y": 787.89,
+        "width": 21,
+        "height": 319
+      },
+      {
+        "id": "86iZ8s8EdhSuYwgwAM_EO",
+        "type": "topic",
+        "x": -305.76,
+        "y": 791.23,
+        "width": 203,
+        "height": 49
+      },
+      {
+        "id": "eXQ-TrTlqL5p2AdGnozkL",
+        "type": "subtopic",
+        "x": -605.25,
+        "y": 708.23,
+        "width": 81,
+        "height": 49
+      },
+      {
+        "id": "wmtt-3auWLdQWuVdwZLPd",
+        "type": "subtopic",
+        "x": -521.25,
+        "y": 708.23,
+        "width": 81,
+        "height": 49
+      },
+      {
+        "id": "aLDl75i8gtLRA2Ud-fMmQ",
+        "type": "subtopic",
+        "x": -437.25,
+        "y": 708.23,
+        "width": 61,
+        "height": 49
+      },
+      {
+        "id": "R9WDMRd-3wxsKH97-sT3n",
+        "type": "subtopic",
+        "x": -373.25,
+        "y": 708.23,
+        "width": 66,
+        "height": 49
+      },
+      {
+        "id": "zEWmq0Y1LFPMQelpucrph",
+        "type": "label",
+        "x": -242.76,
+        "y": 715.73,
+        "width": 132,
+        "height": 36,
+        "label": "Different Types"
+      },
+      {
+        "id": "xkPJ2MYiXmzC4yqQWyB_7",
+        "type": "subtopic",
+        "x": -614.25,
+        "y": 791.23,
+        "width": 220,
+        "height": 49
+      },
+      {
+        "id": "JZqS3Xapw6mfSPVgFW7av",
+        "type": "subtopic",
+        "x": -614.25,
+        "y": 844.23,
+        "width": 220,
+        "height": 49
+      },
+      {
+        "id": "vTMd0bqz4eTgLnhfgY61h",
+        "type": "topic",
+        "x": -305.76,
+        "y": 953.23,
+        "width": 203,
+        "height": 49
+      },
+      {
+        "id": "o2SH4iQn1Ap2yDZ7cVYLO",
+        "type": "subtopic",
+        "x": -31.75,
+        "y": 912.23,
+        "width": 81,
+        "height": 49
+      },
+      {
+        "id": "6vYFb_D1N_-tLWZftL-Az",
+        "type": "subtopic",
+        "x": 51.25,
+        "y": 912.23,
+        "width": 66,
+        "height": 49
+      },
+      {
+        "id": "OUw--8zEq6lk5-6oySVHe",
+        "type": "subtopic",
+        "x": 119.25,
+        "y": 912.23,
+        "width": 66,
+        "height": 49
+      },
+      {
+        "id": "9DntFiZV1AyaRPhYP5q6u",
+        "type": "subtopic",
+        "x": -31.75,
+        "y": 964.23,
+        "width": 115,
+        "height": 49
+      },
+      {
+        "id": "BAqJQvcguhIhzyII5LRH6",
+        "type": "subtopic",
+        "x": 85.25,
+        "y": 964.05,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "KI9LVF49Zml1StWiN0wUe",
+        "type": "label",
+        "x": -11.28,
+        "y": 1017.55,
+        "width": 162,
+        "height": 36,
+        "label": "Numeric Functions"
+      },
+      {
+        "id": "5inpEqafeVCfqsURHzQQg",
+        "type": "subtopic",
+        "x": -602.25,
+        "y": 922.89,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "RH8DLiQpDUWqw3U1522q5",
+        "type": "subtopic",
+        "x": -478.76,
+        "y": 922.89,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "PnG_5D6q66NAKxXVOwA6N",
+        "type": "subtopic",
+        "x": -602.97,
+        "y": 974.89,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "VNbb3YPc0FtrROylRns8h",
+        "type": "subtopic",
+        "x": -478.76,
+        "y": 974.89,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "Othfo7NvTVzfyL906PLM1",
+        "type": "subtopic",
+        "x": -602.97,
+        "y": 1026.89,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "knTG6pAq2mYP24WMa29xI",
+        "type": "subtopic",
+        "x": -478.76,
+        "y": 1026.89,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "Va_B9PyyGaQ_aX4ySyhUn",
+        "type": "label",
+        "x": -567.89,
+        "y": 1085.89,
+        "width": 142,
+        "height": 36,
+        "label": "String Functions"
+      },
+      {
+        "id": "W2ePJHdfEiEJ3ZKoRQKt_",
+        "type": "subtopic",
+        "x": -32.75,
+        "y": 1063.89,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "KI6vngoYcHsnpIk8ErhhS",
+        "type": "subtopic",
+        "x": 71.25,
+        "y": 1063.89,
+        "width": 113,
+        "height": 49
+      },
+      {
+        "id": "k7lZe4QRt9q4InUImFmvx",
+        "type": "subtopic",
+        "x": -32.91,
+        "y": 1115.89,
+        "width": 219,
+        "height": 49
+      },
+      {
+        "id": "K2k3gFdSE63CqWmHeFUEs",
+        "type": "label",
+        "x": 21.25,
+        "y": 1171,
+        "width": 104,
+        "height": 36,
+        "label": "Conditional"
+      },
+      {
+        "id": "Ivqo2wa-_NhGU3vGd0pUI",
+        "type": "subtopic",
+        "x": -603.75,
+        "y": 1137.73,
+        "width": 116,
+        "height": 49
+      },
+      {
+        "id": "88KlrMqSza9_YaD7Dv61p",
+        "type": "subtopic",
+        "x": -484.75,
+        "y": 1137.73,
+        "width": 104,
+        "height": 49
+      },
+      {
+        "id": "7hEqkoxkdAWmakGZsMJx-",
+        "type": "subtopic",
+        "x": -603.75,
+        "y": 1190.73,
+        "width": 223,
+        "height": 49
+      },
+      {
+        "id": "BJ4fQvagTO0B5UtXblyx8",
+        "type": "subtopic",
+        "x": -603.75,
+        "y": 1243.73,
+        "width": 116,
+        "height": 49
+      },
+      {
+        "id": "1E1WdWOyqxbbdiIbw26dZ",
+        "type": "subtopic",
+        "x": -484.75,
+        "y": 1243.73,
+        "width": 104,
+        "height": 49
+      },
+      {
+        "id": "KWHyyOO605SQTAwdt3um_",
+        "type": "label",
+        "x": -556.75,
+        "y": 1297.89,
+        "width": 129,
+        "height": 36,
+        "label": "Date and Time"
+      },
+      {
+        "id": "2tyezwOIxV6O84N-Q3Awh",
+        "type": "topic",
+        "x": -314.25,
+        "y": 1098.38,
+        "width": 219,
+        "height": 49
+      },
+      {
+        "id": "PcsGK4VBh0zNQIPZvNES4",
+        "type": "subtopic",
+        "x": -306.25,
+        "y": 1155.38,
+        "width": 203,
+        "height": 49
+      },
+      {
+        "id": "3eE-l-P93nOXoWfLr8PSW",
+        "type": "subtopic",
+        "x": -306.25,
+        "y": 1208.38,
+        "width": 203,
+        "height": 49
+      },
+      {
+        "id": "MIOuWWcCjLAmgzog2DBC3",
+        "type": "subtopic",
+        "x": -306.25,
+        "y": 1261.38,
+        "width": 203,
+        "height": 49
+      },
+      {
+        "id": "Mwwbw0gZzeM27ewaUh49a",
+        "type": "horizontal",
+        "x": -96.25,
+        "y": 1280.88,
+        "width": 359,
+        "height": 20
+      },
+      {
+        "id": "LcljR70T-OnzSrJJDqOWf",
+        "type": "topic",
+        "x": 204.97,
+        "y": 1266.38,
+        "width": 238,
+        "height": 49
+      },
+      {
+        "id": "NtxGd6Vx-REBclry7lZuE",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 1121.89,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "Ps9Yv2s-bKvEegGAbPsiA",
+        "type": "subtopic",
+        "x": 247.47,
+        "y": 1174.89,
+        "width": 197,
+        "height": 49
+      },
+      {
+        "id": "OdaBXz2XBAVLsQ-m7xtAM",
+        "type": "topic",
+        "x": 204.97,
+        "y": 1428.4,
+        "width": 238,
+        "height": 49
+      },
+      {
+        "id": "7sTW1vwUhCFOMXYjScVEt",
+        "type": "subtopic",
+        "x": 321.97,
+        "y": 1511.99,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "3cMECz5QPVDOFrk5duObs",
+        "type": "subtopic",
+        "x": 321.97,
+        "y": 1564.99,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "xbD67KVlt3UhHpKh8HLx8",
+        "type": "subtopic",
+        "x": 321.97,
+        "y": 1617.99,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "pJtYvXUo81aZfPuRjIbMq",
+        "type": "subtopic",
+        "x": 321.97,
+        "y": 1670.99,
+        "width": 121,
+        "height": 49
+      },
+      {
+        "id": "igg34gLPl3HYVAmRNFGcV",
+        "type": "subtopic",
+        "x": 212.09,
+        "y": 1511.99,
+        "width": 86,
+        "height": 49
+      },
+      {
+        "id": "ujeq8EIFcrqkBjoFizsJM",
+        "type": "subtopic",
+        "x": 29.09,
+        "y": 1343.89,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "R1ktDJpXOz0PTllAcBrdu",
+        "type": "topic",
+        "x": -193.26,
+        "y": 1428.4,
+        "width": 238,
+        "height": 49
+      },
+      {
+        "id": "mBQ3Z8GlFcpIena3IB7D_",
+        "type": "subtopic",
+        "x": -264.01,
+        "y": 1343.89,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "03qMopxzjx_-dZbYw9b7J",
+        "type": "subtopic",
+        "x": -264.01,
+        "y": 1515.05,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "vhBZqqmUcEon6-Vwvla4q",
+        "type": "subtopic",
+        "x": -264.01,
+        "y": 1568.05,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "w7FNjdwqjY7X69aJqqBy4",
+        "type": "topic",
+        "x": -607.47,
+        "y": 1428.4,
+        "width": 287,
+        "height": 49
+      },
+      {
+        "id": "4rqCPpTb0dAgpheBKshRG",
+        "type": "topic",
+        "x": -592.97,
+        "y": 1645.25,
+        "width": 258,
+        "height": 49
+      },
+      {
+        "id": "9wOgP0i9G4HSeZGn2Gm7r",
+        "type": "subtopic",
+        "x": -591.97,
+        "y": 1813.46,
+        "width": 256,
+        "height": 49
+      },
+      {
+        "id": "C0dhS6uLf4TUSfvcWyXhv",
+        "type": "subtopic",
+        "x": -591.97,
+        "y": 1866.46,
+        "width": 256,
+        "height": 49
+      },
+      {
+        "id": "UVTgbZrqpbYl1bQvQejcF",
+        "type": "subtopic",
+        "x": -591.97,
+        "y": 1919.46,
+        "width": 256,
+        "height": 49
+      },
+      {
+        "id": "w53CSY53nAAN0ux-XeJ4c",
+        "type": "subtopic",
+        "x": -591.97,
+        "y": 1972.46,
+        "width": 256,
+        "height": 49
+      },
+      {
+        "id": "s7WusVSHajNBKOLoo1COz",
+        "type": "label",
+        "x": -591.97,
+        "y": 2032.46,
+        "width": 256,
+        "height": 36,
+        "label": "Query Optimization Techniques"
+      },
+      {
+        "id": "C6P69YiFdS-ioPXMNfX07",
+        "type": "subtopic",
+        "x": -599.97,
+        "y": 1748.43,
+        "width": 272,
+        "height": 49
+      },
+      {
+        "id": "UDqbT1y-YzBrljfKSz_RG",
+        "type": "topic",
+        "x": -261.26,
+        "y": 2002.95,
+        "width": 187,
+        "height": 49
+      },
+      {
+        "id": "TjgwabhEtaSoYMLNr6q9l",
+        "type": "subtopic",
+        "x": 22.92,
+        "y": 1949.95,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "nwFaz9i-1s0WVrVaFsoqb",
+        "type": "subtopic",
+        "x": 22.92,
+        "y": 2002.95,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "tBvXLLp5FKeSSN35Kj1X4",
+        "type": "subtopic",
+        "x": 22.92,
+        "y": 1896.95,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "tedQynR0xicVKhuR1oahw",
+        "type": "subtopic",
+        "x": 22.92,
+        "y": 2055.95,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "z5Sf0VU14ZCQ80kL1qOqc",
+        "type": "subtopic",
+        "x": 22.92,
+        "y": 2108.95,
+        "width": 260,
+        "height": 49
+      },
+      {
+        "id": "zW27ZHdLwQY-85iqbBKQZ",
+        "type": "subtopic",
+        "x": 42.34,
+        "y": 1742.79,
+        "width": 135,
+        "height": 49
+      },
+      {
+        "id": "cucCPw3KfetAP2OMFUs0X",
+        "type": "subtopic",
+        "x": 42.34,
+        "y": 1586.79,
+        "width": 135,
+        "height": 49
+      },
+      {
+        "id": "QM0ltgPu8lLLYc2MsTLj-",
+        "type": "subtopic",
+        "x": 42.34,
+        "y": 1638.79,
+        "width": 135,
+        "height": 49
+      },
+      {
+        "id": "aJJjaGunRrwyh9MjQfJt-",
+        "type": "subtopic",
+        "x": 42.34,
+        "y": 1690.79,
+        "width": 66,
+        "height": 49
+      },
+      {
+        "id": "BcXdxY6bld5c0YNFSKkh-",
+        "type": "subtopic",
+        "x": 111.34,
+        "y": 1690.79,
+        "width": 66,
+        "height": 49
+      },
+      {
+        "id": "Xp6G2Us7Y6LeKoYQh_AKl",
+        "type": "subtopic",
+        "x": 42.34,
+        "y": 1795.79,
+        "width": 135,
+        "height": 49
+      }
+    ],
+    "edges": [
+      {
+        "source": "nhUKKWyBH80nyKfGT8ErC",
+        "target": "gx4KaFqKgJX9n9_ZGMqlZ",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "nhUKKWyBH80nyKfGT8ErC",
+        "target": "JDDG4KfhtIlw1rkNCzUli",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "JDDG4KfhtIlw1rkNCzUli",
+        "target": "6yoo7qC6X2jYDIjd3HIm7",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "JDDG4KfhtIlw1rkNCzUli",
+        "target": "tBzMDfCMh6MIagNaxCzin",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "JDDG4KfhtIlw1rkNCzUli",
+        "target": "ffwniprGJHZzJ7t3lQcXz",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "JDDG4KfhtIlw1rkNCzUli",
+        "target": "xPOeXK1EPBNG56vgfG-VV",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "iogwMmOvub2ZF4zgg6WyF",
+        "target": "nhUKKWyBH80nyKfGT8ErC",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "nhUKKWyBH80nyKfGT8ErC",
+        "target": "R9DQNc0AyAQ2HLpP4HOk6",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "nhUKKWyBH80nyKfGT8ErC",
+        "target": "fNTb9y3zs1HPYclAmu_Wv",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "bFEYMlqPZtTUYtDQxqHzT",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "9aHYrOQDkA84tlxcVK5aD",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "YqDJq3fPxUZlwsdq0kJg7",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "Zw8IHfCCMSxmVjx5Ho5ff",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "HhICJpCK5__b-itUoEBES",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "LX9nzJ4uqznHN4SksoDvr",
+        "target": "qBios3sZVhcJMpXmj9f7B",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "qBios3sZVhcJMpXmj9f7B",
+        "target": "8V6yw7kLaow-VVcv_K_pL",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "8V6yw7kLaow-VVcv_K_pL",
+        "target": "86iZ8s8EdhSuYwgwAM_EO",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "86iZ8s8EdhSuYwgwAM_EO",
+        "target": "xkPJ2MYiXmzC4yqQWyB_7",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "86iZ8s8EdhSuYwgwAM_EO",
+        "target": "JZqS3Xapw6mfSPVgFW7av",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "vTMd0bqz4eTgLnhfgY61h",
+        "target": "6FdHTzqQwJqR4czP5qXAY",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "LcljR70T-OnzSrJJDqOWf",
+        "target": "OdaBXz2XBAVLsQ-m7xtAM",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "OdaBXz2XBAVLsQ-m7xtAM",
+        "target": "R1ktDJpXOz0PTllAcBrdu",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "R1ktDJpXOz0PTllAcBrdu",
+        "target": "w7FNjdwqjY7X69aJqqBy4",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "w7FNjdwqjY7X69aJqqBy4",
+        "target": "4rqCPpTb0dAgpheBKshRG",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "4rqCPpTb0dAgpheBKshRG",
+        "target": "C6P69YiFdS-ioPXMNfX07",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "4rqCPpTb0dAgpheBKshRG",
+        "target": "UDqbT1y-YzBrljfKSz_RG",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "tBvXLLp5FKeSSN35Kj1X4",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "nwFaz9i-1s0WVrVaFsoqb",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "TjgwabhEtaSoYMLNr6q9l",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "tedQynR0xicVKhuR1oahw",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "z5Sf0VU14ZCQ80kL1qOqc",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "UDqbT1y-YzBrljfKSz_RG",
+        "target": "GV_zWF6rSWg5bqgiXhOEf",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "WigElh37ztiRYRstQR9NE",
+        "target": "zEWmq0Y1LFPMQelpucrph",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      }
+    ]
+  }
+}

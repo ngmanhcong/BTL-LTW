@@ -1,0 +1,3797 @@
+{
+  "id": "python",
+  "sourceTitle": {
+    "card": "Python",
+    "page": "Python Developer",
+    "_id": "6a97028eaca636c6b9e98679"
+  },
+  "reference": "https://roadmap.sh/python",
+  "source": {
+    "publisher": "roadmap.sh",
+    "url": "https://roadmap.sh/python",
+    "contentRepository": "https://github.com/nilbuild/developer-roadmap",
+    "commit": "3e1cb72a72b15d32b236d1f558800db87e977370",
+    "fetchedAt": "2026-11-18T14:51:26.348006+00:00",
+    "updatedAt": "2026-10-15T07:59:06.285Z",
+    "licenseUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/license"
+  },
+  "stages": [
+    {
+      "id": "roadmap-sh-topics",
+      "title": "Các chủ đề theo sơ đồ gốc",
+      "topics": [
+        {
+          "id": "rs-UT_SR7G-LYtzqooWrEtF1",
+          "sourceId": "UT_SR7G-LYtzqooWrEtF1",
+          "title": "Lists",
+          "description": "Chủ đề “Lists” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/lists@UT_SR7G-LYtzqooWrEtF1.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Lists",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/lists@UT_SR7G-LYtzqooWrEtF1.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Official Documentation on Lists",
+              "url": "https://docs.python.org/3/tutorial/introduction.html#lists",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python for Beginners: Lists",
+              "url": "https://thenewstack.io/python-for-beginners-lists/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Remove from List: Full Guide + Examples",
+              "url": "https://roadmap.sh/python/remove-item-from-list",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Lists in Python",
+              "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjSgal6OIEfzK4upXvkHSxW",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-i7xIGiXU-k5UIKHIhQPjE",
+          "sourceId": "i7xIGiXU-k5UIKHIhQPjE",
+          "title": "Tuples",
+          "description": "Chủ đề “Tuples” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tuples@i7xIGiXU-k5UIKHIhQPjE.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Tuples",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tuples@i7xIGiXU-k5UIKHIhQPjE.md",
+              "kind": "source"
+            },
+            {
+              "title": "Tuples Documentation",
+              "url": "https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "When and How to Use Tuples",
+              "url": "https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Return Multiple Values: 4 Methods & Examples",
+              "url": "https://roadmap.sh/python/return-multiple-values",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "why are Tuples even a thing?",
+              "url": "https://www.youtube.com/watch?v=fR_D_KIAYrE",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-soZFqivM3YBuljeX6PoaX",
+          "sourceId": "soZFqivM3YBuljeX6PoaX",
+          "title": "Sets",
+          "description": "Chủ đề “Sets” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sets@soZFqivM3YBuljeX6PoaX.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Sets",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sets@soZFqivM3YBuljeX6PoaX.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Official Documentation on Sets",
+              "url": "https://docs.python.org/3/tutorial/datastructures.html#sets",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "An In-Depth Guide to Working with Python Sets",
+              "url": "https://learnpython.com/blog/python-sets/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Sets tutorial for Beginners",
+              "url": "https://www.youtube.com/watch?v=t9j8lCUGZXo",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-6xRncUs3_vxVbDur567QA",
+          "sourceId": "6xRncUs3_vxVbDur567QA",
+          "title": "Basic Syntax",
+          "description": "Chủ đề “Basic Syntax” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/basic-syntax@6xRncUs3_vxVbDur567QA.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Basic Syntax",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/basic-syntax@6xRncUs3_vxVbDur567QA.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Basics",
+              "url": "https://www.tutorialspoint.com/python/python_basic_syntax.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Fix \"Invalid Syntax\" in Python (8 Common Causes)",
+              "url": "https://roadmap.sh/python/invalid-syntax",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Print New Line: Methods, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/print-new-line",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python for Beginners - Learn Python in 1 Hour",
+              "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-bc9CL_HMT-R6nXO1eR-gP",
+          "sourceId": "bc9CL_HMT-R6nXO1eR-gP",
+          "title": "Dictionaries",
+          "description": "Chủ đề “Dictionaries” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/dictionaries@bc9CL_HMT-R6nXO1eR-gP.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Dictionaries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/dictionaries@bc9CL_HMT-R6nXO1eR-gP.md",
+              "kind": "source"
+            },
+            {
+              "title": "Dictionaries in Python",
+              "url": "https://docs.python.org/3/tutorial/datastructures.html#dictionaries",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Dictionaries in Python",
+              "url": "https://realpython.com/python-dicts/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Hashmaps in Python: Master Implementation and Use Cases",
+              "url": "https://roadmap.sh/python/hashmap",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python KeyError Exceptions: Causes and Fixes",
+              "url": "https://roadmap.sh/python/keyerror",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-dEFLBGpiH6nbSMeR7ecaT",
+          "sourceId": "dEFLBGpiH6nbSMeR7ecaT",
+          "title": "Variables and Data Types",
+          "description": "Chủ đề “Variables and Data Types” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/variables-and-data-types@dEFLBGpiH6nbSMeR7ecaT.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Variables and Data Types",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/variables-and-data-types@dEFLBGpiH6nbSMeR7ecaT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Variables in Python",
+              "url": "https://realpython.com/python-variables",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python for Beginners: Data Types",
+              "url": "https://thenewstack.io/python-for-beginners-data-types/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Null (None): Guide to Missing Values and NoneType",
+              "url": "https://roadmap.sh/python/null",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Max Int: Understanding Arbitrary Precision Integers",
+              "url": "https://roadmap.sh/python/max-int",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Variables and Data Types",
+              "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhN-sfWgCU1z_Qhakc1AGOn",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-R9DQNc0AyAQ2HLpP4HOk6",
+          "sourceId": "R9DQNc0AyAQ2HLpP4HOk6",
+          "title": "Type Casting",
+          "description": "Chủ đề “Type Casting” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/type-casting@R9DQNc0AyAQ2HLpP4HOk6.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Type Casting",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/type-casting@R9DQNc0AyAQ2HLpP4HOk6.md",
+              "kind": "source"
+            },
+            {
+              "title": "Type Conversion and Casting",
+              "url": "https://www.programiz.com/python-programming/type-conversion-and-casting",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Division: Operators, Floor Division, and Examples",
+              "url": "https://roadmap.sh/python/division",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-so95CO6Qw3I0S98ISENS-",
+          "sourceId": "so95CO6Qw3I0S98ISENS-",
+          "title": "Operators",
+          "description": "Chủ đề “Operators” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/operators@so95CO6Qw3I0S98ISENS-.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/operators@so95CO6Qw3I0S98ISENS-.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Operators",
+              "url": "https://www.w3schools.com/python/python_operators.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Division: Operators, Floor Division, and Examples",
+              "url": "https://roadmap.sh/python/division",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Modulo Operator (%): Complete Guide with Examples",
+              "url": "https://roadmap.sh/python/modulo",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python not Operator: The Complete Guide to Logical Negation",
+              "url": "https://roadmap.sh/python/not-operator",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The or Operator in Python: Complete Guide with Examples",
+              "url": "https://roadmap.sh/python/or",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Exponent: 5 Methods for Exponentiation + Applications",
+              "url": "https://roadmap.sh/python/exponent",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-tbR_h9NpZ5tBTYuCfwkcY",
+          "sourceId": "tbR_h9NpZ5tBTYuCfwkcY",
+          "title": "@",
+          "description": "Chủ đề “@” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://roadmap.sh/python",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: @",
+              "url": "https://roadmap.sh/python",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-GISOFMKvnBys0O0IMpz2J",
+          "sourceId": "GISOFMKvnBys0O0IMpz2J",
+          "title": "Learn the Basics",
+          "description": "Chủ đề “Learn the Basics” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/learn-the-basics@GISOFMKvnBys0O0IMpz2J.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Learn the Basics",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/learn-the-basics@GISOFMKvnBys0O0IMpz2J.md",
+              "kind": "source"
+            },
+            {
+              "title": "Tutorial Series: How to Code in Python",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Google's Python Class",
+              "url": "https://developers.google.com/edu/python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn Python - Full Course",
+              "url": "https://www.youtube.com/watch?v=4M87qBgpafk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs--DJgS6l2qngfwurExlmmT",
+          "sourceId": "-DJgS6l2qngfwurExlmmT",
+          "title": "Functions, Builtin Functions",
+          "description": "Chủ đề “Functions, Builtin Functions” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/functions-builtin-functions@-DJgS6l2qngfwurExlmmT.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Functions, Builtin Functions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/functions-builtin-functions@-DJgS6l2qngfwurExlmmT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Built-in Functions in Python",
+              "url": "https://docs.python.org/3/library/functions.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Defining Python Functions",
+              "url": "https://realpython.com/defining-your-own-python-function/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Return Multiple Values in Python (and When to Use Each Method)",
+              "url": "https://roadmap.sh/python/return-multiple-values",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Master Python Filter: Syntax, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/filter",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python reduce(): The Complete Guide (With Examples)",
+              "url": "https://roadmap.sh/python/reduce",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Sg5w8zO2Ji-uDJKEoWey9",
+          "sourceId": "Sg5w8zO2Ji-uDJKEoWey9",
+          "title": "Working with Strings",
+          "description": "Chủ đề “Working with Strings” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/working-with-strings@Sg5w8zO2Ji-uDJKEoWey9.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Working with Strings",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/working-with-strings@Sg5w8zO2Ji-uDJKEoWey9.md",
+              "kind": "source"
+            },
+            {
+              "title": "string — Common string operations",
+              "url": "https://docs.python.org/3/library/string.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Print New Line: Methods, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/print-new-line",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Multiline Strings: The Complete Guide",
+              "url": "https://roadmap.sh/python/multiline-strings",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "String methods in Python are easy 〰️",
+              "url": "https://www.youtube.com/watch?v=tb6EYiHtcXU",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-fNTb9y3zs1HPYclAmu_Wv",
+          "sourceId": "fNTb9y3zs1HPYclAmu_Wv",
+          "title": "Exceptions",
+          "description": "Chủ đề “Exceptions” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/exceptions@fNTb9y3zs1HPYclAmu_Wv.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Exceptions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/exceptions@fNTb9y3zs1HPYclAmu_Wv.md",
+              "kind": "source"
+            },
+            {
+              "title": "Exceptions Documentation",
+              "url": "https://docs.python.org/3/tutorial/errors.html#exceptions",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python KeyError Exceptions: Causes and Fixes Explained",
+              "url": "https://roadmap.sh/python/keyerror",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Fix \"Invalid Syntax\" in Python (8 Common Causes)",
+              "url": "https://roadmap.sh/python/invalid-syntax",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Exception Handling in Python",
+              "url": "https://www.youtube.com/watch?v=V_NXT2-QIlE",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-NP1kjSk0ujU0Gx-ajNHlR",
+          "sourceId": "NP1kjSk0ujU0Gx-ajNHlR",
+          "title": "Conditionals",
+          "description": "Chủ đề “Conditionals” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/conditionals@NP1kjSk0ujU0Gx-ajNHlR.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Conditionals",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/conditionals@NP1kjSk0ujU0Gx-ajNHlR.md",
+              "kind": "source"
+            },
+            {
+              "title": "Conditional Statements in Python",
+              "url": "https://realpython.com/python-conditional-statements/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Switch Statement 101: Match-case and alternatives",
+              "url": "https://roadmap.sh/python/switch",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Use a Match Statement in Python",
+              "url": "https://learnpython.com/blog/python-match-case-statement/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python not Operator: The Complete Guide to Logical Negation",
+              "url": "https://roadmap.sh/python/not-operator",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The or Operator in Python: Complete Guide with Examples",
+              "url": "https://roadmap.sh/python/or",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-__ndo1gcuUUtzmBnMIAbR",
+          "sourceId": "__ndo1gcuUUtzmBnMIAbR",
+          "title": "Comments",
+          "description": "Chủ đề “Comments” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/comments@__ndo1gcuUUtzmBnMIAbR.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Comments",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/comments@__ndo1gcuUUtzmBnMIAbR.md",
+              "kind": "source"
+            },
+            {
+              "title": "Docstring Conventions",
+              "url": "https://peps.python.org/pep-0257/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Comments",
+              "url": "https://www.w3schools.com/python/python_comments.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-syV0DT_3ITgIFDbwPts8i",
+          "sourceId": "syV0DT_3ITgIFDbwPts8i",
+          "title": "Type Annot.",
+          "description": "Chủ đề “Type Annot.” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/type-annot@syV0DT_3ITgIFDbwPts8i.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Type Annot.",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/type-annot@syV0DT_3ITgIFDbwPts8i.md",
+              "kind": "source"
+            },
+            {
+              "title": "Type Annotations",
+              "url": "https://typing.python.org/en/latest/spec/annotations.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Understanding type annotation in Python",
+              "url": "https://blog.logrocket.com/understanding-type-annotation-python/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Dvy7BnNzK55qbh_SgOk8m",
+          "sourceId": "Dvy7BnNzK55qbh_SgOk8m",
+          "title": "Loops",
+          "description": "Chủ đề “Loops” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/loops@Dvy7BnNzK55qbh_SgOk8m.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Loops",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/loops@Dvy7BnNzK55qbh_SgOk8m.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python \"while\" Loops (Indefinite Iteration)",
+              "url": "https://realpython.com/python-while-loop/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python \"for\" Loops (Definite Iteration)",
+              "url": "https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python For Loops",
+              "url": "https://www.youtube.com/watch?v=KWgYha0clzw",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-08XifLQ20c4FKI_4AWNBQ",
+          "sourceId": "08XifLQ20c4FKI_4AWNBQ",
+          "title": "Builtin",
+          "description": "Chủ đề “Builtin” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/builtin@08XifLQ20c4FKI_4AWNBQ.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Builtin",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/builtin@08XifLQ20c4FKI_4AWNBQ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Module Index",
+              "url": "https://docs.python.org/3/py-modindex.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Modules",
+              "url": "https://www.digitalocean.com/community/tutorials/python-modules",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python - Built-In Modules",
+              "url": "https://www.knowledgehut.com/tutorials/python-tutorial/python-built-in-modules",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Set Environment Variables in Python (Step-by-Step)",
+              "url": "https://roadmap.sh/python/set-environment-variable",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-l7k0qTYe42wYBTlT2-1cy",
+          "sourceId": "l7k0qTYe42wYBTlT2-1cy",
+          "title": "Custom",
+          "description": "Chủ đề “Custom” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/custom@l7k0qTYe42wYBTlT2-1cy.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Custom",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/custom@l7k0qTYe42wYBTlT2-1cy.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Modules",
+              "url": "https://docs.python.org/3/tutorial/modules.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Modules in Python",
+              "url": "https://www.programiz.com/python-programming/modules",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Modules and Packages",
+              "url": "https://realpython.com/python-modules-packages/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-VJSIbYJcy2MC6MOFBrqXi",
+          "sourceId": "VJSIbYJcy2MC6MOFBrqXi",
+          "title": "Data Structures & Algorithms",
+          "description": "Chủ đề “Data Structures & Algorithms” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/data-structures--algorithms@VJSIbYJcy2MC6MOFBrqXi.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Structures & Algorithms",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/data-structures--algorithms@VJSIbYJcy2MC6MOFBrqXi.md",
+              "kind": "source"
+            },
+            {
+              "title": "Visit Dedicated DSA Roadmap",
+              "url": "https://roadmap.sh/datastructures-and-algorithms",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Hashmaps in Python: Master Implementation and Use Cases",
+              "url": "https://roadmap.sh/python/hashmap",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Binary search in Python 101: Implementation and use cases",
+              "url": "https://roadmap.sh/python/binary-search",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Data Structures Illustrated",
+              "url": "https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-1dfOTOGsOk5XE3bnZs8Ht",
+          "sourceId": "1dfOTOGsOk5XE3bnZs8Ht",
+          "title": "PyPI",
+          "description": "Chủ đề “PyPI” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pypi@1dfOTOGsOk5XE3bnZs8Ht.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: PyPI",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pypi@1dfOTOGsOk5XE3bnZs8Ht.md",
+              "kind": "source"
+            },
+            {
+              "title": "PyPI Website",
+              "url": "https://pypi.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Publish an Open-Source Python Package to PyPI",
+              "url": "https://realpython.com/pypi-publish-python-package/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Getting Started with Pip and PyPI in Python",
+              "url": "https://www.youtube.com/watch?v=bPSfNKvhooA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-iVhQnp6hpgVZDNJ0XoVra",
+          "sourceId": "iVhQnp6hpgVZDNJ0XoVra",
+          "title": "Pip",
+          "description": "Chủ đề “Pip” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pip@iVhQnp6hpgVZDNJ0XoVra.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pip",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pip@iVhQnp6hpgVZDNJ0XoVra.md",
+              "kind": "source"
+            },
+            {
+              "title": "pip Documentation",
+              "url": "https://pip.pypa.io/en/stable/installation/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Using Pythons pip to Manage Your Projects Dependencies",
+              "url": "https://realpython.com/what-is-pip/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-274uk28wzxn6EKWQzLpHs",
+          "sourceId": "274uk28wzxn6EKWQzLpHs",
+          "title": "Modules",
+          "description": "Chủ đề “Modules” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/modules@274uk28wzxn6EKWQzLpHs.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Modules",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/modules@274uk28wzxn6EKWQzLpHs.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Modules",
+              "url": "https://docs.python.org/3/tutorial/modules.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Modules in Python",
+              "url": "https://www.programiz.com/python-programming/modules",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-uh67D1u-Iv5cZamRgFEJg",
+          "sourceId": "uh67D1u-Iv5cZamRgFEJg",
+          "title": "Conda",
+          "description": "Chủ đề “Conda” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/conda@uh67D1u-Iv5cZamRgFEJg.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Conda",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/conda@uh67D1u-Iv5cZamRgFEJg.md",
+              "kind": "source"
+            },
+            {
+              "title": "Conda Documentation",
+              "url": "https://docs.conda.io/en/latest/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-p3Frfs6oxpuciUzeCEsvb",
+          "sourceId": "p3Frfs6oxpuciUzeCEsvb",
+          "title": "uv",
+          "description": "Chủ đề “uv” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/uv@p3Frfs6oxpuciUzeCEsvb.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: uv",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/uv@p3Frfs6oxpuciUzeCEsvb.md",
+              "kind": "source"
+            },
+            {
+              "title": "astral-sh/uv",
+              "url": "https://github.com/astral-sh/uv",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Manage Python Environments with uv Instead of venv and pip",
+              "url": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "@UV for Python",
+              "url": "https://www.youtube.com/watch?v=qh98qOND6MI&t",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-4XqSkc3Tuub-ZVXvGfMIT",
+          "sourceId": "4XqSkc3Tuub-ZVXvGfMIT",
+          "title": "Error Handling",
+          "description": "Chủ đề “Error Handling” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/error-handling@4XqSkc3Tuub-ZVXvGfMIT.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Error Handling",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/error-handling@4XqSkc3Tuub-ZVXvGfMIT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Errors and Exceptions",
+              "url": "https://docs.python.org/3/tutorial/errors.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python KeyError Exceptions: Causes and Fixes Explained",
+              "url": "https://roadmap.sh/python/keyerror",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The Ultimate Guide to Error Handling in Python",
+              "url": "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn Python EXCEPTION HANDLING in 5 minutes! 🚦",
+              "url": "https://www.youtube.com/watch?v=V_NXT2-QIlE",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-OPD4WdMO7q4gRZMcRCQh1",
+          "sourceId": "OPD4WdMO7q4gRZMcRCQh1",
+          "title": "Arrays and Linked Lists",
+          "description": "Chủ đề “Arrays and Linked Lists” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/arrays-and-linked-lists@OPD4WdMO7q4gRZMcRCQh1.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Arrays and Linked Lists",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/arrays-and-linked-lists@OPD4WdMO7q4gRZMcRCQh1.md",
+              "kind": "source"
+            },
+            {
+              "title": "Arrays in Python",
+              "url": "https://www.edureka.co/blog/arrays-in-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Linked Lists vs Python Lists: When to Use Each",
+              "url": "https://roadmap.sh/python/linked-list",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Array Data Structure | Illustrated Data Structures",
+              "url": "https://www.youtube.com/watch?v=QJNwK2uJyGs",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Linked List Data Structure | Illustrated Data Structures",
+              "url": "https://www.youtube.com/watch?v=odW9FU8jPRQ",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-uXd2B01GVBEQNXQE8RATT",
+          "sourceId": "uXd2B01GVBEQNXQE8RATT",
+          "title": "Poetry",
+          "description": "Chủ đề “Poetry” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/poetry@uXd2B01GVBEQNXQE8RATT.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Poetry",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/poetry@uXd2B01GVBEQNXQE8RATT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Poetry Docs",
+              "url": "https://python-poetry.org/docs/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Poetry - Basics",
+              "url": "https://www.youtube.com/watch?v=Ji2XDxmXSOM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-xDgXISgVUMRHh9hu4h6Hl",
+          "sourceId": "xDgXISgVUMRHh9hu4h6Hl",
+          "title": "pdm",
+          "description": "Chủ đề “pdm” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pdm@xDgXISgVUMRHh9hu4h6Hl.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pdm",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pdm@xDgXISgVUMRHh9hu4h6Hl.md",
+              "kind": "source"
+            },
+            {
+              "title": "pdm",
+              "url": "https://pdm-project.org/en/latest/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "pdm",
+              "url": "https://github.com/pdm-project/pdm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Introduction to PDM: A Python Project and Dependency Manager",
+              "url": "https://betterstack.com/community/guides/scaling-python/pdm-explained/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-aWHgAk959DPUZL46CeRiI",
+          "sourceId": "aWHgAk959DPUZL46CeRiI",
+          "title": "Lambdas",
+          "description": "Chủ đề “Lambdas” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/lambdas@aWHgAk959DPUZL46CeRiI.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Lambdas",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/lambdas@aWHgAk959DPUZL46CeRiI.md",
+              "kind": "source"
+            },
+            {
+              "title": "How to use Lambda functions",
+              "url": "https://realpython.com/python-lambda/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Master Python Filter: Syntax, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/filter",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python reduce(): The Complete Guide (With Examples)",
+              "url": "https://roadmap.sh/python/reduce",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Lambda Functions",
+              "url": "https://www.youtube.com/watch?v=KR22jigJLok",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-DG4fi1e5ec2BVckPLsTJS",
+          "sourceId": "DG4fi1e5ec2BVckPLsTJS",
+          "title": "HashMaps",
+          "description": "Chủ đề “HashMaps” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/hashmaps@DG4fi1e5ec2BVckPLsTJS.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: HashMaps",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/hashmaps@DG4fi1e5ec2BVckPLsTJS.md",
+              "kind": "source"
+            },
+            {
+              "title": "Hashmaps in Python: Master Implementation and Use Cases",
+              "url": "https://roadmap.sh/python/hashmap",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Build a Hash Table in Python",
+              "url": "https://realpython.com/python-hash-table/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Hash Tables and Hashmaps in Python",
+              "url": "https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Hash Table Data Structure | Illustrated Data Structures",
+              "url": "https://www.youtube.com/watch?v=jalSiaIi8j4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-pIluLJkySqn_gI_GykV6G",
+          "sourceId": "pIluLJkySqn_gI_GykV6G",
+          "title": "Decorators",
+          "description": "Chủ đề “Decorators” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/decorators@pIluLJkySqn_gI_GykV6G.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Decorators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/decorators@pIluLJkySqn_gI_GykV6G.md",
+              "kind": "source"
+            },
+            {
+              "title": "Learn Decorators in Python",
+              "url": "https://pythonbasics.org/decorators/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Decorators in Python",
+              "url": "https://www.youtube.com/watch?v=FXUUSfJO_J4",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Decorators in 1 Minute",
+              "url": "https://www.youtube.com/watch?v=BE-L7xu8pO4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-qeCMw-sJ2FR4UxvU9DDzv",
+          "sourceId": "qeCMw-sJ2FR4UxvU9DDzv",
+          "title": "Package Managers",
+          "description": "Chủ đề “Package Managers” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/package-managers@qeCMw-sJ2FR4UxvU9DDzv.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Package Managers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/package-managers@qeCMw-sJ2FR4UxvU9DDzv.md",
+              "kind": "source"
+            },
+            {
+              "title": "pypa/pipx",
+              "url": "https://github.com/pypa/pipx",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-0NlRczh6ZEaFLlT6LORWz",
+          "sourceId": "0NlRczh6ZEaFLlT6LORWz",
+          "title": "Heaps, Stacks and Queues",
+          "description": "Chủ đề “Heaps, Stacks and Queues” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/heaps-stacks-and-queues@0NlRczh6ZEaFLlT6LORWz.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Heaps, Stacks and Queues",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/heaps-stacks-and-queues@0NlRczh6ZEaFLlT6LORWz.md",
+              "kind": "source"
+            },
+            {
+              "title": "Heaps, Stacks, Queues",
+              "url": "https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Implement Python Stack?",
+              "url": "https://realpython.com/how-to-implement-python-stack/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Stacks, Queues, and Priority Queues in Practice",
+              "url": "https://realpython.com/queue-in-python/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-aB1LSQjDEQb_BxueOcnxU",
+          "sourceId": "aB1LSQjDEQb_BxueOcnxU",
+          "title": "Iterators",
+          "description": "Chủ đề “Iterators” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/iterators@aB1LSQjDEQb_BxueOcnxU.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Iterators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/iterators@aB1LSQjDEQb_BxueOcnxU.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Official Documentation on Iterators",
+              "url": "https://docs.python.org/3/tutorial/classes.html#iterators",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Iterators",
+              "url": "https://www.programiz.com/python-programming/iterator",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Iterators and Iterables in Python",
+              "url": "https://realpython.com/python-iterators-iterables/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Master Python Filter: Syntax, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/filter",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-uJIqgsqUbE62Tyo3K75Qx",
+          "sourceId": "uJIqgsqUbE62Tyo3K75Qx",
+          "title": "Binary Search Tree",
+          "description": "Chủ đề “Binary Search Tree” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/binary-search-tree@uJIqgsqUbE62Tyo3K75Qx.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Binary Search Tree",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/binary-search-tree@uJIqgsqUbE62Tyo3K75Qx.md",
+              "kind": "source"
+            },
+            {
+              "title": "Binary search in Python 101: Implementation and use cases",
+              "url": "https://roadmap.sh/python/binary-search",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Implement Binary Search Tree in Python",
+              "url": "https://web.archive.org/web/20230601181553/https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Binary Search Tree in Python",
+              "url": "https://www.pythonforbeginners.com/data-structures/binary-search-tree-in-python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Tree Data Structure | Illustrated Data Structures",
+              "url": "https://www.youtube.com/watch?v=S2W3SXGPVyU",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-_94NrQ3quc4t_PPOsFSN0",
+          "sourceId": "_94NrQ3quc4t_PPOsFSN0",
+          "title": "Common Packages",
+          "description": "Chủ đề “Common Packages” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/common-packages@_94NrQ3quc4t_PPOsFSN0.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Common Packages",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/common-packages@_94NrQ3quc4t_PPOsFSN0.md",
+              "kind": "source"
+            },
+            {
+              "title": "requests",
+              "url": "https://docs.python-requests.org/en/latest/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "pathlib",
+              "url": "https://docs.python.org/3/library/pathlib.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "asyncio",
+              "url": "https://docs.python.org/3/library/asyncio.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "dataclasses",
+              "url": "https://docs.python.org/3/library/dataclasses.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "python-dotenv",
+              "url": "https://pypi.org/project/python-dotenv/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "numpy",
+              "url": "https://numpy.org/doc/stable/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "pandas",
+              "url": "https://pandas.pydata.org/docs/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-7t6mJBsaFMWPi7o9fbhhq",
+          "sourceId": "7t6mJBsaFMWPi7o9fbhhq",
+          "title": "Regular Expressions",
+          "description": "Chủ đề “Regular Expressions” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/regular-expressions@7t6mJBsaFMWPi7o9fbhhq.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Regular Expressions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/regular-expressions@7t6mJBsaFMWPi7o9fbhhq.md",
+              "kind": "source"
+            },
+            {
+              "title": "Regular Expressions in Python",
+              "url": "https://docs.python.org/3/library/re.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Regular Expressions",
+              "url": "https://developers.google.com/edu/python/regular-expressions",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python - Regular Expressions",
+              "url": "https://www.tutorialspoint.com/python/python_reg_expressions.htm",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-kLBgy_nxxjE8SxdVi04bq",
+          "sourceId": "kLBgy_nxxjE8SxdVi04bq",
+          "title": "Recursion",
+          "description": "Chủ đề “Recursion” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/recursion@kLBgy_nxxjE8SxdVi04bq.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Recursion",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/recursion@kLBgy_nxxjE8SxdVi04bq.md",
+              "kind": "source"
+            },
+            {
+              "title": "Recursion in Python: An Introduction",
+              "url": "https://realpython.com/python-recursion/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Binary search in Python 101: Implementation and use cases",
+              "url": "https://roadmap.sh/python/binary-search",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Merge Sort in Python: Step-by-Step Guide + Code",
+              "url": "https://roadmap.sh/python/merge-sort",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3RNy7Sp28d-NMx0Yh4bdx",
+          "sourceId": "3RNy7Sp28d-NMx0Yh4bdx",
+          "title": "Variable Scope",
+          "description": "Chủ đề “Variable Scope” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/variable-scope@3RNy7Sp28d-NMx0Yh4bdx.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Variable Scope",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/variable-scope@3RNy7Sp28d-NMx0Yh4bdx.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Nonlocal Keyword Explained by Our Experts",
+              "url": "https://roadmap.sh/python/nonlocal",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Scope",
+              "url": "https://www.w3schools.com/python/python_scope.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements",
+              "url": "https://www.youtube.com/watch?v=QVdf0LgmICw",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-GHKAY9gOykEbxkEeR30wL",
+          "sourceId": "GHKAY9gOykEbxkEeR30wL",
+          "title": "pyproject.toml",
+          "description": "Chủ đề “pyproject.toml” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyprojecttoml@GHKAY9gOykEbxkEeR30wL.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pyproject.toml",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyprojecttoml@GHKAY9gOykEbxkEeR30wL.md",
+              "kind": "source"
+            },
+            {
+              "title": "Writing pyproject.toml files",
+              "url": "https://packaging.python.org/en/latest/guides/writing-pyproject-toml/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-vvTmjcWCVclOPY4f_5uB0",
+          "sourceId": "vvTmjcWCVclOPY4f_5uB0",
+          "title": "Sorting Algorithms",
+          "description": "Chủ đề “Sorting Algorithms” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sorting-algorithms@vvTmjcWCVclOPY4f_5uB0.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Sorting Algorithms",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sorting-algorithms@vvTmjcWCVclOPY4f_5uB0.md",
+              "kind": "source"
+            },
+            {
+              "title": "Sorting Algorithms in Python",
+              "url": "https://realpython.com/sorting-algorithms-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python - Sorting Algorithms",
+              "url": "https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Merge Sort in Python: Step-by-Step Guide + Code",
+              "url": "https://roadmap.sh/python/merge-sort",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-o1wi39VnjnFfWIC8XcuAK",
+          "sourceId": "o1wi39VnjnFfWIC8XcuAK",
+          "title": "typing",
+          "description": "Chủ đề “typing” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/typing@o1wi39VnjnFfWIC8XcuAK.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: typing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/typing@o1wi39VnjnFfWIC8XcuAK.md",
+              "kind": "source"
+            },
+            {
+              "title": "Typing Module",
+              "url": "https://docs.python.org/3/library/typing.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-P_Di-XPSDITmU3xKQew8G",
+          "sourceId": "P_Di-XPSDITmU3xKQew8G",
+          "title": "Object Oriented Programming",
+          "description": "Chủ đề “Object Oriented Programming” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/object-oriented-programming@P_Di-XPSDITmU3xKQew8G.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Object Oriented Programming",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/object-oriented-programming@P_Di-XPSDITmU3xKQew8G.md",
+              "kind": "source"
+            },
+            {
+              "title": "Object Oriented Programming in Python",
+              "url": "https://realpython.com/python3-object-oriented-programming/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Encapsulation in Python: All You Need to Know",
+              "url": "https://roadmap.sh/python/encapsulation",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+              "url": "https://www.youtube.com/watch?v=-pEs-Bss8Wc/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python OOP Tutorial",
+              "url": "https://www.youtube.com/watch?v=IbMDCwVm63M",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-4gtmtYWYRWqwLdZRL0XMg",
+          "sourceId": "4gtmtYWYRWqwLdZRL0XMg",
+          "title": "List Comprehensions",
+          "description": "Chủ đề “List Comprehensions” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/list-comprehensions@4gtmtYWYRWqwLdZRL0XMg.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: List Comprehensions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/list-comprehensions@4gtmtYWYRWqwLdZRL0XMg.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python List Comprehensions",
+              "url": "https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python List Comprehensions Quiz",
+              "url": "https://realpython.com/quizzes/list-comprehension-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Master Python Filter: Syntax, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/filter",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-gIcJ3bUVQXqO1Wx4gUKd5",
+          "sourceId": "gIcJ3bUVQXqO1Wx4gUKd5",
+          "title": "mypy",
+          "description": "Chủ đề “mypy” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/mypy@gIcJ3bUVQXqO1Wx4gUKd5.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: mypy",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/mypy@gIcJ3bUVQXqO1Wx4gUKd5.md",
+              "kind": "source"
+            },
+            {
+              "title": "mypy documentation",
+              "url": "https://mypy-lang.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "python/mypy",
+              "url": "https://github.com/python/mypy",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-jnLIVRrWxcX3yq3Op91Vr",
+          "sourceId": "jnLIVRrWxcX3yq3Op91Vr",
+          "title": "Generator Expressions",
+          "description": "Chủ đề “Generator Expressions” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/generator-expressions@jnLIVRrWxcX3yq3Op91Vr.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Generator Expressions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/generator-expressions@jnLIVRrWxcX3yq3Op91Vr.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Official Documentation on Generator Expressions",
+              "url": "https://docs.python.org/3/tutorial/classes.html#generator-expressions",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Generator Expressions",
+              "url": "https://www.pythontutorial.net/advanced-python/python-generator-expressions/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "List Comprehensions in Python and Generator Expressions",
+              "url": "https://djangostars.com/blog/list-comprehensions-and-generator-expressions/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Master Python Filter: Syntax, Examples, and Best Practices",
+              "url": "https://roadmap.sh/python/filter",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-1q9HWgu9jDTK757hTNOmE",
+          "sourceId": "1q9HWgu9jDTK757hTNOmE",
+          "title": "pyright",
+          "description": "Chủ đề “pyright” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyright@1q9HWgu9jDTK757hTNOmE.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pyright",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyright@1q9HWgu9jDTK757hTNOmE.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pyright Documentation",
+              "url": "https://microsoft.github.io/pyright/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-AqwzR8dZKLQIoj_6KKZ3t",
+          "sourceId": "AqwzR8dZKLQIoj_6KKZ3t",
+          "title": "Classes",
+          "description": "Chủ đề “Classes” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/classes@AqwzR8dZKLQIoj_6KKZ3t.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Classes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/classes@AqwzR8dZKLQIoj_6KKZ3t.md",
+              "kind": "source"
+            },
+            {
+              "title": "Classes in Python",
+              "url": "https://docs.python.org/3/tutorial/classes.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Encapsulation in Python: All You Need to Know",
+              "url": "https://roadmap.sh/python/encapsulation",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python super() and init: Multiple Inheritance Guide",
+              "url": "https://roadmap.sh/python/super-init",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python OOP Tutorial",
+              "url": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zAS4YiEJ6VPsyABrkIG8i",
+          "sourceId": "zAS4YiEJ6VPsyABrkIG8i",
+          "title": "Methods",
+          "description": "Chủ đề “Methods” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/methods@zAS4YiEJ6VPsyABrkIG8i.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Methods",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/methods@zAS4YiEJ6VPsyABrkIG8i.md",
+              "kind": "source"
+            },
+            {
+              "title": "Method vs Function in Python",
+              "url": "https://www.tutorialspoint.com/difference-between-method-and-function-in-python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python - Magic or Dunder Methods",
+              "url": "https://www.tutorialsteacher.com/python/magic-methods-in-python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python super() and init: Multiple Inheritance Guide",
+              "url": "https://roadmap.sh/python/super-init",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-IWq-tfkz-pSC1ztZl60vM",
+          "sourceId": "IWq-tfkz-pSC1ztZl60vM",
+          "title": "Pipenv",
+          "description": "Chủ đề “Pipenv” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pipenv@IWq-tfkz-pSC1ztZl60vM.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pipenv",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pipenv@IWq-tfkz-pSC1ztZl60vM.md",
+              "kind": "source"
+            },
+            {
+              "title": "setup.py",
+              "url": "https://docs.python.org/3.11/distutils/setupscript.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pipenv Documentation",
+              "url": "https://pipenv.pypa.io/en/latest/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-4GU5HNi3W8yFkImVY9ZpW",
+          "sourceId": "4GU5HNi3W8yFkImVY9ZpW",
+          "title": "Paradigms",
+          "description": "Chủ đề “Paradigms” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/paradigms@4GU5HNi3W8yFkImVY9ZpW.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Paradigms",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/paradigms@4GU5HNi3W8yFkImVY9ZpW.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Paradigms",
+              "url": "https://opensource.com/article/19/10/python-programming-paradigms",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn Functional Programming - Python Course",
+              "url": "https://www.youtube.com/watch?v=5QZYGU0C2OA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-9mFR_ueXbIB2IrkqU2s85",
+          "sourceId": "9mFR_ueXbIB2IrkqU2s85",
+          "title": "pyre",
+          "description": "Chủ đề “pyre” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyre@9mFR_ueXbIB2IrkqU2s85.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pyre",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyre@9mFR_ueXbIB2IrkqU2s85.md",
+              "kind": "source"
+            },
+            {
+              "title": "pyrefly Documentation",
+              "url": "https://pyrefly.org",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-S0FLE70szSVUPI0CDEQK7",
+          "sourceId": "S0FLE70szSVUPI0CDEQK7",
+          "title": "Inheritance",
+          "description": "Chủ đề “Inheritance” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/inheritance@S0FLE70szSVUPI0CDEQK7.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Inheritance",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/inheritance@S0FLE70szSVUPI0CDEQK7.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Official Documentation on Inheritance",
+              "url": "https://docs.python.org/3/tutorial/classes.html#inheritance",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python super() and init: Multiple Inheritance Guide",
+              "url": "https://roadmap.sh/python/super-init",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3dC2o3WXdx4plFhDP2Vqk",
+          "sourceId": "3dC2o3WXdx4plFhDP2Vqk",
+          "title": "Encapsulation",
+          "description": "Chủ đề “Encapsulation” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/encapsulation@3dC2o3WXdx4plFhDP2Vqk.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Encapsulation",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/encapsulation@3dC2o3WXdx4plFhDP2Vqk.md",
+              "kind": "source"
+            },
+            {
+              "title": "Encapsulation in Python: All You Need to Know",
+              "url": "https://roadmap.sh/python/encapsulation",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Encapsulation",
+              "url": "https://programming-25.mooc.fi/part-9/3-encapsulation",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Encapsulation - Advanced Python Tutorial #5",
+              "url": "https://www.youtube.com/watch?v=dzmYoSzL8ok",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-_IXXTSwQOgYzYIUuKVWNE",
+          "sourceId": "_IXXTSwQOgYzYIUuKVWNE",
+          "title": "virtualenv",
+          "description": "Chủ đề “virtualenv” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/virtualenv@_IXXTSwQOgYzYIUuKVWNE.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: virtualenv",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/virtualenv@_IXXTSwQOgYzYIUuKVWNE.md",
+              "kind": "source"
+            },
+            {
+              "title": "Virtual Environments",
+              "url": "https://virtualenv.pypa.io/en/latest/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-KAXF2kUAOvtBZhY8G9rkI",
+          "sourceId": "KAXF2kUAOvtBZhY8G9rkI",
+          "title": "Context Manager",
+          "description": "Chủ đề “Context Manager” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/context-manager@KAXF2kUAOvtBZhY8G9rkI.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Context Manager",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/context-manager@KAXF2kUAOvtBZhY8G9rkI.md",
+              "kind": "source"
+            },
+            {
+              "title": "Context Libraries",
+              "url": "https://docs.python.org/3/library/contextlib.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Context Managers in Python",
+              "url": "https://www.freecodecamp.org/news/context-managers-in-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Context Managers",
+              "url": "https://book.pythontips.com/en/latest/context_managers.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-W3VALz5evFo1qqkQbMN1R",
+          "sourceId": "W3VALz5evFo1qqkQbMN1R",
+          "title": "Pydantic",
+          "description": "Chủ đề “Pydantic” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pydantic@W3VALz5evFo1qqkQbMN1R.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pydantic",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pydantic@W3VALz5evFo1qqkQbMN1R.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pydantic Documentation",
+              "url": "https://docs.pydantic.dev/latest/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pydantic: Simplifying Data Validation in Python – Real Python",
+              "url": "https://realpython.com/python-pydantic/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Set Environment Variables in Python (Step-by-Step)",
+              "url": "https://roadmap.sh/python/set-environment-variable",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pydantic Tutorial – Complete Python Data Validation (ArjanCodes)",
+              "url": "https://www.youtube.com/watch?v=XIdQ6gO3Anc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-N5VaKMbgQ0V_BC5tadV65",
+          "sourceId": "N5VaKMbgQ0V_BC5tadV65",
+          "title": "pyenv",
+          "description": "Chủ đề “pyenv” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyenv@N5VaKMbgQ0V_BC5tadV65.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pyenv",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyenv@N5VaKMbgQ0V_BC5tadV65.md",
+              "kind": "source"
+            },
+            {
+              "title": "pyenv/pyenv",
+              "url": "https://github.com/pyenv/pyenv",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-0-ShORjGnQlAdcwjtxdEB",
+          "sourceId": "0-ShORjGnQlAdcwjtxdEB",
+          "title": "Learn a Framework",
+          "description": "Chủ đề “Learn a Framework” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/learn-a-framework@0-ShORjGnQlAdcwjtxdEB.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Learn a Framework",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/learn-a-framework@0-ShORjGnQlAdcwjtxdEB.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pyscript: A Browser-Based Python Framework",
+              "url": "https://thenewstack.io/pyscript-a-browser-based-python-framework/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-u4nRzWQ4zhDFMOrZ2I_uJ",
+          "sourceId": "u4nRzWQ4zhDFMOrZ2I_uJ",
+          "title": "Concurrency",
+          "description": "Chủ đề “Concurrency” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/concurrency@u4nRzWQ4zhDFMOrZ2I_uJ.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Concurrency",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/concurrency@u4nRzWQ4zhDFMOrZ2I_uJ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Concurrent Execution",
+              "url": "https://docs.python.org/3/library/concurrency.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Concurrency",
+              "url": "https://realpython.com/python-concurrency/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Multithreading: The Most Practical Intro",
+              "url": "https://roadmap.sh/python/multithreading",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-1PXApuUpPmJjgi12cmWo4",
+          "sourceId": "1PXApuUpPmJjgi12cmWo4",
+          "title": "Static Typing",
+          "description": "Chủ đề “Static Typing” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/static-typing@1PXApuUpPmJjgi12cmWo4.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Static Typing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/static-typing@1PXApuUpPmJjgi12cmWo4.md",
+              "kind": "source"
+            },
+            {
+              "title": "Static Typing in Python",
+              "url": "https://typing.readthedocs.io/en/latest/index.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-tsh_vbhzKz1-H9Vh69tsK",
+          "sourceId": "tsh_vbhzKz1-H9Vh69tsK",
+          "title": "yapf",
+          "description": "Chủ đề “yapf” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/yapf@tsh_vbhzKz1-H9Vh69tsK.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: yapf",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/yapf@tsh_vbhzKz1-H9Vh69tsK.md",
+              "kind": "source"
+            },
+            {
+              "title": "google/yapf",
+              "url": "https://github.com/google/yapf",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-HSY5OUc_M5S6OcFXPRtkx",
+          "sourceId": "HSY5OUc_M5S6OcFXPRtkx",
+          "title": "Multiprocessing",
+          "description": "Chủ đề “Multiprocessing” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/multiprocessing@HSY5OUc_M5S6OcFXPRtkx.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Multiprocessing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/multiprocessing@HSY5OUc_M5S6OcFXPRtkx.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python Documentation",
+              "url": "https://docs.python.org/3/library/multiprocessing.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Multithreading: The Most Practical Intro",
+              "url": "https://roadmap.sh/python/multithreading",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Multiprocessing in Python with Example",
+              "url": "https://www.digitalocean.com/community/tutorials/python-multiprocessing-example",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Multiprocessing in Python",
+              "url": "https://realpython.com/python-multiprocessing/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-7zcpXN3krnS3tMRWVNIVe",
+          "sourceId": "7zcpXN3krnS3tMRWVNIVe",
+          "title": "Plotly Dash",
+          "description": "Chủ đề “Plotly Dash” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/plotly-dash@7zcpXN3krnS3tMRWVNIVe.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Plotly Dash",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/plotly-dash@7zcpXN3krnS3tMRWVNIVe.md",
+              "kind": "source"
+            },
+            {
+              "title": "Plotly Dash Documentation",
+              "url": "https://dash.plotly.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "20 Minutes Tutorial",
+              "url": "http://dash.plotly.com/tutorial",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-InUJIGmTnf0X4cSoLuCEQ",
+          "sourceId": "InUJIGmTnf0X4cSoLuCEQ",
+          "title": "gevent",
+          "description": "Chủ đề “gevent” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/gevent@InUJIGmTnf0X4cSoLuCEQ.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: gevent",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/gevent@InUJIGmTnf0X4cSoLuCEQ.md",
+              "kind": "source"
+            },
+            {
+              "title": "gevent Website",
+              "url": "http://www.gevent.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "gevent/gevent",
+              "url": "https://github.com/gevent/gevent",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "gevent For the Working Python Developer",
+              "url": "https://sdiehl.github.io/gevent-tutorial/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-IBVAvFtN4mnIPbIuyUvEb",
+          "sourceId": "IBVAvFtN4mnIPbIuyUvEb",
+          "title": "aiohttp",
+          "description": "Chủ đề “aiohttp” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/aiohttp@IBVAvFtN4mnIPbIuyUvEb.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: aiohttp",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/aiohttp@IBVAvFtN4mnIPbIuyUvEb.md",
+              "kind": "source"
+            },
+            {
+              "title": "aiohttp docs",
+              "url": "https://docs.aiohttp.org/en/stable/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Creating a RESTful API with Python and aiohttp",
+              "url": "https://tutorialedge.net/python/create-rest-api-python-aiohttp/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Asyncio, Requests, Aiohttp | Make faster API Calls",
+              "url": "https://www.youtube.com/watch?v=nFn4_nA_yk8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-DS6nuAUhUYcqiJDmQisKM",
+          "sourceId": "DS6nuAUhUYcqiJDmQisKM",
+          "title": "black",
+          "description": "Chủ đề “black” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/black@DS6nuAUhUYcqiJDmQisKM.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: black",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/black@DS6nuAUhUYcqiJDmQisKM.md",
+              "kind": "source"
+            },
+            {
+              "title": "Getting Started with Black",
+              "url": "https://black.readthedocs.io/en/stable/getting_started.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Black Documentation",
+              "url": "https://black.readthedocs.io/en/stable/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-0F0ppU_ClIUKZ23Q6BVZp",
+          "sourceId": "0F0ppU_ClIUKZ23Q6BVZp",
+          "title": "Code Formatting",
+          "description": "Chủ đề “Code Formatting” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/code-formatting@0F0ppU_ClIUKZ23Q6BVZp.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Code Formatting",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/code-formatting@0F0ppU_ClIUKZ23Q6BVZp.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pylint for Python",
+              "url": "https://www.pylint.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Black Documentation",
+              "url": "https://black.readthedocs.io/en/stable/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-Mow7RvropbC4ZGDpcGZmw",
+          "sourceId": "Mow7RvropbC4ZGDpcGZmw",
+          "title": "Asynchrony",
+          "description": "Chủ đề “Asynchrony” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/asynchrony@Mow7RvropbC4ZGDpcGZmw.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Asynchrony",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/asynchrony@Mow7RvropbC4ZGDpcGZmw.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python AsyncIO library",
+              "url": "https://docs.python.org/3/library/asyncio.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Async IO in Python: A Complete Walkthrough",
+              "url": "https://realpython.com/async-io-python/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-DHtskqATeAVKgaazdhXKD",
+          "sourceId": "DHtskqATeAVKgaazdhXKD",
+          "title": "Pyramid",
+          "description": "Chủ đề “Pyramid” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyramid@DHtskqATeAVKgaazdhXKD.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pyramid",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pyramid@DHtskqATeAVKgaazdhXKD.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pyramid Website",
+              "url": "https://trypyramid.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pyramid Documentation",
+              "url": "https://trypyramid.com/documentation.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pyramid Framework Introduction",
+              "url": "https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_pyramid_framework.htm",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zey2C6BdzsHJAlb_K3qrP",
+          "sourceId": "zey2C6BdzsHJAlb_K3qrP",
+          "title": "Tornado",
+          "description": "Chủ đề “Tornado” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tornado@zey2C6BdzsHJAlb_K3qrP.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Tornado",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tornado@zey2C6BdzsHJAlb_K3qrP.md",
+              "kind": "source"
+            },
+            {
+              "title": "Tornado Website",
+              "url": "https://www.tornadoweb.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "A Step-by-Step Tutorial on Python Tornado",
+              "url": "https://phrase.com/blog/posts/tornado-web-framework-i18n/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Tornado Python Framework",
+              "url": "https://www.youtube.com/watch?v=-gJ21qzpieA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-9RGpqsj9jHz0_-r7EvRcw",
+          "sourceId": "9RGpqsj9jHz0_-r7EvRcw",
+          "title": "Sanic",
+          "description": "Chủ đề “Sanic” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sanic@9RGpqsj9jHz0_-r7EvRcw.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Sanic",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sanic@9RGpqsj9jHz0_-r7EvRcw.md",
+              "kind": "source"
+            },
+            {
+              "title": "Sanic Official Website",
+              "url": "https://sanic.dev/en/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Sanic User Guide – Getting Started",
+              "url": "https://sanic.dev/en/guide/getting-started.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Sanic on GitHub",
+              "url": "https://github.com/sanic-org/sanic",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Sanic Python Framework Tutorial (Tech With Tim)",
+              "url": "https://www.youtube.com/watch?v=w4UQkgxKuaI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-6cB0pvUO1-gvCtgqozP-Q",
+          "sourceId": "6cB0pvUO1-gvCtgqozP-Q",
+          "title": "ruff",
+          "description": "Chủ đề “ruff” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/ruff@6cB0pvUO1-gvCtgqozP-Q.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ruff",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/ruff@6cB0pvUO1-gvCtgqozP-Q.md",
+              "kind": "source"
+            },
+            {
+              "title": "Ruff documentation",
+              "url": "https://docs.astral.sh/ruff/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-bS7WeVKm2kEElu3sBKcIC",
+          "sourceId": "bS7WeVKm2kEElu3sBKcIC",
+          "title": "GIL",
+          "description": "Chủ đề “GIL” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/gil@bS7WeVKm2kEElu3sBKcIC.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: GIL",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/gil@bS7WeVKm2kEElu3sBKcIC.md",
+              "kind": "source"
+            },
+            {
+              "title": "What is GIL?",
+              "url": "https://realpython.com/python-gil/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Multithreading: The Most Practical Intro",
+              "url": "https://roadmap.sh/python/multithreading",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-UIx0XYaOgXXlYbbQtjiPq",
+          "sourceId": "UIx0XYaOgXXlYbbQtjiPq",
+          "title": "Threading",
+          "description": "Chủ đề “Threading” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/threading@UIx0XYaOgXXlYbbQtjiPq.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Threading",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/threading@UIx0XYaOgXXlYbbQtjiPq.md",
+              "kind": "source"
+            },
+            {
+              "title": "Multithreading",
+              "url": "https://roadmap.sh/python/multithreading",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Threading Library",
+              "url": "https://docs.python.org/3/library/threading.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Introduction to Threading in Python",
+              "url": "https://realpython.com/intro-to-python-threading/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-maYNuTKYyZndxk1z29-UY",
+          "sourceId": "maYNuTKYyZndxk1z29-UY",
+          "title": "Sphinx",
+          "description": "Chủ đề “Sphinx” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sphinx@maYNuTKYyZndxk1z29-UY.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Sphinx",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/sphinx@maYNuTKYyZndxk1z29-UY.md",
+              "kind": "source"
+            },
+            {
+              "title": "Sphinx Website",
+              "url": "https://www.sphinx-doc.org/en/master/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-XeQSmvAsGSTi8dd7QVHxn",
+          "sourceId": "XeQSmvAsGSTi8dd7QVHxn",
+          "title": "Fast API",
+          "description": "Chủ đề “Fast API” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/fast-api@XeQSmvAsGSTi8dd7QVHxn.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Fast API",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/fast-api@XeQSmvAsGSTi8dd7QVHxn.md",
+              "kind": "source"
+            },
+            {
+              "title": "FastAPI Documentation",
+              "url": "https://fastapi.tiangolo.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Create an API with Fast-API (Full 19 Hour Course)",
+              "url": "https://www.youtube.com/watch?v=0sOvCWFmrtA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-x1V8GjdjANTnhP6YXMbgC",
+          "sourceId": "x1V8GjdjANTnhP6YXMbgC",
+          "title": "Django",
+          "description": "Chủ đề “Django” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/django@x1V8GjdjANTnhP6YXMbgC.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Django",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/django@x1V8GjdjANTnhP6YXMbgC.md",
+              "kind": "source"
+            },
+            {
+              "title": "Visit the Dedicated Django Roadmap",
+              "url": "https://roadmap.sh/django",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Getting Started",
+              "url": "https://www.djangoproject.com/start/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Is Django Synchronous or Asynchronous?",
+              "url": "https://stackoverflow.com/questions/58548089/django-is-synchronous-or-asynchronous",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Django Tutorial for Beginners",
+              "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-HKsGyRzntjh1UbRZSWh_4",
+          "sourceId": "HKsGyRzntjh1UbRZSWh_4",
+          "title": "Flask",
+          "description": "Chủ đề “Flask” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/flask@HKsGyRzntjh1UbRZSWh_4.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Flask",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/flask@HKsGyRzntjh1UbRZSWh_4.md",
+              "kind": "source"
+            },
+            {
+              "title": "Flask Website",
+              "url": "https://flask.palletsprojects.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Flask Tutorial",
+              "url": "https://flask.palletsprojects.com/en/3.0.x/tutorial/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-bqnwMKY4R0rirup3q_hb_",
+          "sourceId": "bqnwMKY4R0rirup3q_hb_",
+          "title": "glob",
+          "description": "Chủ đề “glob” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/glob@bqnwMKY4R0rirup3q_hb_.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: glob",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/glob@bqnwMKY4R0rirup3q_hb_.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python glob Module: File Pattern Matching Explained",
+              "url": "https://roadmap.sh/python/glob",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "glob",
+              "url": "https://realpython.com/ref/stdlib/glob/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Nf3kRDSl_vas6QPXG7eVa",
+          "sourceId": "Nf3kRDSl_vas6QPXG7eVa",
+          "title": "File Handling",
+          "description": "Chủ đề “File Handling” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/file-handling@Nf3kRDSl_vas6QPXG7eVa.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: File Handling",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/file-handling@Nf3kRDSl_vas6QPXG7eVa.md",
+              "kind": "source"
+            },
+            {
+              "title": "Python File open",
+              "url": "https://www.w3schools.com/python/python_file_handling.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Working With Files in Python",
+              "url": "https://realpython.com/working-with-files-in-python/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python glob Module: File Pattern Matching Explained",
+              "url": "https://roadmap.sh/python/glob",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python File Handling for Beginners",
+              "url": "https://www.youtube.com/watch?v=BRrem1k3904",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-jPFOiwbqfaGshaGDBWb5x",
+          "sourceId": "jPFOiwbqfaGshaGDBWb5x",
+          "title": "tox",
+          "description": "Chủ đề “tox” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tox@jPFOiwbqfaGshaGDBWb5x.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: tox",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/tox@jPFOiwbqfaGshaGDBWb5x.md",
+              "kind": "source"
+            },
+            {
+              "title": "Tox Documentation",
+              "url": "https://tox.wiki/en/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-b4he_RO17C3ScNeUd6v2b",
+          "sourceId": "b4he_RO17C3ScNeUd6v2b",
+          "title": "unittest / pyUnit",
+          "description": "Chủ đề “unittest / pyUnit” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/unittest--pyunit@b4he_RO17C3ScNeUd6v2b.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: unittest / pyUnit",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/unittest--pyunit@b4he_RO17C3ScNeUd6v2b.md",
+              "kind": "source"
+            },
+            {
+              "title": "docs.python.org",
+              "url": "http://docs.python.org",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How To Use unittest to Write a Test Case for a Function in Python",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "A Gentle Introduction to Unit Testing in Python",
+              "url": "https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-WQOYjuwKIWB2meea4JnsV",
+          "sourceId": "WQOYjuwKIWB2meea4JnsV",
+          "title": "Testing",
+          "description": "Chủ đề “Testing” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/testing@WQOYjuwKIWB2meea4JnsV.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Testing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/testing@WQOYjuwKIWB2meea4JnsV.md",
+              "kind": "source"
+            },
+            {
+              "title": "Unit Testing in Python",
+              "url": "https://docs.python.org/3/library/unittest.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Python Testing Tutorial",
+              "url": "https://realpython.com/python-testing/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-aVclygxoA9ePU5IxaORSH",
+          "sourceId": "aVclygxoA9ePU5IxaORSH",
+          "title": "doctest",
+          "description": "Chủ đề “doctest” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/doctest@aVclygxoA9ePU5IxaORSH.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: doctest",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/doctest@aVclygxoA9ePU5IxaORSH.md",
+              "kind": "source"
+            },
+            {
+              "title": "Doctest Module",
+              "url": "https://docs.python.org/3/library/doctest.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How To Write Doctests in Python",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3FDwJpesfelEyJrNWtm0V",
+          "sourceId": "3FDwJpesfelEyJrNWtm0V",
+          "title": "pytest",
+          "description": "Chủ đề “pytest” trong {'card': 'Python', 'page': 'Python Developer', '_id': '6a97028eaca636c6b9e98679'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pytest@3FDwJpesfelEyJrNWtm0V.md",
+          "reference": "https://roadmap.sh/python",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pytest",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/python/content/pytest@3FDwJpesfelEyJrNWtm0V.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pytest Docs",
+              "url": "https://docs.pytest.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pytest Tutorial",
+              "url": "https://www.tutorialspoint.com/pytest/index.htm",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Effective Python Testing With Pytest",
+              "url": "https://realpython.com/pytest-python-testing/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pytest Tutorial – How to Test Python Code",
+              "url": "https://www.youtube.com/watch?v=cHYq1MRoyI0",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "vl7nlXms7BiRUzVjPDLA_",
+        "type": "vertical",
+        "x": -190.17,
+        "y": 727.15,
+        "width": 20,
+        "height": 61
+      },
+      {
+        "id": "5q5TFOFUwrHJ-jmat4ua-",
+        "type": "vertical",
+        "x": -50.17,
+        "y": 727.15,
+        "width": 20,
+        "height": 61
+      },
+      {
+        "id": "GTrE6rpdP9FiLHmKlOB2h",
+        "type": "vertical",
+        "x": -321.32,
+        "y": 392.23,
+        "width": 20,
+        "height": 63
+      },
+      {
+        "id": "aMQvMd1sLeZ_K7TQL6oA_",
+        "type": "vertical",
+        "x": -420.73,
+        "y": 392.23,
+        "width": 20,
+        "height": 63
+      },
+      {
+        "id": "7qkVORlOiHO2gVIC0spiJ",
+        "type": "section",
+        "x": -470.11,
+        "y": 1043.84,
+        "width": 227,
+        "height": 157
+      },
+      {
+        "id": "DYVswTR2tgKfRIkQ3WGDW",
+        "type": "section",
+        "x": -615.08,
+        "y": 1043.84,
+        "width": 151,
+        "height": 152
+      },
+      {
+        "id": "jKeTTySc4iyJY29xLqNNQ",
+        "type": "section",
+        "x": 264.83,
+        "y": 1206.68,
+        "width": 175,
+        "height": 108
+      },
+      {
+        "id": "kEXUjAWagEHfsybVfqFbj",
+        "type": "vertical",
+        "x": 351.33,
+        "y": 987.15,
+        "width": 20,
+        "height": 217
+      },
+      {
+        "id": "RW1wSb7P-AZWXa_znXytT",
+        "type": "horizontal",
+        "x": 230.83,
+        "y": 958.15,
+        "width": 67,
+        "height": 20
+      },
+      {
+        "id": "I0lCQskv_MEITj9xTEetZ",
+        "type": "section",
+        "x": 67.8,
+        "y": 780.15,
+        "width": 166,
+        "height": 210
+      },
+      {
+        "id": "-Bdnmm4sceeOS3oBa214C",
+        "type": "section",
+        "x": -621.17,
+        "y": 576.08,
+        "width": 223,
+        "height": 111
+      },
+      {
+        "id": "n79gqI0nU2Ufufrbqn4I2",
+        "type": "vertical",
+        "x": -578.73,
+        "y": 953.84,
+        "width": 21,
+        "height": 90
+      },
+      {
+        "id": "nvL0Yb5peOKtN6J3bHlRt",
+        "type": "section",
+        "x": -615.08,
+        "y": 1193.28,
+        "width": 372,
+        "height": 118
+      },
+      {
+        "id": "QeITF-YfZejH1ChhvL153",
+        "type": "vertical",
+        "x": 300.86,
+        "y": 206.73,
+        "width": 21,
+        "height": 94
+      },
+      {
+        "id": "dtrq89l_tp6Z6J6hXsIov",
+        "type": "vertical",
+        "x": 175.36,
+        "y": 210.73,
+        "width": 21,
+        "height": 94
+      },
+      {
+        "id": "WM8uelKHGcNtlUiJVwxZf",
+        "type": "vertical",
+        "x": -578.73,
+        "y": 874.14,
+        "width": 21,
+        "height": 95
+      },
+      {
+        "id": "hVyw2aK17eHhz6Xg4Vccr",
+        "type": "vertical",
+        "x": -578.73,
+        "y": 465.73,
+        "width": 21,
+        "height": 89
+      },
+      {
+        "id": "LgWrLnoO7qkmpqJs35kyZ",
+        "type": "horizontal",
+        "x": -567.73,
+        "y": 458.23,
+        "width": 158,
+        "height": 20
+      },
+      {
+        "id": "LEijbLyxg4RyutKEM2Y5g",
+        "type": "vertical",
+        "x": -120.17,
+        "y": -291.77,
+        "width": 21,
+        "height": 76
+      },
+      {
+        "id": "xwpc_KxehAruFM0pCQnie",
+        "type": "vertical",
+        "x": -346.34,
+        "y": 1460.22,
+        "width": 21,
+        "height": 104
+      },
+      {
+        "id": "GISOFMKvnBys0O0IMpz2J",
+        "type": "topic",
+        "x": -243.17,
+        "y": -40.24,
+        "width": 267,
+        "height": 49
+      },
+      {
+        "id": "6xRncUs3_vxVbDur567QA",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": -147.46,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "dEFLBGpiH6nbSMeR7ecaT",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": -94.46,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "NP1kjSk0ujU0Gx-ajNHlR",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": 64.54,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "R9DQNc0AyAQ2HLpP4HOk6",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": -66.46,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "fNTb9y3zs1HPYclAmu_Wv",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": 39.54,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "-DJgS6l2qngfwurExlmmT",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": -13.46,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "UT_SR7G-LYtzqooWrEtF1",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": -172.46,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "i7xIGiXU-k5UIKHIhQPjE",
+        "type": "subtopic",
+        "x": 236.83,
+        "y": -172.46,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "soZFqivM3YBuljeX6PoaX",
+        "type": "subtopic",
+        "x": 340.83,
+        "y": -172.46,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "bc9CL_HMT-R6nXO1eR-gP",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": -119.46,
+        "width": 311,
+        "height": 49
+      },
+      {
+        "id": "Dvy7BnNzK55qbh_SgOk8m",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": 117.54,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "OPD4WdMO7q4gRZMcRCQh1",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 341.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "0NlRczh6ZEaFLlT6LORWz",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 447.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "DG4fi1e5ec2BVckPLsTJS",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 394.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "uJIqgsqUbE62Tyo3K75Qx",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 500.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "kLBgy_nxxjE8SxdVi04bq",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 553.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "vvTmjcWCVclOPY4f_5uB0",
+        "type": "subtopic",
+        "x": -243.67,
+        "y": 606.73,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "274uk28wzxn6EKWQzLpHs",
+        "type": "topic",
+        "x": 130.36,
+        "y": 265.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "VJSIbYJcy2MC6MOFBrqXi",
+        "type": "topic",
+        "x": -243.67,
+        "y": 241.71,
+        "width": 269,
+        "height": 49
+      },
+      {
+        "id": "08XifLQ20c4FKI_4AWNBQ",
+        "type": "subtopic",
+        "x": 130.36,
+        "y": 183.92,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "l7k0qTYe42wYBTlT2-1cy",
+        "type": "subtopic",
+        "x": 249.36,
+        "y": 183.92,
+        "width": 124,
+        "height": 49
+      },
+      {
+        "id": "aWHgAk959DPUZL46CeRiI",
+        "type": "topic",
+        "x": 130.36,
+        "y": 371.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "pIluLJkySqn_gI_GykV6G",
+        "type": "topic",
+        "x": 130.36,
+        "y": 424.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "aB1LSQjDEQb_BxueOcnxU",
+        "type": "topic",
+        "x": 130.36,
+        "y": 477.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "7t6mJBsaFMWPi7o9fbhhq",
+        "type": "topic",
+        "x": 130.36,
+        "y": 530.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "P_Di-XPSDITmU3xKQew8G",
+        "type": "topic",
+        "x": -248.17,
+        "y": 682.73,
+        "width": 276,
+        "height": 49
+      },
+      {
+        "id": "AqwzR8dZKLQIoj_6KKZ3t",
+        "type": "subtopic",
+        "x": -248.17,
+        "y": 786.73,
+        "width": 136,
+        "height": 49
+      },
+      {
+        "id": "S0FLE70szSVUPI0CDEQK7",
+        "type": "subtopic",
+        "x": -248.17,
+        "y": 839.73,
+        "width": 136,
+        "height": 49
+      },
+      {
+        "id": "zAS4YiEJ6VPsyABrkIG8i",
+        "type": "subtopic",
+        "x": -108.17,
+        "y": 786.73,
+        "width": 136,
+        "height": 49
+      },
+      {
+        "id": "qeCMw-sJ2FR4UxvU9DDzv",
+        "type": "topic",
+        "x": -461.23,
+        "y": 443.73,
+        "width": 195,
+        "height": 49
+      },
+      {
+        "id": "1dfOTOGsOk5XE3bnZs8Ht",
+        "type": "subtopic",
+        "x": -461.23,
+        "y": 257.73,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "iVhQnp6hpgVZDNJ0XoVra",
+        "type": "subtopic",
+        "x": -357.23,
+        "y": 257.73,
+        "width": 91,
+        "height": 49
+      },
+      {
+        "id": "uh67D1u-Iv5cZamRgFEJg",
+        "type": "subtopic",
+        "x": -461.23,
+        "y": 310.73,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "uXd2B01GVBEQNXQE8RATT",
+        "type": "subtopic",
+        "x": -461.23,
+        "y": 363.73,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "4gtmtYWYRWqwLdZRL0XMg",
+        "type": "topic",
+        "x": -621.17,
+        "y": 693.73,
+        "width": 223,
+        "height": 49
+      },
+      {
+        "id": "jnLIVRrWxcX3yq3Op91Vr",
+        "type": "topic",
+        "x": -621.17,
+        "y": 746.73,
+        "width": 223,
+        "height": 49
+      },
+      {
+        "id": "4GU5HNi3W8yFkImVY9ZpW",
+        "type": "topic",
+        "x": -621.17,
+        "y": 799.73,
+        "width": 223,
+        "height": 49
+      },
+      {
+        "id": "KAXF2kUAOvtBZhY8G9rkI",
+        "type": "topic",
+        "x": -621.17,
+        "y": 852.73,
+        "width": 223,
+        "height": 49
+      },
+      {
+        "id": "0-ShORjGnQlAdcwjtxdEB",
+        "type": "topic",
+        "x": -617.23,
+        "y": 947.73,
+        "width": 253,
+        "height": 49
+      },
+      {
+        "id": "xOUj3Uz6UZgm7j6RvIvDO",
+        "type": "label",
+        "x": -605.08,
+        "y": 1159.8,
+        "width": 131,
+        "height": 27,
+        "label": "Synchronous"
+      },
+      {
+        "id": "DHtskqATeAVKgaazdhXKD",
+        "type": "subtopic",
+        "x": -605.08,
+        "y": 1106.84,
+        "width": 131,
+        "height": 49
+      },
+      {
+        "id": "7zcpXN3krnS3tMRWVNIVe",
+        "type": "subtopic",
+        "x": -605.08,
+        "y": 1053.84,
+        "width": 131,
+        "height": 49
+      },
+      {
+        "id": "FFy2S2eFDyahPltEzucF8",
+        "type": "label",
+        "x": -428.86,
+        "y": 1157.28,
+        "width": 124,
+        "height": 36,
+        "label": "Asynchronous"
+      },
+      {
+        "id": "InUJIGmTnf0X4cSoLuCEQ",
+        "type": "subtopic",
+        "x": -457.82,
+        "y": 1053.78,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "IBVAvFtN4mnIPbIuyUvEb",
+        "type": "subtopic",
+        "x": -352.45,
+        "y": 1053.78,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "zey2C6BdzsHJAlb_K3qrP",
+        "type": "subtopic",
+        "x": -457.82,
+        "y": 1106.78,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "9RGpqsj9jHz0_-r7EvRcw",
+        "type": "subtopic",
+        "x": -352.45,
+        "y": 1106.78,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "NYOaEGM47I2oqnroxyVZV",
+        "type": "label",
+        "x": -551.58,
+        "y": 1208.26,
+        "width": 243,
+        "height": 36,
+        "label": "Synchronous + Asynchronous"
+      },
+      {
+        "id": "XeQSmvAsGSTi8dd7QVHxn",
+        "type": "subtopic",
+        "x": -600.89,
+        "y": 1249.64,
+        "width": 110,
+        "height": 49
+      },
+      {
+        "id": "x1V8GjdjANTnhP6YXMbgC",
+        "type": "subtopic",
+        "x": -488.39,
+        "y": 1249.64,
+        "width": 123,
+        "height": 49
+      },
+      {
+        "id": "HKsGyRzntjh1UbRZSWh_4",
+        "type": "subtopic",
+        "x": -362.89,
+        "y": 1249.64,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "u4nRzWQ4zhDFMOrZ2I_uJ",
+        "type": "topic",
+        "x": -201.6,
+        "y": 947.73,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "bS7WeVKm2kEElu3sBKcIC",
+        "type": "subtopic",
+        "x": -201.6,
+        "y": 1138.8,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "UIx0XYaOgXXlYbbQtjiPq",
+        "type": "subtopic",
+        "x": -201.6,
+        "y": 1191.8,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "HSY5OUc_M5S6OcFXPRtkx",
+        "type": "subtopic",
+        "x": -201.6,
+        "y": 1032.8,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "Mow7RvropbC4ZGDpcGZmw",
+        "type": "subtopic",
+        "x": -201.6,
+        "y": 1085.8,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "p3Frfs6oxpuciUzeCEsvb",
+        "type": "subtopic",
+        "x": -357.23,
+        "y": 310.73,
+        "width": 91,
+        "height": 49
+      },
+      {
+        "id": "GHKAY9gOykEbxkEeR30wL",
+        "type": "subtopic",
+        "x": -611.73,
+        "y": 590.08,
+        "width": 204,
+        "height": 49
+      },
+      {
+        "id": "yDP0K1gXlDmVSgTtGJaPY",
+        "type": "label",
+        "x": -578.31,
+        "y": 644.08,
+        "width": 144,
+        "height": 36,
+        "label": "Configuration"
+      },
+      {
+        "id": "IWq-tfkz-pSC1ztZl60vM",
+        "type": "subtopic",
+        "x": 77.8,
+        "y": 788.15,
+        "width": 146,
+        "height": 49
+      },
+      {
+        "id": "_IXXTSwQOgYzYIUuKVWNE",
+        "type": "subtopic",
+        "x": 77.8,
+        "y": 841.15,
+        "width": 146,
+        "height": 49
+      },
+      {
+        "id": "N5VaKMbgQ0V_BC5tadV65",
+        "type": "subtopic",
+        "x": 77.8,
+        "y": 894.15,
+        "width": 146,
+        "height": 46
+      },
+      {
+        "id": "lkST4ErYyBfrCcpsuptzh",
+        "type": "label",
+        "x": 77.8,
+        "y": 951.15,
+        "width": 146,
+        "height": 34,
+        "label": "Environments"
+      },
+      {
+        "id": "1PXApuUpPmJjgi12cmWo4",
+        "type": "topic",
+        "x": 282.83,
+        "y": 943.65,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "KFFbnOBa-y5r58w2pUf15",
+        "type": "horizontal",
+        "x": 3.51,
+        "y": 962.23,
+        "width": 68,
+        "height": 20
+      },
+      {
+        "id": "W3VALz5evFo1qqkQbMN1R",
+        "type": "subtopic",
+        "x": 282.83,
+        "y": 867.73,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "gIcJ3bUVQXqO1Wx4gUKd5",
+        "type": "subtopic",
+        "x": 282.83,
+        "y": 708.73,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "1q9HWgu9jDTK757hTNOmE",
+        "type": "subtopic",
+        "x": 282.83,
+        "y": 761.73,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "9mFR_ueXbIB2IrkqU2s85",
+        "type": "subtopic",
+        "x": 282.83,
+        "y": 814.73,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "0F0ppU_ClIUKZ23Q6BVZp",
+        "type": "topic",
+        "x": 259.83,
+        "y": 1071.92,
+        "width": 180,
+        "height": 49
+      },
+      {
+        "id": "6cB0pvUO1-gvCtgqozP-Q",
+        "type": "subtopic",
+        "x": 67.77,
+        "y": 1123.84,
+        "width": 108,
+        "height": 49
+      },
+      {
+        "id": "DS6nuAUhUYcqiJDmQisKM",
+        "type": "subtopic",
+        "x": 67.77,
+        "y": 1070.84,
+        "width": 108,
+        "height": 49
+      },
+      {
+        "id": "tsh_vbhzKz1-H9Vh69tsK",
+        "type": "subtopic",
+        "x": 67.77,
+        "y": 1017.84,
+        "width": 108,
+        "height": 49
+      },
+      {
+        "id": "ZFyKLneWQyUks5zSi_-kw",
+        "type": "label",
+        "x": 280.6,
+        "y": 1271.68,
+        "width": 146,
+        "height": 36,
+        "label": "Documentation"
+      },
+      {
+        "id": "maYNuTKYyZndxk1z29-UY",
+        "type": "subtopic",
+        "x": 280.6,
+        "y": 1216.8,
+        "width": 146,
+        "height": 46
+      },
+      {
+        "id": "_94NrQ3quc4t_PPOsFSN0",
+        "type": "topic",
+        "x": -621.17,
+        "y": 523.73,
+        "width": 222,
+        "height": 49
+      },
+      {
+        "id": "WQOYjuwKIWB2meea4JnsV",
+        "type": "topic",
+        "x": 25.33,
+        "y": 1411.22,
+        "width": 183,
+        "height": 49
+      },
+      {
+        "id": "aVclygxoA9ePU5IxaORSH",
+        "type": "subtopic",
+        "x": 266.58,
+        "y": 1433.96,
+        "width": 172,
+        "height": 49
+      },
+      {
+        "id": "3FDwJpesfelEyJrNWtm0V",
+        "type": "subtopic",
+        "x": 266.58,
+        "y": 1486.96,
+        "width": 172,
+        "height": 49
+      },
+      {
+        "id": "b4he_RO17C3ScNeUd6v2b",
+        "type": "subtopic",
+        "x": 266.58,
+        "y": 1380.96,
+        "width": 172,
+        "height": 49
+      },
+      {
+        "id": "o1wi39VnjnFfWIC8XcuAK",
+        "type": "subtopic",
+        "x": 282.83,
+        "y": 655.73,
+        "width": 157,
+        "height": 49
+      },
+      {
+        "id": "jPFOiwbqfaGshaGDBWb5x",
+        "type": "subtopic",
+        "x": 266.58,
+        "y": 1327.96,
+        "width": 172,
+        "height": 49
+      },
+      {
+        "id": "Sg5w8zO2Ji-uDJKEoWey9",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": 11.54,
+        "width": 268,
+        "height": 49
+      },
+      {
+        "id": "Nf3kRDSl_vas6QPXG7eVa",
+        "type": "topic",
+        "x": 25.33,
+        "y": 1270.68,
+        "width": 183,
+        "height": 49
+      },
+      {
+        "id": "xDgXISgVUMRHh9hu4h6Hl",
+        "type": "subtopic",
+        "x": -356.82,
+        "y": 363.73,
+        "width": 91,
+        "height": 49
+      },
+      {
+        "id": "3dC2o3WXdx4plFhDP2Vqk",
+        "type": "subtopic",
+        "x": -108.17,
+        "y": 839.73,
+        "width": 136,
+        "height": 49
+      },
+      {
+        "id": "3RNy7Sp28d-NMx0Yh4bdx",
+        "type": "topic",
+        "x": 131.83,
+        "y": 583.73,
+        "width": 243,
+        "height": 49
+      },
+      {
+        "id": "ZYTUO064gQpt3Jf2X4nUv",
+        "type": "horizontal",
+        "x": 211.83,
+        "y": 1284.14,
+        "width": 55,
+        "height": 20
+      },
+      {
+        "id": "bqnwMKY4R0rirup3q_hb_",
+        "type": "subtopic",
+        "x": -201.6,
+        "y": 1271.68,
+        "width": 132,
+        "height": 49
+      },
+      {
+        "id": "so95CO6Qw3I0S98ISENS-",
+        "type": "subtopic",
+        "x": -615.97,
+        "y": -41.46,
+        "width": 204,
+        "height": 49
+      },
+      {
+        "id": "__ndo1gcuUUtzmBnMIAbR",
+        "type": "subtopic",
+        "x": 131.83,
+        "y": 92.54,
+        "width": 155,
+        "height": 49
+      },
+      {
+        "id": "syV0DT_3ITgIFDbwPts8i",
+        "type": "subtopic",
+        "x": 290.83,
+        "y": 92.54,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "tbR_h9NpZ5tBTYuCfwkcY",
+        "type": "subtopic",
+        "x": -407.97,
+        "y": -41.46,
+        "width": 60,
+        "height": 49
+      },
+      {
+        "id": "4XqSkc3Tuub-ZVXvGfMIT",
+        "type": "topic",
+        "x": 130.36,
+        "y": 318.73,
+        "width": 243,
+        "height": 49
+      }
+    ],
+    "edges": [
+      {
+        "source": "hIQe_B-68ENL-GFg6GmnD",
+        "target": "GISOFMKvnBys0O0IMpz2J",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "6xRncUs3_vxVbDur567QA",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "dEFLBGpiH6nbSMeR7ecaT",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "NP1kjSk0ujU0Gx-ajNHlR",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "Dvy7BnNzK55qbh_SgOk8m",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "R9DQNc0AyAQ2HLpP4HOk6",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "fNTb9y3zs1HPYclAmu_Wv",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "-DJgS6l2qngfwurExlmmT",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "UT_SR7G-LYtzqooWrEtF1",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "bc9CL_HMT-R6nXO1eR-gP",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "VJSIbYJcy2MC6MOFBrqXi",
+        "target": "OPD4WdMO7q4gRZMcRCQh1",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "VJSIbYJcy2MC6MOFBrqXi",
+        "target": "274uk28wzxn6EKWQzLpHs",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "P_Di-XPSDITmU3xKQew8G",
+        "target": "qeCMw-sJ2FR4UxvU9DDzv",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "VJSIbYJcy2MC6MOFBrqXi",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "0-ShORjGnQlAdcwjtxdEB",
+        "target": "u4nRzWQ4zhDFMOrZ2I_uJ",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "u4nRzWQ4zhDFMOrZ2I_uJ",
+        "target": "HSY5OUc_M5S6OcFXPRtkx",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "1PXApuUpPmJjgi12cmWo4",
+        "target": "W3VALz5evFo1qqkQbMN1R",
+        "dashed": true,
+        "sourceHandle": "w2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "0F0ppU_ClIUKZ23Q6BVZp",
+        "target": "tsh_vbhzKz1-H9Vh69tsK",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "0F0ppU_ClIUKZ23Q6BVZp",
+        "target": "DS6nuAUhUYcqiJDmQisKM",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "0F0ppU_ClIUKZ23Q6BVZp",
+        "target": "6cB0pvUO1-gvCtgqozP-Q",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "WQOYjuwKIWB2meea4JnsV",
+        "target": "jPFOiwbqfaGshaGDBWb5x",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "WQOYjuwKIWB2meea4JnsV",
+        "target": "b4he_RO17C3ScNeUd6v2b",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "WQOYjuwKIWB2meea4JnsV",
+        "target": "aVclygxoA9ePU5IxaORSH",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "WQOYjuwKIWB2meea4JnsV",
+        "target": "3FDwJpesfelEyJrNWtm0V",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "WQOYjuwKIWB2meea4JnsV",
+        "target": "GV_zWF6rSWg5bqgiXhOEf",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "Sg5w8zO2Ji-uDJKEoWey9",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "Nf3kRDSl_vas6QPXG7eVa",
+        "target": "WQOYjuwKIWB2meea4JnsV",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "P_Di-XPSDITmU3xKQew8G",
+        "target": "3RNy7Sp28d-NMx0Yh4bdx",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "Nf3kRDSl_vas6QPXG7eVa",
+        "target": "bqnwMKY4R0rirup3q_hb_",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "__ndo1gcuUUtzmBnMIAbR",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "GISOFMKvnBys0O0IMpz2J",
+        "target": "tbR_h9NpZ5tBTYuCfwkcY",
+        "dashed": true,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      }
+    ]
+  }
+}

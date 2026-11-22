@@ -1,0 +1,55 @@
+/* Preserve the original Segoe UI / Helvetica / Arial font stack. */
+:root {
+  --blue-color: #b8202e;
+  --blue: #b8202e;
+  --light-blue-color: #f9e8eb;
+  --bg-secondary: #f4f5f7;
+  --bg-forth: #f1f3f5;
+  --divider: #e2e5e9;
+  --border-color: #d8dde3;
+  --color-primary: #252932;
+  --color-secondary: #68717c;
+  --shadow-1: rgba(30, 35, 45, 0.065);
+}
+.dark {
+  --blue-color: #ee7481;
+  --blue: #ee7481;
+  --light-blue-color: #402830;
+  --divider: #42454b;
+  --color-primary: #e4e6eb;
+  --color-secondary: #b0b3b8;
+  --bg-secondary: #18191a;
+  --bg-forth: #33363b;
+  --border-color: #4b4e55;
+}
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+.btn_blue {
+  background: #b8202e;
+}
+.btn_blue,
+.btn_blue span {
+  color: white;
+}
+.btn_blue:hover {
+  background: #9c1825;
+}
+.light_blue_btn {
+  background: var(--light-blue-color);
+}
+:focus-visible {
+  outline: 2px solid var(--blue-color);
+  outline-offset: 3px;
+}
+input,
+textarea {
+  user-select: text;
+}

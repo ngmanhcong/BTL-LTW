@@ -1,0 +1,33 @@
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+}
+.mark {
+  color: var(--blue-color);
+  flex-shrink: 0;
+}
+.mark * {
+  color: inherit;
+}
+.name {
+  font-size: 29px;
+  font-weight: 650;
+  letter-spacing: -0.8px;
+}
+.name strong {
+  color: var(--blue-color);
+  font-weight: 750;
+}
+.compact .name {
+  font-size: 21px;
+}
+.compact .mark {
+  width: 35px;
+}
+@media (max-width: 1100px) {
+  .compact .name {
+    display: none;
+  }
+}

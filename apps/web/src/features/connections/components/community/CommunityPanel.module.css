@@ -1,0 +1,71 @@
+.panel {
+  position: sticky;
+  top: 80px;
+  width: 100%;
+  align-self: start;
+}
+.panel section {
+  padding: 18px;
+  border: 1px solid var(--divider);
+  border-radius: 10px;
+  background: var(--bg-primary);
+  margin-bottom: 16px;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.heading h2 {
+  font-size: 14px;
+}
+.heading a,
+.heading > span,
+.all_friends {
+  color: var(--blue-color);
+  font-size: 12px;
+}
+.person {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  font-size: 14px;
+}
+.person img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.person small {
+  display: block;
+  color: var(--color-secondary);
+  font-size: 12px;
+  margin-top: 3px;
+}
+.avatar {
+  position: relative;
+  height: 36px;
+}
+.avatar i {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  bottom: 0;
+  right: 0;
+  border: 2px solid var(--bg-primary);
+  border-radius: 50%;
+  background: #278957;
+}
+.empty {
+  font-size: 13px;
+  color: var(--color-secondary);
+  line-height: 1.7;
+}
+.all_friends {
+  display: block;
+  margin-top: 14px;
+}

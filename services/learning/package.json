@@ -1,0 +1,7 @@
+{
+  "name": "@ptitsocial/learning",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "start": "node src/server.js", "dev": "node --watch src/server.js" },
+  "dependencies": { "@ptitsocial/service-kit": "*" }
+}

@@ -1,0 +1,268 @@
+.prose {
+  --code-bg: #fafbfe;
+  --code-line: #dce1e9;
+  --code-muted: #7b879b;
+  --syntax-keyword: #a342bd;
+  --syntax-string: #478c55;
+  --syntax-function: #386dba;
+  --syntax-number: #bd632b;
+  --syntax-type: #a67613;
+  color: var(--color-primary);
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-size: 14px;
+  line-height: 1.9;
+}
+.prose h1 {
+  font-size: clamp(24px, 2.5vw, 31px);
+  line-height: 1.35;
+  font-weight: 600;
+  letter-spacing: -0.6px;
+  margin: 0 0 12px;
+}
+.prose h2 {
+  font-size: 21px;
+  line-height: 1.4;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  margin: 35px 0 12px;
+}
+.prose h3 {
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 600;
+  margin: 26px 0 10px;
+}
+.prose h4,
+.prose h5,
+.prose h6 {
+  font-size: 15px;
+  margin: 22px 0 10px;
+}
+.prose p {
+  margin: 0 0 17px;
+  white-space: pre-line;
+}
+.prose h1 + p {
+  color: var(--color-secondary);
+  font-size: 14px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+.prose ul,
+.prose ol {
+  padding-left: 24px;
+  margin: 14px 0 20px;
+}
+.prose li {
+  margin: 5px 0;
+}
+.prose li > p {
+  margin-bottom: 6px;
+}
+.prose strong {
+  font-weight: 600;
+}
+.prose a {
+  color: #447fa5;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose blockquote {
+  border-left: 3px solid var(--divider);
+  padding: 5px 0 5px 16px;
+  margin: 22px 0;
+  color: var(--color-secondary);
+}
+.prose hr {
+  height: 1px;
+  border: 0;
+  background: var(--divider);
+  margin: 28px 0;
+}
+.prose :not(pre) > code {
+  font:
+    0.88em/1.6 Consolas,
+    'Cascadia Code',
+    monospace;
+  padding: 1px 5px;
+  color: var(--color-primary);
+  background: var(--bg-secondary);
+  border: 1px solid var(--divider);
+  border-radius: 4px;
+  white-space: break-spaces;
+}
+.codeBlock {
+  border: 1px solid var(--code-line);
+  background: var(--code-bg);
+  border-radius: 6px;
+  margin: 20px 0;
+  overflow: hidden;
+  min-width: 0;
+}
+.codeHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 7px 12px;
+  border-bottom: 1px solid var(--code-line);
+  color: var(--code-muted);
+  font:
+    11px/1.6 Consolas,
+    monospace;
+}
+.codeHeader button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 0;
+  background: transparent;
+  color: var(--code-muted);
+  cursor: pointer;
+  padding: 3px;
+  font-family: inherit;
+  font-size: 10px;
+  line-height: 1.5;
+}
+.codeHeader button:hover {
+  color: var(--color-primary);
+}
+.codeHeader button svg {
+  width: 13px;
+  height: 13px;
+  stroke: currentColor;
+  fill: none;
+}
+.codeBlock pre {
+  margin: 0;
+  padding: 16px;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  color: var(--color-primary);
+  tab-size: 4;
+  font:
+    12px/1.85 Consolas,
+    'Cascadia Code',
+    'Courier New',
+    monospace;
+  text-align: left;
+  white-space: pre;
+}
+.codeBlock pre code {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  white-space: inherit;
+  overflow-wrap: normal;
+}
+.comment,
+.prolog,
+.doctype {
+  color: #8793a6;
+  font-style: italic;
+}
+.keyword,
+.boolean,
+.operator {
+  color: var(--syntax-keyword);
+}
+.string,
+.char,
+.attr-value {
+  color: var(--syntax-string);
+}
+.function {
+  color: var(--syntax-function);
+}
+.number,
+.constant {
+  color: var(--syntax-number);
+}
+.class-name,
+.builtin,
+.namespace,
+.tag {
+  color: var(--syntax-type);
+}
+.punctuation {
+  color: var(--code-muted);
+}
+.copyError {
+  font-size: 11px;
+  padding: 8px 12px;
+  color: #bf4854;
+  margin: 0 !important;
+}
+.tableScroll {
+  overflow-x: auto;
+  margin: 20px 0;
+}
+.prose table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 12px;
+}
+.prose th,
+.prose td {
+  border: 1px solid var(--divider);
+  padding: 10px 12px;
+  text-align: left;
+}
+.prose th {
+  background: var(--bg-secondary);
+  font-weight: 600;
+}
+.compact {
+  font-size: 12px;
+}
+.compact h1,
+.compact h2 {
+  font-size: 16px;
+  margin: 18px 0 9px;
+  letter-spacing: 0;
+}
+.compact h3 {
+  font-size: 14px;
+}
+.compact p {
+  margin-bottom: 11px;
+}
+.compact .codeBlock {
+  margin: 12px 0;
+}
+.compact .codeBlock pre {
+  padding: 12px;
+  font-size: 11px;
+}
+.compact .codeHeader button > span {
+  display: none;
+}
+:global(.dark) .prose {
+  --code-bg: #1b1e23;
+  --code-line: #373d46;
+  --code-muted: #97a4b8;
+  --syntax-keyword: #cf9ce3;
+  --syntax-string: #a0c798;
+  --syntax-function: #9dbff0;
+  --syntax-number: #e7b58d;
+  --syntax-type: #dfcb91;
+}
+@media (max-width: 600px) {
+  .prose {
+    font-size: 13px;
+  }
+  .prose h1 {
+    font-size: 25px;
+  }
+  .prose h2 {
+    font-size: 20px;
+  }
+  .codeBlock pre {
+    padding: 13px;
+    font-size: 11px;
+  }
+}

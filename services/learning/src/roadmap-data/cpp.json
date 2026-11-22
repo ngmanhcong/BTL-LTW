@@ -1,0 +1,4357 @@
+{
+  "id": "cpp",
+  "sourceTitle": {
+    "card": "C++",
+    "page": "C++ Developer Roadmap",
+    "_id": "695e49163eeddc26d7c37ad7"
+  },
+  "reference": "https://roadmap.sh/cpp",
+  "source": {
+    "publisher": "roadmap.sh",
+    "url": "https://roadmap.sh/cpp",
+    "contentRepository": "https://github.com/nilbuild/developer-roadmap",
+    "commit": "3e1cb72a72b15d32b236d1f558800db87e977370",
+    "fetchedAt": "2026-11-18T14:51:26.348006+00:00",
+    "updatedAt": "2026-07-08T11:38:30.950Z",
+    "licenseUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/license"
+  },
+  "stages": [
+    {
+      "id": "roadmap-sh-topics",
+      "title": "Các chủ đề theo sơ đồ gốc",
+      "topics": [
+        {
+          "id": "rs-x_28LiDVshqWns_aIBsdx",
+          "sourceId": "x_28LiDVshqWns_aIBsdx",
+          "title": "What is C++?",
+          "description": "Chủ đề “What is C++?” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/what-is-c@x_28LiDVshqWns_aIBsdx.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: What is C++?",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/what-is-c@x_28LiDVshqWns_aIBsdx.md",
+              "kind": "source"
+            },
+            {
+              "title": "Learn C++",
+              "url": "https://www.learncpp.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Tutorial for Beginners - Full Course",
+              "url": "https://youtu.be/vLnPwxZdW4Y",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-NvODRFR0DLINB0RlPSsvt",
+          "sourceId": "NvODRFR0DLINB0RlPSsvt",
+          "title": "Introduction to Language",
+          "description": "Chủ đề “Introduction to Language” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/introduction-to-language@NvODRFR0DLINB0RlPSsvt.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Introduction to Language",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/introduction-to-language@NvODRFR0DLINB0RlPSsvt.md",
+              "kind": "source"
+            },
+            {
+              "title": "Modern Cpp Series By Mike Shah",
+              "url": "https://courses.mshah.io/courses/cpp-programming-language",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn C++",
+              "url": "https://www.learncpp.com/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Get Started with CPP!",
+              "url": "https://isocpp.org/get-started",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Full Course by freeCodeCamp",
+              "url": "https://youtu.be/vLnPwxZdW4Y",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Programming Course - Beginner to Advanced",
+              "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-tl6VCQ5IEGDVyFcgj7jDm",
+          "sourceId": "tl6VCQ5IEGDVyFcgj7jDm",
+          "title": "Why use C++",
+          "description": "Chủ đề “Why use C++” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/why-use-c@tl6VCQ5IEGDVyFcgj7jDm.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Why use C++",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/why-use-c@tl6VCQ5IEGDVyFcgj7jDm.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-2Ag0t3LPryTF8khHLRfy-",
+          "sourceId": "2Ag0t3LPryTF8khHLRfy-",
+          "title": "C vs C++",
+          "description": "Chủ đề “C vs C++” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-vs-c@2Ag0t3LPryTF8khHLRfy-.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C vs C++",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-vs-c@2Ag0t3LPryTF8khHLRfy-.md",
+              "kind": "source"
+            },
+            {
+              "title": "Visit the Dedicated C Programming Roadmap",
+              "url": "https://roadmap.sh/c",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ vs. C: When (and when not) to use each language",
+              "url": "https://roadmap.sh/cpp/vs-c",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Zc_TTzmM36yWsu3GvOy9x",
+          "sourceId": "Zc_TTzmM36yWsu3GvOy9x",
+          "title": "Setting up your Environment",
+          "description": "Chủ đề “Setting up your Environment” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/setting-up-your-environment@Zc_TTzmM36yWsu3GvOy9x.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Setting up your Environment",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/setting-up-your-environment@Zc_TTzmM36yWsu3GvOy9x.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Getting Started",
+              "url": "https://www.w3schools.com/cpp/cpp_getstarted.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to set up C++ in Visual Studio Code",
+              "url": "https://www.youtube.com/watch?v=DMWD7wfhgNY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-kl2JI_Wl47c5r8SYzxvCq",
+          "sourceId": "kl2JI_Wl47c5r8SYzxvCq",
+          "title": "Basic Operations",
+          "description": "Chủ đề “Basic Operations” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/basic-operations@kl2JI_Wl47c5r8SYzxvCq.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Basic Operations",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/basic-operations@kl2JI_Wl47c5r8SYzxvCq.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-bjpFWxiCKGz28E-ukhZBp",
+          "sourceId": "bjpFWxiCKGz28E-ukhZBp",
+          "title": "if else / switch / goto",
+          "description": "Chủ đề “if else / switch / goto” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/if-else--switch--goto@bjpFWxiCKGz28E-ukhZBp.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: if else / switch / goto",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/if-else--switch--goto@bjpFWxiCKGz28E-ukhZBp.md",
+              "kind": "source"
+            },
+            {
+              "title": "The 'if-else' Statement in C++",
+              "url": "https://www.youtube.com/watch?v=9-BjXs1vMSc",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn C++ With Me - Switch Statement",
+              "url": "https://www.youtube.com/watch?v=uOlLs1OYSSI",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Why is it illegal to use \"goto\"?",
+              "url": "https://youtu.be/AKJhThyTmQw?si=gjEqAsDZVMDGVAT2",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-_IP_e1K9LhNHilYTDh7L5",
+          "sourceId": "_IP_e1K9LhNHilYTDh7L5",
+          "title": "for / while / do while loops",
+          "description": "Chủ đề “for / while / do while loops” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/for--while--do-while-loops@_IP_e1K9LhNHilYTDh7L5.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: for / while / do while loops",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/for--while--do-while-loops@_IP_e1K9LhNHilYTDh7L5.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ For Loop",
+              "url": "https://www.w3schools.com/cpp/cpp_for_loop.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ While Loop",
+              "url": "http://w3schools.com/cpp/cpp_while_loop.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Do While Loop",
+              "url": "https://www.w3schools.com/cpp/cpp_do_while_loop.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-0J_ltQEJh2g28OE2ZEYJj",
+          "sourceId": "0J_ltQEJh2g28OE2ZEYJj",
+          "title": "Installing C++",
+          "description": "Chủ đề “Installing C++” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/installing-c@0J_ltQEJh2g28OE2ZEYJj.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Installing C++",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/installing-c@0J_ltQEJh2g28OE2ZEYJj.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-8aOSpZLWwZv_BEYiurhyR",
+          "sourceId": "8aOSpZLWwZv_BEYiurhyR",
+          "title": "Arithmetic Operators",
+          "description": "Chủ đề “Arithmetic Operators” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/arithmetic-operators@8aOSpZLWwZv_BEYiurhyR.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Arithmetic Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/arithmetic-operators@8aOSpZLWwZv_BEYiurhyR.md",
+              "kind": "source"
+            },
+            {
+              "title": "Arithmetic Operators",
+              "url": "https://www.w3schools.com/cpp/cpp_operators_arithmetic.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ew0AfyadpXPRO0ZY3Z19k",
+          "sourceId": "ew0AfyadpXPRO0ZY3Z19k",
+          "title": "Code Editors / IDEs",
+          "description": "Chủ đề “Code Editors / IDEs” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/code-editors--ides@ew0AfyadpXPRO0ZY3Z19k.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Code Editors / IDEs",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/code-editors--ides@ew0AfyadpXPRO0ZY3Z19k.md",
+              "kind": "source"
+            },
+            {
+              "title": "Using C++ on Linux in VSCode",
+              "url": "https://code.visualstudio.com/docs/cpp/config-linux",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Y9gq8WkDA_XGe68JkY2UZ",
+          "sourceId": "Y9gq8WkDA_XGe68JkY2UZ",
+          "title": "Logical Operators",
+          "description": "Chủ đề “Logical Operators” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/logical-operators@Y9gq8WkDA_XGe68JkY2UZ.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Logical Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/logical-operators@Y9gq8WkDA_XGe68JkY2UZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Logical Operators",
+              "url": "https://www.w3schools.com/cpp/cpp_operators_logical.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-s5Gs4yF9TPh-psYmtPzks",
+          "sourceId": "s5Gs4yF9TPh-psYmtPzks",
+          "title": "Control Flow & Statements",
+          "description": "Chủ đề “Control Flow & Statements” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/control-flow--statements@s5Gs4yF9TPh-psYmtPzks.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Control Flow & Statements",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/control-flow--statements@s5Gs4yF9TPh-psYmtPzks.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-SEq0D2Zg5WTsIDtd1hW9f",
+          "sourceId": "SEq0D2Zg5WTsIDtd1hW9f",
+          "title": "Running your First Program",
+          "description": "Chủ đề “Running your First Program” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/running-your-first-program@SEq0D2Zg5WTsIDtd1hW9f.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Running your First Program",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/running-your-first-program@SEq0D2Zg5WTsIDtd1hW9f.md",
+              "kind": "source"
+            },
+            {
+              "title": "Get Started With C++",
+              "url": "https://www.w3schools.com/cpp/cpp_getstarted.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zE4iPSq2KsrDSByQ0sGK_",
+          "sourceId": "zE4iPSq2KsrDSByQ0sGK_",
+          "title": "Bitwise Operators",
+          "description": "Chủ đề “Bitwise Operators” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/bitwise-operators@zE4iPSq2KsrDSByQ0sGK_.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Bitwise Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/bitwise-operators@zE4iPSq2KsrDSByQ0sGK_.md",
+              "kind": "source"
+            },
+            {
+              "title": "Intro to Binary and Bitwise Operators in C++",
+              "url": "https://youtu.be/KXwRt7og0gI",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Bitwise AND (&), OR (|), XOR (^) and NOT (~) in C++",
+              "url": "https://youtu.be/HoQhw6_1NAA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-DWw8NxkLpIpiOSUaZZ1oA",
+          "sourceId": "DWw8NxkLpIpiOSUaZZ1oA",
+          "title": "Pointers and References",
+          "description": "Chủ đề “Pointers and References” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pointers-and-references@DWw8NxkLpIpiOSUaZZ1oA.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pointers and References",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pointers-and-references@DWw8NxkLpIpiOSUaZZ1oA.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Pointers",
+              "url": "https://www.youtube.com/watch?v=slzcWKWCMBg",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Function Pointer in C++",
+              "url": "https://www.scaler.com/topics/cpp/function-pointer-cpp/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-MwznA4qfpNlv6sqSNjPZi",
+          "sourceId": "MwznA4qfpNlv6sqSNjPZi",
+          "title": "Data Types",
+          "description": "Chủ đề “Data Types” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/data-types@MwznA4qfpNlv6sqSNjPZi.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Data Types",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/data-types@MwznA4qfpNlv6sqSNjPZi.md",
+              "kind": "source"
+            },
+            {
+              "title": "Data Types",
+              "url": "https://www.w3schools.com/cpp/cpp_data_types.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-oYi3YOc1GC2Nfp71VOkJt",
+          "sourceId": "oYi3YOc1GC2Nfp71VOkJt",
+          "title": "Functions",
+          "description": "Chủ đề “Functions” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/functions@oYi3YOc1GC2Nfp71VOkJt.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Functions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/functions@oYi3YOc1GC2Nfp71VOkJt.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Functions",
+              "url": "https://www.w3schools.com/cpp/cpp_functions.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "introduction to functions in c++",
+              "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Learn C++ With Me #20 - Functions",
+              "url": "https://www.youtube.com/watch?v=C83tPpvxIJA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-f1djN0GxoeVPr_0cl6vMq",
+          "sourceId": "f1djN0GxoeVPr_0cl6vMq",
+          "title": "Static Typing",
+          "description": "Chủ đề “Static Typing” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static-typing@f1djN0GxoeVPr_0cl6vMq.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Static Typing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static-typing@f1djN0GxoeVPr_0cl6vMq.md",
+              "kind": "source"
+            },
+            {
+              "title": "Type-Coversion",
+              "url": "https://www.programiz.com/cpp-programming/type-conversion",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Static Vs Dynamic",
+              "url": "https://www.techtarget.com/searchapparchitecture/tip/Static-vs-dynamic-typing-The-details-and-differences",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-llCBeut_uc9IAe2oi4KZ9",
+          "sourceId": "llCBeut_uc9IAe2oi4KZ9",
+          "title": "Operator Overloading",
+          "description": "Chủ đề “Operator Overloading” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/operator-overloading@llCBeut_uc9IAe2oi4KZ9.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Operator Overloading",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/operator-overloading@llCBeut_uc9IAe2oi4KZ9.md",
+              "kind": "source"
+            },
+            {
+              "title": "Operator Overloading - Microsoft Learn",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/operator-overloading",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "operator overloading - cppreference.com",
+              "url": "https://en.cppreference.com/w/cpp/language/operators",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-uUzRKa9wGzdUwwmAg3FWr",
+          "sourceId": "uUzRKa9wGzdUwwmAg3FWr",
+          "title": "References",
+          "description": "Chủ đề “References” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/references@uUzRKa9wGzdUwwmAg3FWr.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: References",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/references@uUzRKa9wGzdUwwmAg3FWr.md",
+              "kind": "source"
+            },
+            {
+              "title": "References",
+              "url": "https://en.cppreference.com/w/cpp/language/reference",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ References",
+              "url": "https://www.w3schools.com/cpp/cpp_references.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "REFERENCES in C++",
+              "url": "https://www.youtube.com/watch?v=IzoFn3dfsPA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-mSFwsTYvmg-GwG4_DEIEf",
+          "sourceId": "mSFwsTYvmg-GwG4_DEIEf",
+          "title": "Memory Model",
+          "description": "Chủ đề “Memory Model” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/memory-model@mSFwsTYvmg-GwG4_DEIEf.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Memory Model",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/memory-model@mSFwsTYvmg-GwG4_DEIEf.md",
+              "kind": "source"
+            },
+            {
+              "title": "Memory Segments in C/C++",
+              "url": "https://www.youtube.com/watch?v=2htbIR2QpaM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-i0EAFEUB-F0wBJWOtrl1A",
+          "sourceId": "i0EAFEUB-F0wBJWOtrl1A",
+          "title": "Dynamic Typing",
+          "description": "Chủ đề “Dynamic Typing” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic-typing@i0EAFEUB-F0wBJWOtrl1A.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Dynamic Typing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic-typing@i0EAFEUB-F0wBJWOtrl1A.md",
+              "kind": "source"
+            },
+            {
+              "title": "Dynamic Typing in C++",
+              "url": "https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/dynamic-type-declaration-in-cpp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Static vs Dynamic Typing",
+              "url": "https://www.youtube.com/watch?v=GqXpFycPWLE",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-xjiFBVe-VGqCqWfkPVGKf",
+          "sourceId": "xjiFBVe-VGqCqWfkPVGKf",
+          "title": "Lambdas",
+          "description": "Chủ đề “Lambdas” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/lambdas@xjiFBVe-VGqCqWfkPVGKf.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Lambdas",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/lambdas@xjiFBVe-VGqCqWfkPVGKf.md",
+              "kind": "source"
+            },
+            {
+              "title": "Lambda Expressions",
+              "url": "https://en.cppreference.com/w/cpp/language/lambda",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Lambdas in C++",
+              "url": "https://youtu.be/MH8mLFqj-n8",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-9aA_-IfQ9WmbPgwic0mFN",
+          "sourceId": "9aA_-IfQ9WmbPgwic0mFN",
+          "title": "Lifetime of Objects",
+          "description": "Chủ đề “Lifetime of Objects” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/lifetime-of-objects@9aA_-IfQ9WmbPgwic0mFN.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Lifetime of Objects",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/lifetime-of-objects@9aA_-IfQ9WmbPgwic0mFN.md",
+              "kind": "source"
+            },
+            {
+              "title": "Lifetime",
+              "url": "https://en.cppreference.com/w/cpp/language/lifetime.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Object Lifetime in C++ (Stack/Scope Lifetimes)",
+              "url": "http://youtube.com/watch?v=iNuTwvD6ciI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-obZIxRp0eMWdG7gplNIBc",
+          "sourceId": "obZIxRp0eMWdG7gplNIBc",
+          "title": "Static Polymorphism",
+          "description": "Chủ đề “Static Polymorphism” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static-polymorphism@obZIxRp0eMWdG7gplNIBc.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Static Polymorphism",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static-polymorphism@obZIxRp0eMWdG7gplNIBc.md",
+              "kind": "source"
+            },
+            {
+              "title": "Static Polymorphism in C++",
+              "url": "https://medium.com/@kateolenya/static-polymorphism-in-c-9e1ae27a945b",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Advanced C++: Static Polymorphism",
+              "url": "https://www.youtube.com/watch?v=-WV9vWjhI3g",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-r0yD1gfn03wTpEBi6zNsu",
+          "sourceId": "r0yD1gfn03wTpEBi6zNsu",
+          "title": "RTTI",
+          "description": "Chủ đề “RTTI” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/rtti@r0yD1gfn03wTpEBi6zNsu.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: RTTI",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/rtti@r0yD1gfn03wTpEBi6zNsu.md",
+              "kind": "source"
+            },
+            {
+              "title": "What Is Runtime Type Identification (RTTI) in C++?",
+              "url": "https://www.codeguru.com/cplusplus/what-is-runtime-type-identification-rtti-in-c/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Dynamic cast c++ Runtime Type Identification example why we use dynamic cast - RTTI",
+              "url": "https://www.youtube.com/watch?v=2PXN7Zk9v80",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-sgfqb22sdN4VRJYkhAVaf",
+          "sourceId": "sgfqb22sdN4VRJYkhAVaf",
+          "title": "Function Overloading",
+          "description": "Chủ đề “Function Overloading” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/function-overloading@sgfqb22sdN4VRJYkhAVaf.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Function Overloading",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/function-overloading@sgfqb22sdN4VRJYkhAVaf.md",
+              "kind": "source"
+            },
+            {
+              "title": "Function Overloading - Microsoft Learn",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/function-overloading",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ulvwm4rRPgkpgaqGgyH5a",
+          "sourceId": "ulvwm4rRPgkpgaqGgyH5a",
+          "title": "Smart Pointers",
+          "description": "Chủ đề “Smart Pointers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/smart-pointers@ulvwm4rRPgkpgaqGgyH5a.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Smart Pointers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/smart-pointers@ulvwm4rRPgkpgaqGgyH5a.md",
+              "kind": "source"
+            },
+            {
+              "title": "Smart Pointers",
+              "url": "https://en.cppreference.com/book/intro/smart_pointers",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)",
+              "url": "https://www.youtube.com/watch?v=UOB7-B2MfwA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ZHjU60uzJTezADRhDTESG",
+          "sourceId": "ZHjU60uzJTezADRhDTESG",
+          "title": "Forward Declaration",
+          "description": "Chủ đề “Forward Declaration” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/forward-declaration@ZHjU60uzJTezADRhDTESG.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Forward Declaration",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/forward-declaration@ZHjU60uzJTezADRhDTESG.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-vUwSS-uX36OWZouO0wOcy",
+          "sourceId": "vUwSS-uX36OWZouO0wOcy",
+          "title": "weak_ptr",
+          "description": "Chủ đề “weak_ptr” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/weak_ptr@vUwSS-uX36OWZouO0wOcy.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: weak_ptr",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/weak_ptr@vUwSS-uX36OWZouO0wOcy.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-CK7yf8Bo7kfbV6x2tZTrh",
+          "sourceId": "CK7yf8Bo7kfbV6x2tZTrh",
+          "title": "Headers / CPP Files",
+          "description": "Chủ đề “Headers / CPP Files” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/headers--cpp-files@CK7yf8Bo7kfbV6x2tZTrh.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Headers / CPP Files",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/headers--cpp-files@CK7yf8Bo7kfbV6x2tZTrh.md",
+              "kind": "source"
+            },
+            {
+              "title": "Header files (C++)",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What are header files in C++ ( PROGRAMMING TUTORIAL for beginners)",
+              "url": "https://www.youtube.com/watch?v=qaGzc56Rekg",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-hNBErGNiegLsUJn_vgcOR",
+          "sourceId": "hNBErGNiegLsUJn_vgcOR",
+          "title": "Virtual Methods",
+          "description": "Chủ đề “Virtual Methods” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/virtual-methods@hNBErGNiegLsUJn_vgcOR.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Virtual Methods",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/virtual-methods@hNBErGNiegLsUJn_vgcOR.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Virtual Functions Documentation",
+              "url": "https://en.cppreference.com/w/cpp/language/virtual",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Virtual Functions Explained (YouTube)",
+              "url": "https://www.youtube.com/watch?v=oIV2KchSyGQ&ab_channel=TheCherno",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-s99ImazcwCgAESxZd8ksa",
+          "sourceId": "s99ImazcwCgAESxZd8ksa",
+          "title": "Virtual Tables",
+          "description": "Chủ đề “Virtual Tables” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/virtual-tables@s99ImazcwCgAESxZd8ksa.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Virtual Tables",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/virtual-tables@s99ImazcwCgAESxZd8ksa.md",
+              "kind": "source"
+            },
+            {
+              "title": "Classes part 18 - Understanding the vtable (Popular interview question) | Modern Cpp Series Ep. 54",
+              "url": "https://www.youtube.com/watch?v=hS7kPtVB1vI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-b5jZIZD_U_CPg-_bdndjz",
+          "sourceId": "b5jZIZD_U_CPg-_bdndjz",
+          "title": "shared_ptr",
+          "description": "Chủ đề “shared_ptr” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/shared_ptr@b5jZIZD_U_CPg-_bdndjz.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: shared_ptr",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/shared_ptr@b5jZIZD_U_CPg-_bdndjz.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-7h1VivjCPDwriL7FirtFv",
+          "sourceId": "7h1VivjCPDwriL7FirtFv",
+          "title": "Dynamic Polymorphism",
+          "description": "Chủ đề “Dynamic Polymorphism” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic-polymorphism@7h1VivjCPDwriL7FirtFv.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Dynamic Polymorphism",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic-polymorphism@7h1VivjCPDwriL7FirtFv.md",
+              "kind": "source"
+            },
+            {
+              "title": "Understanding Dynamic Polymorphism in C++",
+              "url": "https://hackernoon.com/understanding-dynamic-polymorphism-in-c",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Dynamic Binding (Polymorphism) With The Virtual Keyword | C++ Tutorial",
+              "url": "https://www.youtube.com/watch?v=-FUhG98hdLI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-iIdC7V8sojwyEqK1xMuHn",
+          "sourceId": "iIdC7V8sojwyEqK1xMuHn",
+          "title": "Namespaces",
+          "description": "Chủ đề “Namespaces” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/namespaces@iIdC7V8sojwyEqK1xMuHn.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Namespaces",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/namespaces@iIdC7V8sojwyEqK1xMuHn.md",
+              "kind": "source"
+            },
+            {
+              "title": "Namespaces",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What are C++ namespaces? 📛",
+              "url": "https://www.youtube.com/watch?v=2lcIKzFHjSM",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-k9c5seRkhgm_yHPpiz2X0",
+          "sourceId": "k9c5seRkhgm_yHPpiz2X0",
+          "title": "unique_ptr",
+          "description": "Chủ đề “unique_ptr” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/unique_ptr@k9c5seRkhgm_yHPpiz2X0.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: unique_ptr",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/unique_ptr@k9c5seRkhgm_yHPpiz2X0.md",
+              "kind": "source"
+            },
+            {
+              "title": "std::unique_ptr - Detailed Reference",
+              "url": "https://en.cppreference.com/w/cpp/memory/unique_ptr",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Smart Pointers – unique_ptr",
+              "url": "https://www.learncpp.com/cpp-tutorial/stdunique_ptr/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "When should you use std::unique_ptr? - StackOverflow Discussion",
+              "url": "https://stackoverflow.com/questions/13782051/when-should-you-use-stdunique-ptr",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-dKCYmxDNZubCVcR5rf8b-",
+          "sourceId": "dKCYmxDNZubCVcR5rf8b-",
+          "title": "Scope",
+          "description": "Chủ đề “Scope” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/scope@dKCYmxDNZubCVcR5rf8b-.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Scope",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/scope@dKCYmxDNZubCVcR5rf8b-.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Variable Scope",
+              "url": "https://www.w3schools.com/cpp/cpp_scope.asp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-b3-QYKNcW3LYCNOza3Olf",
+          "sourceId": "b3-QYKNcW3LYCNOza3Olf",
+          "title": "Object Oriented Programming",
+          "description": "Chủ đề “Object Oriented Programming” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/object-oriented-programming@b3-QYKNcW3LYCNOza3Olf.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Object Oriented Programming",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/object-oriented-programming@b3-QYKNcW3LYCNOza3Olf.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ OOP",
+              "url": "https://www.w3schools.com/cpp/cpp_oop.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Object Oriented Programming (OOP) in C++ Course",
+              "url": "https://www.youtube.com/watch?v=wN0x9eZLix4",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-uEGEmbxegATIrvGfobJb9",
+          "sourceId": "uEGEmbxegATIrvGfobJb9",
+          "title": "Raw Pointers",
+          "description": "Chủ đề “Raw Pointers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/raw-pointers@uEGEmbxegATIrvGfobJb9.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Raw Pointers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/raw-pointers@uEGEmbxegATIrvGfobJb9.md",
+              "kind": "source"
+            },
+            {
+              "title": "Raw pointers (C++)",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/raw-pointers?view=msvc-170",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Gld0nRs0sM8kRe8XmYolu",
+          "sourceId": "Gld0nRs0sM8kRe8XmYolu",
+          "title": "New/Delete Operators",
+          "description": "Chủ đề “New/Delete Operators” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/newdelete-operators@Gld0nRs0sM8kRe8XmYolu.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: New/Delete Operators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/newdelete-operators@Gld0nRs0sM8kRe8XmYolu.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Zw2AOTK5uc9BoKEpY7W1C",
+          "sourceId": "Zw2AOTK5uc9BoKEpY7W1C",
+          "title": "Structuring Codebase",
+          "description": "Chủ đề “Structuring Codebase” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/structuring-codebase@Zw2AOTK5uc9BoKEpY7W1C.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Structuring Codebase",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/structuring-codebase@Zw2AOTK5uc9BoKEpY7W1C.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-CMlWNQwpywNhO9B6Yj6Me",
+          "sourceId": "CMlWNQwpywNhO9B6Yj6Me",
+          "title": "Structures and Classes",
+          "description": "Chủ đề “Structures and Classes” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/structures-and-classes@CMlWNQwpywNhO9B6Yj6Me.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Structures and Classes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/structures-and-classes@CMlWNQwpywNhO9B6Yj6Me.md",
+              "kind": "source"
+            },
+            {
+              "title": "Classes and Structs (C++)",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "CLASSES vs STRUCTS in C++",
+              "url": "https://www.youtube.com/watch?v=fLgTtaqqJp0",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-6w0WExQ4lGIGgok6Thq0s",
+          "sourceId": "6w0WExQ4lGIGgok6Thq0s",
+          "title": "Memory Leakage",
+          "description": "Chủ đề “Memory Leakage” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/memory-leakage@6w0WExQ4lGIGgok6Thq0s.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Memory Leakage",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/memory-leakage@6w0WExQ4lGIGgok6Thq0s.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-WjHpueZDK-d3oDNMVZi9w",
+          "sourceId": "WjHpueZDK-d3oDNMVZi9w",
+          "title": "Multiple Inheritance",
+          "description": "Chủ đề “Multiple Inheritance” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/multiple-inheritance@WjHpueZDK-d3oDNMVZi9w.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Multiple Inheritance",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/multiple-inheritance@WjHpueZDK-d3oDNMVZi9w.md",
+              "kind": "source"
+            },
+            {
+              "title": "Multiple Inheritance",
+              "url": "https://www.w3schools.com/cpp/cpp_inheritance_multiple.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Multiple Inheritance Deep Dive | C++ Tutorial",
+              "url": "https://www.youtube.com/watch?v=sswTE0u0r7g",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ofwdZm05AUqCIWmfgGHk8",
+          "sourceId": "ofwdZm05AUqCIWmfgGHk8",
+          "title": "Diamond Inheritance",
+          "description": "Chủ đề “Diamond Inheritance” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/diamond-inheritance@ofwdZm05AUqCIWmfgGHk8.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Diamond Inheritance",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/diamond-inheritance@ofwdZm05AUqCIWmfgGHk8.md",
+              "kind": "source"
+            },
+            {
+              "title": "Understanding Virtual Inheritance and the Diamond Problem in C++",
+              "url": "https://medium.com/@antilogatharv/understanding-virtual-inheritance-and-the-diamond-problem-in-c-da7c63d76723",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs--6fwJQOfsorgHkoQGp4T3",
+          "sourceId": "-6fwJQOfsorgHkoQGp4T3",
+          "title": "Language Concepts",
+          "description": "Chủ đề “Language Concepts” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/language-concepts@-6fwJQOfsorgHkoQGp4T3.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Language Concepts",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/language-concepts@-6fwJQOfsorgHkoQGp4T3.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-B2SGBENzUMl0SAjG4j91V",
+          "sourceId": "B2SGBENzUMl0SAjG4j91V",
+          "title": "Exception Handling",
+          "description": "Chủ đề “Exception Handling” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exception-handling@B2SGBENzUMl0SAjG4j91V.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Exception Handling",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exception-handling@B2SGBENzUMl0SAjG4j91V.md",
+              "kind": "source"
+            },
+            {
+              "title": "Exception Handling",
+              "url": "https://www.w3schools.com/cpp/cpp_exceptions.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Exception handling in C++ (How to handle errors in your program?)",
+              "url": "https://www.youtube.com/watch?v=kjEhqgmEiWY",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-7sdEzZCIoarzznwO4XcCv",
+          "sourceId": "7sdEzZCIoarzznwO4XcCv",
+          "title": "Rule of Zero, Five, Three",
+          "description": "Chủ đề “Rule of Zero, Five, Three” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/rule-of-zero-five-three@7sdEzZCIoarzznwO4XcCv.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Rule of Zero, Five, Three",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/rule-of-zero-five-three@7sdEzZCIoarzznwO4XcCv.md",
+              "kind": "source"
+            },
+            {
+              "title": "The rule of three/five/zero",
+              "url": "https://en.cppreference.com/w/cpp/language/rule_of_three.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The Rule of 0/3/5",
+              "url": "https://medium.com/@Farhan11637/the-rule-of-0-3-5-2e608a717811",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-oWygnpwHq2poXQMTTSCpl",
+          "sourceId": "oWygnpwHq2poXQMTTSCpl",
+          "title": "Exit Codes",
+          "description": "Chủ đề “Exit Codes” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exit-codes@oWygnpwHq2poXQMTTSCpl.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Exit Codes",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exit-codes@oWygnpwHq2poXQMTTSCpl.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-CG01PTVgHtjfKvsJkJLGl",
+          "sourceId": "CG01PTVgHtjfKvsJkJLGl",
+          "title": "auto (Automatic Type Deduction)",
+          "description": "Chủ đề “auto (Automatic Type Deduction)” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/auto-automatic-type-deduction@CG01PTVgHtjfKvsJkJLGl.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: auto (Automatic Type Deduction)",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/auto-automatic-type-deduction@CG01PTVgHtjfKvsJkJLGl.md",
+              "kind": "source"
+            },
+            {
+              "title": "Automatic Type Deduction: auto",
+              "url": "https://www.educative.io/courses/cpp-fundamentals-for-professionals/automatic-type-deduction-auto",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "The \"auto\" keyword in C++",
+              "url": "https://www.youtube.com/watch?v=2vOPEuiGXVo",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-WptReUOwVth3C9-AVmMHF",
+          "sourceId": "WptReUOwVth3C9-AVmMHF",
+          "title": "Type Traits",
+          "description": "Chủ đề “Type Traits” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/type-traits@WptReUOwVth3C9-AVmMHF.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Type Traits",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/type-traits@WptReUOwVth3C9-AVmMHF.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3C5UfejDX-1Z8ZF6C53xD",
+          "sourceId": "3C5UfejDX-1Z8ZF6C53xD",
+          "title": "SFINAE",
+          "description": "Chủ đề “SFINAE” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/sfinae@3C5UfejDX-1Z8ZF6C53xD.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: SFINAE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/sfinae@3C5UfejDX-1Z8ZF6C53xD.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-NJud5SXBAUZ6Sr78kZ7jx",
+          "sourceId": "NJud5SXBAUZ6Sr78kZ7jx",
+          "title": "Exceptions",
+          "description": "Chủ đề “Exceptions” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exceptions@NJud5SXBAUZ6Sr78kZ7jx.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Exceptions",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/exceptions@NJud5SXBAUZ6Sr78kZ7jx.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-PiMhw1oP9-NZEa6I9u4lX",
+          "sourceId": "PiMhw1oP9-NZEa6I9u4lX",
+          "title": "Type Casting",
+          "description": "Chủ đề “Type Casting” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/type-casting@PiMhw1oP9-NZEa6I9u4lX.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Type Casting",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/type-casting@PiMhw1oP9-NZEa6I9u4lX.md",
+              "kind": "source"
+            },
+            {
+              "title": "Type Casting",
+              "url": "https://www.w3schools.com/cpp//cpp_type_casting.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Casting in C++",
+              "url": "https://youtu.be/pWZS1MtxI-A",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-sObOuccY0PDeGG-9GrFDF",
+          "sourceId": "sObOuccY0PDeGG-9GrFDF",
+          "title": "Template Specialization",
+          "description": "Chủ đề “Template Specialization” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/template-specialization@sObOuccY0PDeGG-9GrFDF.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Template Specialization",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/template-specialization@sObOuccY0PDeGG-9GrFDF.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-y4-P4UNC--rE1vni8HdTn",
+          "sourceId": "y4-P4UNC--rE1vni8HdTn",
+          "title": "Access Violations",
+          "description": "Chủ đề “Access Violations” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/access-violations@y4-P4UNC--rE1vni8HdTn.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Access Violations",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/access-violations@y4-P4UNC--rE1vni8HdTn.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-_XB2Imyf23-6AOeoNLhYQ",
+          "sourceId": "_XB2Imyf23-6AOeoNLhYQ",
+          "title": "static_cast",
+          "description": "Chủ đề “static_cast” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static_cast@_XB2Imyf23-6AOeoNLhYQ.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: static_cast",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/static_cast@_XB2Imyf23-6AOeoNLhYQ.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-5g22glc97siQOcTkHbwan",
+          "sourceId": "5g22glc97siQOcTkHbwan",
+          "title": "const_cast",
+          "description": "Chủ đề “const_cast” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/const_cast@5g22glc97siQOcTkHbwan.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: const_cast",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/const_cast@5g22glc97siQOcTkHbwan.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-6hTcmJwNnQstbWWzNCfTe",
+          "sourceId": "6hTcmJwNnQstbWWzNCfTe",
+          "title": "Full Template Specialization",
+          "description": "Chủ đề “Full Template Specialization” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/full-template-specialization@6hTcmJwNnQstbWWzNCfTe.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Full Template Specialization",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/full-template-specialization@6hTcmJwNnQstbWWzNCfTe.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-4BdFcuQ5KNW94cu2jz-vE",
+          "sourceId": "4BdFcuQ5KNW94cu2jz-vE",
+          "title": "dynamic_cast",
+          "description": "Chủ đề “dynamic_cast” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic_cast@4BdFcuQ5KNW94cu2jz-vE.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: dynamic_cast",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/dynamic_cast@4BdFcuQ5KNW94cu2jz-vE.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ZMyFDJrpCauGrY5NZkOwg",
+          "sourceId": "ZMyFDJrpCauGrY5NZkOwg",
+          "title": "reinterpret_cast",
+          "description": "Chủ đề “reinterpret_cast” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/reinterpret_cast@ZMyFDJrpCauGrY5NZkOwg.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: reinterpret_cast",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/reinterpret_cast@ZMyFDJrpCauGrY5NZkOwg.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-1NYJtbdcdOB4-vIrnq4yX",
+          "sourceId": "1NYJtbdcdOB4-vIrnq4yX",
+          "title": "Partial Template Specialization",
+          "description": "Chủ đề “Partial Template Specialization” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/partial-template-specialization@1NYJtbdcdOB4-vIrnq4yX.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Partial Template Specialization",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/partial-template-specialization@1NYJtbdcdOB4-vIrnq4yX.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-IDOlquv6jlfecwQoBwkGZ",
+          "sourceId": "IDOlquv6jlfecwQoBwkGZ",
+          "title": "Undefined Behavior (UB)",
+          "description": "Chủ đề “Undefined Behavior (UB)” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/undefined-behavior-ub@IDOlquv6jlfecwQoBwkGZ.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Undefined Behavior (UB)",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/undefined-behavior-ub@IDOlquv6jlfecwQoBwkGZ.md",
+              "kind": "source"
+            },
+            {
+              "title": "Undefined Behavior (UB)",
+              "url": "https://en.cppreference.com/w/cpp/language/ub.html",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-w4EIf58KP-Pq-yc0HlGxc",
+          "sourceId": "w4EIf58KP-Pq-yc0HlGxc",
+          "title": "Variadic Templates",
+          "description": "Chủ đề “Variadic Templates” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/variadic-templates@w4EIf58KP-Pq-yc0HlGxc.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Variadic Templates",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/variadic-templates@w4EIf58KP-Pq-yc0HlGxc.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-DHdNBP7_ixjr6h-dIQ7g6",
+          "sourceId": "DHdNBP7_ixjr6h-dIQ7g6",
+          "title": "Standard Library + STL",
+          "description": "Chủ đề “Standard Library + STL” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/standard-library--stl@DHdNBP7_ixjr6h-dIQ7g6.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Standard Library + STL",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/standard-library--stl@DHdNBP7_ixjr6h-dIQ7g6.md",
+              "kind": "source"
+            },
+            {
+              "title": "Mastering STL in C++23: New Features, Updates, and Best Practices",
+              "url": "https://simplifycpp.org/books/Mastering_STL.pdf",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Standard Template Library (STL) Short Overview",
+              "url": "https://www.youtube.com/watch?v=Id6ZEb_Lg58",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-YSWN7nS8vA9nMldSUrZRT",
+          "sourceId": "YSWN7nS8vA9nMldSUrZRT",
+          "title": "Argument Dependent Lookup (ADL)",
+          "description": "Chủ đề “Argument Dependent Lookup (ADL)” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/argument-dependent-lookup-adl@YSWN7nS8vA9nMldSUrZRT.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Argument Dependent Lookup (ADL)",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/argument-dependent-lookup-adl@YSWN7nS8vA9nMldSUrZRT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Argument Dependent Lookup (ADL)",
+              "url": "https://en.cppreference.com/w/cpp/language/adl.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Weekly - Ep 160 - Argument Dependent Lookup (ADL)",
+              "url": "https://backoffice.roadmap.sh/tree/cpp",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Lt7ss59KZw9Jwqj234jm2",
+          "sourceId": "Lt7ss59KZw9Jwqj234jm2",
+          "title": "Name Mangling",
+          "description": "Chủ đề “Name Mangling” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/name-mangling@Lt7ss59KZw9Jwqj234jm2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Name Mangling",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/name-mangling@Lt7ss59KZw9Jwqj234jm2.md",
+              "kind": "source"
+            },
+            {
+              "title": "C++ Name Mangling",
+              "url": "https://medium.com/@abhishek.ec/c-name-mangling-ce3d0fedf88d",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Name Mangling In C++",
+              "url": "https://www.youtube.com/watch?v=FUIle4Ghasw",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-zKdlfZTRHwjtmRUGW9z9-",
+          "sourceId": "zKdlfZTRHwjtmRUGW9z9-",
+          "title": "Macros",
+          "description": "Chủ đề “Macros” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/macros@zKdlfZTRHwjtmRUGW9z9-.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Macros",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/macros@zKdlfZTRHwjtmRUGW9z9-.md",
+              "kind": "source"
+            },
+            {
+              "title": "Macros in C++",
+              "url": "https://www.youtube.com/watch?v=j3mYki1SrKE",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Macros",
+              "url": "https://www.codecademy.com/resources/docs/cpp/macros",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Ebu8gzbyyXEeJryeE0SpG",
+          "sourceId": "Ebu8gzbyyXEeJryeE0SpG",
+          "title": "Iterators",
+          "description": "Chủ đề “Iterators” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/iterators@Ebu8gzbyyXEeJryeE0SpG.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Iterators",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/iterators@Ebu8gzbyyXEeJryeE0SpG.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-VeVxZ230xkesQsIDig8zQ",
+          "sourceId": "VeVxZ230xkesQsIDig8zQ",
+          "title": "iostream",
+          "description": "Chủ đề “iostream” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/iostream@VeVxZ230xkesQsIDig8zQ.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: iostream",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/iostream@VeVxZ230xkesQsIDig8zQ.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs--6AOrbuOE7DJCmxlcgCay",
+          "sourceId": "-6AOrbuOE7DJCmxlcgCay",
+          "title": "Templates",
+          "description": "Chủ đề “Templates” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/templates@-6AOrbuOE7DJCmxlcgCay.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Templates",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/templates@-6AOrbuOE7DJCmxlcgCay.md",
+              "kind": "source"
+            },
+            {
+              "title": "Templates",
+              "url": "https://en.cppreference.com/w/cpp/language/templates.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Templates",
+              "url": "https://www.w3schools.com/cpp/cpp_templates.asp",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Templates in C++",
+              "url": "https://www.youtube.com/watch?v=I-hZkUa9mIs",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-whyj6Z4RXFsVQYRfYYn7B",
+          "sourceId": "whyj6Z4RXFsVQYRfYYn7B",
+          "title": "Algorithms",
+          "description": "Chủ đề “Algorithms” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/algorithms@whyj6Z4RXFsVQYRfYYn7B.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Algorithms",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/algorithms@whyj6Z4RXFsVQYRfYYn7B.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-yGvE6eHKlPMBB6rde0llR",
+          "sourceId": "yGvE6eHKlPMBB6rde0llR",
+          "title": "Date / Time",
+          "description": "Chủ đề “Date / Time” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/date--time@yGvE6eHKlPMBB6rde0llR.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Date / Time",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/date--time@yGvE6eHKlPMBB6rde0llR.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-y8VCbGDUco9bzGRfIBD8R",
+          "sourceId": "y8VCbGDUco9bzGRfIBD8R",
+          "title": "WinDBg",
+          "description": "Chủ đề “WinDBg” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/windbg@y8VCbGDUco9bzGRfIBD8R.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: WinDBg",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/windbg@y8VCbGDUco9bzGRfIBD8R.md",
+              "kind": "source"
+            },
+            {
+              "title": "Debugging C/C++ Programs from Scratch with WinDbg: A Beginner's Guide",
+              "url": "https://www.youtube.com/watch?v=AgtgZDsADUI",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-BmWsoL9c_Aag5nVlMsKm2",
+          "sourceId": "BmWsoL9c_Aag5nVlMsKm2",
+          "title": "GDB",
+          "description": "Chủ đề “GDB” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/gdb@BmWsoL9c_Aag5nVlMsKm2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: GDB",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/gdb@BmWsoL9c_Aag5nVlMsKm2.md",
+              "kind": "source"
+            },
+            {
+              "title": "GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands",
+              "url": "https://www.youtube.com/watch?v=Dq8l1_-QgAc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-OXQUPqxzs1-giAACwl3X1",
+          "sourceId": "OXQUPqxzs1-giAACwl3X1",
+          "title": "Multithreading",
+          "description": "Chủ đề “Multithreading” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/multithreading@OXQUPqxzs1-giAACwl3X1.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Multithreading",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/multithreading@OXQUPqxzs1-giAACwl3X1.md",
+              "kind": "source"
+            },
+            {
+              "title": "Build your first multithreaded application - Introduction to multithreading in modern C++",
+              "url": "https://www.youtube.com/watch?v=xPqnoB2hjjA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-1pydf-SR0QUfVNuBEyvzc",
+          "sourceId": "1pydf-SR0QUfVNuBEyvzc",
+          "title": "Containers",
+          "description": "Chủ đề “Containers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/containers@1pydf-SR0QUfVNuBEyvzc.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Containers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/containers@1pydf-SR0QUfVNuBEyvzc.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-sR_FxGZHoMCV9Iv7z2_SX",
+          "sourceId": "sR_FxGZHoMCV9Iv7z2_SX",
+          "title": "Debugging Symbols",
+          "description": "Chủ đề “Debugging Symbols” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/debugging-symbols@sR_FxGZHoMCV9Iv7z2_SX.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Debugging Symbols",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/debugging-symbols@sR_FxGZHoMCV9Iv7z2_SX.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-VtPb8-AJKzhTB0QbMtoU4",
+          "sourceId": "VtPb8-AJKzhTB0QbMtoU4",
+          "title": "Understanding Debugger Messages",
+          "description": "Chủ đề “Understanding Debugger Messages” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/understanding-debugger-messages@VtPb8-AJKzhTB0QbMtoU4.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Understanding Debugger Messages",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/understanding-debugger-messages@VtPb8-AJKzhTB0QbMtoU4.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-T6rCTv9Dxkm-tEA-l9XEv",
+          "sourceId": "T6rCTv9Dxkm-tEA-l9XEv",
+          "title": "C++ 11 / 14",
+          "description": "Chủ đề “C++ 11 / 14” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-11--14@T6rCTv9Dxkm-tEA-l9XEv.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C++ 11 / 14",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-11--14@T6rCTv9Dxkm-tEA-l9XEv.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-qmHs6_BzND_xpMmls5YUH",
+          "sourceId": "qmHs6_BzND_xpMmls5YUH",
+          "title": "Debuggers",
+          "description": "Chủ đề “Debuggers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/debuggers@qmHs6_BzND_xpMmls5YUH.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Debuggers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/debuggers@qmHs6_BzND_xpMmls5YUH.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-vvE1aUsWbF1OFcmMUHbJa",
+          "sourceId": "vvE1aUsWbF1OFcmMUHbJa",
+          "title": "Standards",
+          "description": "Chủ đề “Standards” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/standards@vvE1aUsWbF1OFcmMUHbJa.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Standards",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/standards@vvE1aUsWbF1OFcmMUHbJa.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-fb3bnfKXjSIjPAk4b95lg",
+          "sourceId": "fb3bnfKXjSIjPAk4b95lg",
+          "title": "Idioms",
+          "description": "Chủ đề “Idioms” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/idioms@fb3bnfKXjSIjPAk4b95lg.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Idioms",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/idioms@fb3bnfKXjSIjPAk4b95lg.md",
+              "kind": "source"
+            },
+            {
+              "title": "Idioms",
+              "url": "https://medium.com/@amalpp42/idioms-in-c-f6b1c19fa605",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-DVckzBUMgk_lWThVkLyAT",
+          "sourceId": "DVckzBUMgk_lWThVkLyAT",
+          "title": "Compiler Stages",
+          "description": "Chủ đề “Compiler Stages” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compiler-stages@DVckzBUMgk_lWThVkLyAT.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Compiler Stages",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compiler-stages@DVckzBUMgk_lWThVkLyAT.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-sxbbKtg7kMNbkx7fXhjR9",
+          "sourceId": "sxbbKtg7kMNbkx7fXhjR9",
+          "title": "C++ 23",
+          "description": "Chủ đề “C++ 23” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-23@sxbbKtg7kMNbkx7fXhjR9.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C++ 23",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-23@sxbbKtg7kMNbkx7fXhjR9.md",
+              "kind": "source"
+            },
+            {
+              "title": "The Standard",
+              "url": "https://isocpp.org/std/the-standard",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++23",
+              "url": "https://en.wikipedia.org/wiki/C%2B%2B23",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Overview of New Features in C++23",
+              "url": "https://medium.com/@threehappyer/overview-of-new-features-in-c-23-68c5bc668958",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++23: An Overview of Almost All New and Updated Features - Marc Gregoire - CppCon 2023",
+              "url": "https://www.youtube.com/watch?v=Cttb8vMuq-Y",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-xjUaIp8gGxkN-cp8emJ2M",
+          "sourceId": "xjUaIp8gGxkN-cp8emJ2M",
+          "title": "Non-Copyable / Non-Moveable",
+          "description": "Chủ đề “Non-Copyable / Non-Moveable” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/non-copyable--non-moveable@xjUaIp8gGxkN-cp8emJ2M.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Non-Copyable / Non-Moveable",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/non-copyable--non-moveable@xjUaIp8gGxkN-cp8emJ2M.md",
+              "kind": "source"
+            },
+            {
+              "title": "Dealing with non-copyable objects - (C++ Tutorial)",
+              "url": "https://dev.to/dabretema/the-day-i-forbade-copy-semantics-to-an-object-nkl",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-FTMHsUiE8isD_OVZr62Xc",
+          "sourceId": "FTMHsUiE8isD_OVZr62Xc",
+          "title": "Compilers",
+          "description": "Chủ đề “Compilers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compilers@FTMHsUiE8isD_OVZr62Xc.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Compilers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compilers@FTMHsUiE8isD_OVZr62Xc.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-hSG6Aux39X0cXi6ADy2al",
+          "sourceId": "hSG6Aux39X0cXi6ADy2al",
+          "title": "Compilers and Features",
+          "description": "Chủ đề “Compilers and Features” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compilers-and-features@hSG6Aux39X0cXi6ADy2al.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Compilers and Features",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/compilers-and-features@hSG6Aux39X0cXi6ADy2al.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-o3no4a5_iMFzEAGs56-BJ",
+          "sourceId": "o3no4a5_iMFzEAGs56-BJ",
+          "title": "C++ 20",
+          "description": "Chủ đề “C++ 20” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-20@o3no4a5_iMFzEAGs56-BJ.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C++ 20",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-20@o3no4a5_iMFzEAGs56-BJ.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-YvmjrZSAOmjhVPo05MJqN",
+          "sourceId": "YvmjrZSAOmjhVPo05MJqN",
+          "title": "Erase-Remove",
+          "description": "Chủ đề “Erase-Remove” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/erase-remove@YvmjrZSAOmjhVPo05MJqN.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Erase-Remove",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/erase-remove@YvmjrZSAOmjhVPo05MJqN.md",
+              "kind": "source"
+            },
+            {
+              "title": "std::remove, std::remove_if",
+              "url": "https://en.cppreference.com/w/cpp/algorithm/remove.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ STL algorithm - erase-remove idiom -- std::remove(_if, _copy_if) | Modern Cpp Series Ep. 154",
+              "url": "https://www.youtube.com/watch?v=btyuTSb_238",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-R2-qWGUxsTOeSHRuUzhd2",
+          "sourceId": "R2-qWGUxsTOeSHRuUzhd2",
+          "title": "C++ 17",
+          "description": "Chủ đề “C++ 17” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-17@R2-qWGUxsTOeSHRuUzhd2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C++ 17",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-17@R2-qWGUxsTOeSHRuUzhd2.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-lxAzI42jQdaofzQ5MXebG",
+          "sourceId": "lxAzI42jQdaofzQ5MXebG",
+          "title": "Copy and Swap",
+          "description": "Chủ đề “Copy and Swap” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/copy-and-swap@lxAzI42jQdaofzQ5MXebG.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Copy and Swap",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/copy-and-swap@lxAzI42jQdaofzQ5MXebG.md",
+              "kind": "source"
+            },
+            {
+              "title": "Copying and Copy Constructors in C++",
+              "url": "https://www.youtube.com/watch?v=BvR1Pgzzr38",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-O2Du5gHHxFxAI2u5uO8wu",
+          "sourceId": "O2Du5gHHxFxAI2u5uO8wu",
+          "title": "Copy on Write",
+          "description": "Chủ đề “Copy on Write” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/copy-on-write@O2Du5gHHxFxAI2u5uO8wu.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Copy on Write",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/copy-on-write@O2Du5gHHxFxAI2u5uO8wu.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-PPg0V5EzGBeJsysg1215V",
+          "sourceId": "PPg0V5EzGBeJsysg1215V",
+          "title": "C++ 0x",
+          "description": "Chủ đề “C++ 0x” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-0x@PPg0V5EzGBeJsysg1215V.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: C++ 0x",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/c-0x@PPg0V5EzGBeJsysg1215V.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-OmHDlLxCnH8RDdu5vx9fl",
+          "sourceId": "OmHDlLxCnH8RDdu5vx9fl",
+          "title": "RAII",
+          "description": "Chủ đề “RAII” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/raii@OmHDlLxCnH8RDdu5vx9fl.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: RAII",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/raii@OmHDlLxCnH8RDdu5vx9fl.md",
+              "kind": "source"
+            },
+            {
+              "title": "RAII",
+              "url": "https://en.cppreference.com/w/cpp/language/raii.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "What is RAII (Resource Acquisition Is Initialization)?",
+              "url": "https://www.youtube.com/watch?v=q6dVKMgeEkk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-MEoWt8NKjPLVTeGgYf3cR",
+          "sourceId": "MEoWt8NKjPLVTeGgYf3cR",
+          "title": "Pimpl",
+          "description": "Chủ đề “Pimpl” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pimpl@MEoWt8NKjPLVTeGgYf3cR.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Pimpl",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pimpl@MEoWt8NKjPLVTeGgYf3cR.md",
+              "kind": "source"
+            },
+            {
+              "title": "Pointer To Implementation(PIMPL) Idiom By Using Smart Pointer in C++",
+              "url": "https://cengizhanvarli.medium.com/pointer-to-implementation-pimpl-idiom-by-using-smart-pointer-in-c-07dcd535d0ce",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Classes Part 30 - pIMPL (pointer to implementation) - More Stable APIs| Modern Cpp Series Ep. 67",
+              "url": "https://www.youtube.com/watch?v=3mFpXNEB_AA",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ttt-yeIi4BPWrgvW324W7",
+          "sourceId": "ttt-yeIi4BPWrgvW324W7",
+          "title": "CRTP",
+          "description": "Chủ đề “CRTP” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/crtp@ttt-yeIi4BPWrgvW324W7.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CRTP",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/crtp@ttt-yeIi4BPWrgvW324W7.md",
+              "kind": "source"
+            },
+            {
+              "title": "CRTP (Curiously Recurring Template Pattern) in C++",
+              "url": "https://medium.com/@sagar.necindia/crtp-curiously-recurring-template-pattern-in-c-90981941bf38",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "C++ Tutorial: How to use CRTP to speed up your code",
+              "url": "https://www.youtube.com/watch?v=Srx4eiBdpdQ",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-sLVs95EOeHZldoKY0L_dH",
+          "sourceId": "sLVs95EOeHZldoKY0L_dH",
+          "title": "Licensing",
+          "description": "Chủ đề “Licensing” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/licensing@sLVs95EOeHZldoKY0L_dH.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Licensing",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/licensing@sLVs95EOeHZldoKY0L_dH.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-5mNqH_AEiLxUmgurNW1Fq",
+          "sourceId": "5mNqH_AEiLxUmgurNW1Fq",
+          "title": "Library Inclusion",
+          "description": "Chủ đề “Library Inclusion” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/library-inclusion@5mNqH_AEiLxUmgurNW1Fq.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Library Inclusion",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/library-inclusion@5mNqH_AEiLxUmgurNW1Fq.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-1d7h5P1Q0RVHryKPVogQy",
+          "sourceId": "1d7h5P1Q0RVHryKPVogQy",
+          "title": "Boost",
+          "description": "Chủ đề “Boost” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/boost@1d7h5P1Q0RVHryKPVogQy.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Boost",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/boost@1d7h5P1Q0RVHryKPVogQy.md",
+              "kind": "source"
+            },
+            {
+              "title": "Boost Libraries",
+              "url": "https://www.boost.org/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-Eq3TKSFJ2F2mrTHAaU2J4",
+          "sourceId": "Eq3TKSFJ2F2mrTHAaU2J4",
+          "title": "OpenCV",
+          "description": "Chủ đề “OpenCV” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/opencv@Eq3TKSFJ2F2mrTHAaU2J4.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: OpenCV",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/opencv@Eq3TKSFJ2F2mrTHAaU2J4.md",
+              "kind": "source"
+            },
+            {
+              "title": "OpenCV",
+              "url": "https://opencv.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Setup OpenCV in Visual Studio 2022 for C/C++ Development",
+              "url": "https://www.youtube.com/watch?v=unSce_GPwto",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-nOkniNXfXwPPlOEJHJoGl",
+          "sourceId": "nOkniNXfXwPPlOEJHJoGl",
+          "title": "POCO",
+          "description": "Chủ đề “POCO” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/poco@nOkniNXfXwPPlOEJHJoGl.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: POCO",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/poco@nOkniNXfXwPPlOEJHJoGl.md",
+              "kind": "source"
+            },
+            {
+              "title": "POCO Docs",
+              "url": "https://pocoproject.org/documentation.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Writing a Network Client with POCO",
+              "url": "https://www.youtube.com/watch?v=rRR9RTUEn4k",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-j_eNHhs0J08Dt7HVbo4Q2",
+          "sourceId": "j_eNHhs0J08Dt7HVbo4Q2",
+          "title": "Tensorflow",
+          "description": "Chủ đề “Tensorflow” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/tensorflow@j_eNHhs0J08Dt7HVbo4Q2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Tensorflow",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/tensorflow@j_eNHhs0J08Dt7HVbo4Q2.md",
+              "kind": "source"
+            },
+            {
+              "title": "Tensor Flow",
+              "url": "https://github.com/tensorflow/tensorflow",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "How to Deploy Tensorflow Models in C++ in 3 different ways",
+              "url": "https://towardsdatascience.com/how-to-deploy-tensorflow-models-in-c-in-3-different-ways-f7e25046be29/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "TensorFlow in 100 Seconds",
+              "url": "https://www.youtube.com/watch?v=i8NETqtGHms",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-jVXFCo6puMxJ_ifn_uwim",
+          "sourceId": "jVXFCo6puMxJ_ifn_uwim",
+          "title": "Build Systems",
+          "description": "Chủ đề “Build Systems” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/build-systems@jVXFCo6puMxJ_ifn_uwim.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Build Systems",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/build-systems@jVXFCo6puMxJ_ifn_uwim.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-h29eJG1hWHa7vMhSqtfV2",
+          "sourceId": "h29eJG1hWHa7vMhSqtfV2",
+          "title": "Package Managers",
+          "description": "Chủ đề “Package Managers” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/package-managers@h29eJG1hWHa7vMhSqtfV2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Package Managers",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/package-managers@h29eJG1hWHa7vMhSqtfV2.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-4kkX5g_-plX9zVqr0ZoiR",
+          "sourceId": "4kkX5g_-plX9zVqr0ZoiR",
+          "title": "Working with Libraries",
+          "description": "Chủ đề “Working with Libraries” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/working-with-libraries@4kkX5g_-plX9zVqr0ZoiR.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Working with Libraries",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/working-with-libraries@4kkX5g_-plX9zVqr0ZoiR.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "topic"
+        },
+        {
+          "id": "rs-jpMCIWQko7p3ndezYHL4D",
+          "sourceId": "jpMCIWQko7p3ndezYHL4D",
+          "title": "protobuf",
+          "description": "Chủ đề “protobuf” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/protobuf@jpMCIWQko7p3ndezYHL4D.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: protobuf",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/protobuf@jpMCIWQko7p3ndezYHL4D.md",
+              "kind": "source"
+            },
+            {
+              "title": "protobuf",
+              "url": "https://github.com/protocolbuffers/protobuf",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Protocol Buffer Basics: C++",
+              "url": "https://protobuf.dev/getting-started/cpptutorial/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-q64qFxoCrR38RPsN2lC8x",
+          "sourceId": "q64qFxoCrR38RPsN2lC8x",
+          "title": "spdlog",
+          "description": "Chủ đề “spdlog” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/spdlog@q64qFxoCrR38RPsN2lC8x.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: spdlog",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/spdlog@q64qFxoCrR38RPsN2lC8x.md",
+              "kind": "source"
+            },
+            {
+              "title": "spdlog",
+              "url": "https://github.com/gabime/spdlog",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-621J9W4xCofumNZGo4TZT",
+          "sourceId": "621J9W4xCofumNZGo4TZT",
+          "title": "gRPC",
+          "description": "Chủ đề “gRPC” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/grpc@621J9W4xCofumNZGo4TZT.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: gRPC",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/grpc@621J9W4xCofumNZGo4TZT.md",
+              "kind": "source"
+            },
+            {
+              "title": "Quick start",
+              "url": "https://grpc.io/docs/languages/cpp/quickstart/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Basic Tutorial",
+              "url": "https://grpc.io/docs/languages/cpp/basics/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "grpc",
+              "url": "https://github.com/grpc/grpc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-tEkvlJPAkD5fji-MMODL7",
+          "sourceId": "tEkvlJPAkD5fji-MMODL7",
+          "title": "pybind11",
+          "description": "Chủ đề “pybind11” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pybind11@tEkvlJPAkD5fji-MMODL7.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: pybind11",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pybind11@tEkvlJPAkD5fji-MMODL7.md",
+              "kind": "source"
+            },
+            {
+              "title": "pybind11",
+              "url": "https://github.com/pybind/pybind11",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Pybind11 Tutorial: Binding C++ Code to Python",
+              "url": "https://medium.com/@ahmedfgad/pybind11-tutorial-binding-c-code-to-python-337da23685dc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-PKG5pACLfRS2ogfzBX47_",
+          "sourceId": "PKG5pACLfRS2ogfzBX47_",
+          "title": "vcpkg",
+          "description": "Chủ đề “vcpkg” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/vcpkg@PKG5pACLfRS2ogfzBX47_.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: vcpkg",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/vcpkg@PKG5pACLfRS2ogfzBX47_.md",
+              "kind": "source"
+            },
+            {
+              "title": "vcpkg Docs",
+              "url": "https://learn.microsoft.com/en-gb/vcpkg/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "vcpkg Crash Course | Visual Studio 2022 | C++ libraries simplified!",
+              "url": "https://www.youtube.com/watch?v=0h1lC3QHLHU",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-3ehBc2sKVlPj7dn4RVZCH",
+          "sourceId": "3ehBc2sKVlPj7dn4RVZCH",
+          "title": "Spack",
+          "description": "Chủ đề “Spack” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/spack@3ehBc2sKVlPj7dn4RVZCH.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Spack",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/spack@3ehBc2sKVlPj7dn4RVZCH.md",
+              "kind": "source"
+            },
+            {
+              "title": "Spack",
+              "url": "https://spack.io/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "spack",
+              "url": "https://github.com/spack/spack",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Tutorials 2025: Spack, Part 1 (Basics, Environments, Configuration)",
+              "url": "https://www.youtube.com/watch?v=Uoi3-_xMPtk",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ysnXvSHGBMMozBJyXpHl5",
+          "sourceId": "ysnXvSHGBMMozBJyXpHl5",
+          "title": "CMAKE",
+          "description": "Chủ đề “CMAKE” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/cmake@ysnXvSHGBMMozBJyXpHl5.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: CMAKE",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/cmake@ysnXvSHGBMMozBJyXpHl5.md",
+              "kind": "source"
+            },
+            {
+              "title": "CMAKE Tutorial",
+              "url": "https://cmake.org/cmake/help/latest/guide/tutorial/index.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "CMake, How it Works (At Three Different Levels)",
+              "url": "https://www.youtube.com/watch?v=SDX0oYqdv_g",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-1CqQgmHDeo1HlPdpUJS7H",
+          "sourceId": "1CqQgmHDeo1HlPdpUJS7H",
+          "title": "fmt",
+          "description": "Chủ đề “fmt” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/fmt@1CqQgmHDeo1HlPdpUJS7H.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: fmt",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/fmt@1CqQgmHDeo1HlPdpUJS7H.md",
+              "kind": "source"
+            },
+            {
+              "title": "fmt",
+              "url": "https://fmt.dev/12.0/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "fmt",
+              "url": "https://github.com/fmtlib/fmt",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-GGZJaYpRENaqloJzt0VtY",
+          "sourceId": "GGZJaYpRENaqloJzt0VtY",
+          "title": "opencl",
+          "description": "Chủ đề “opencl” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/opencl@GGZJaYpRENaqloJzt0VtY.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: opencl",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/opencl@GGZJaYpRENaqloJzt0VtY.md",
+              "kind": "source"
+            },
+            {
+              "title": "Introduction",
+              "url": "https://github.khronos.org/OpenCL-CLHPP/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Basic examples of OpenCL with the C++ API",
+              "url": "https://github.com/Dakkers/OpenCL-examples",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-t6rZLH7l8JQm99ax_fEJ9",
+          "sourceId": "t6rZLH7l8JQm99ax_fEJ9",
+          "title": "Makefile",
+          "description": "Chủ đề “Makefile” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/makefile@t6rZLH7l8JQm99ax_fEJ9.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Makefile",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/makefile@t6rZLH7l8JQm99ax_fEJ9.md",
+              "kind": "source"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-ky_UqizToTZHC_b77qFi2",
+          "sourceId": "ky_UqizToTZHC_b77qFi2",
+          "title": "Conan",
+          "description": "Chủ đề “Conan” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/conan@ky_UqizToTZHC_b77qFi2.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Conan",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/conan@ky_UqizToTZHC_b77qFi2.md",
+              "kind": "source"
+            },
+            {
+              "title": "conan",
+              "url": "https://github.com/conan-io/conan",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "A Beginner’s Guide to Conan 2: C and C++ Package Manager",
+              "url": "https://medium.com/@milan.pultar/a-beginners-guide-to-conan-2-c-and-c-package-manager-b0cbc1f99175",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Introduction to Conan 2 - The Best C++ Package Manager?",
+              "url": "https://www.youtube.com/watch?v=U-_RbUqDSTc",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-g0s0F4mLV16eNvMBflN2e",
+          "sourceId": "g0s0F4mLV16eNvMBflN2e",
+          "title": "NuGet",
+          "description": "Chủ đề “NuGet” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/nuget@g0s0F4mLV16eNvMBflN2e.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: NuGet",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/nuget@g0s0F4mLV16eNvMBflN2e.md",
+              "kind": "source"
+            },
+            {
+              "title": "Creating Cross-Platform NuGet Package To Wrap Native C++ Libraries",
+              "url": "https://medium.com/@yooonatan/creating-cross-platform-nuget-package-to-wrap-native-c-libraries-b2ee71c34164",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-MrAM-viRaF8DSxB6sVdD9",
+          "sourceId": "MrAM-viRaF8DSxB6sVdD9",
+          "title": "gtest / gmock",
+          "description": "Chủ đề “gtest / gmock” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/gtest--gmock@MrAM-viRaF8DSxB6sVdD9.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: gtest / gmock",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/gtest--gmock@MrAM-viRaF8DSxB6sVdD9.md",
+              "kind": "source"
+            },
+            {
+              "title": "Google test github pages",
+              "url": "https://google.github.io/googletest/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Google C++ Testing, GTest, GMock Framework playlist",
+              "url": "https://youtube.com/playlist?list=PL_dsdStdDXbo-zApdWB5XiF2aWpsqzV55&si=TR8ESbH1-epTl6VM",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Back to Basics: Unit Testing in C++ - Dave Steffen - CppCon 2024",
+              "url": "https://youtu.be/MwoAM3sznS0?si=pumn99IobfU4AZ1I",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-et-dXKPYuyVW6eV2K3CM8",
+          "sourceId": "et-dXKPYuyVW6eV2K3CM8",
+          "title": "ranges_v3",
+          "description": "Chủ đề “ranges_v3” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/ranges_v3@et-dXKPYuyVW6eV2K3CM8.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: ranges_v3",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/ranges_v3@et-dXKPYuyVW6eV2K3CM8.md",
+              "kind": "source"
+            },
+            {
+              "title": "range-v3",
+              "url": "https://github.com/ericniebler/range-v3",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "A GentleIntroductiontoRangesv3",
+              "url": "https://www.daixtrose.de/talks/gentle-intro-to-ranges/talk/A%20Gentle%20Introduction%20to%20Ranges%20v3.pdf",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-HkUCD5A_M9bJxJRElkK0x",
+          "sourceId": "HkUCD5A_M9bJxJRElkK0x",
+          "title": "Ninja",
+          "description": "Chủ đề “Ninja” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/ninja@HkUCD5A_M9bJxJRElkK0x.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Ninja",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/ninja@HkUCD5A_M9bJxJRElkK0x.md",
+              "kind": "source"
+            },
+            {
+              "title": "Ninja",
+              "url": "https://ninja-build.org/manual.html",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "CMake vs Ninja - a real-life comparison with actual code",
+              "url": "https://www.youtube.com/watch?v=AkGt0fsQ17o",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-gAZ9Dqgj1_UkaLzVgzx1t",
+          "sourceId": "gAZ9Dqgj1_UkaLzVgzx1t",
+          "title": "Qt",
+          "description": "Chủ đề “Qt” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/qt@gAZ9Dqgj1_UkaLzVgzx1t.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Qt",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/qt@gAZ9Dqgj1_UkaLzVgzx1t.md",
+              "kind": "source"
+            },
+            {
+              "title": "Qt for Beginners",
+              "url": "https://wiki.qt.io/Qt_for_Beginners",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-s13jQuaC6gw0Lab3Cbyy6",
+          "sourceId": "s13jQuaC6gw0Lab3Cbyy6",
+          "title": "Catch2",
+          "description": "Chủ đề “Catch2” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/catch2@s13jQuaC6gw0Lab3Cbyy6.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Catch2",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/catch2@s13jQuaC6gw0Lab3Cbyy6.md",
+              "kind": "source"
+            },
+            {
+              "title": "Catch2",
+              "url": "https://catch2.org/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "Catch2",
+              "url": "https://github.com/catchorg/Catch2",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-O0lVEMTAV1pq9sYCKQvh_",
+          "sourceId": "O0lVEMTAV1pq9sYCKQvh_",
+          "title": "Orbit Profiler",
+          "description": "Chủ đề “Orbit Profiler” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/orbit-profiler@O0lVEMTAV1pq9sYCKQvh_.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: Orbit Profiler",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/orbit-profiler@O0lVEMTAV1pq9sYCKQvh_.md",
+              "kind": "source"
+            },
+            {
+              "title": "ORBIT PROFILER",
+              "url": "https://orbitprofiler.com/",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        },
+        {
+          "id": "rs-88pr5aN7cctZfDVVo-2ns",
+          "sourceId": "88pr5aN7cctZfDVVo-2ns",
+          "title": "PyTorch C++",
+          "description": "Chủ đề “PyTorch C++” trong {'card': 'C++', 'page': 'C++ Developer Roadmap', '_id': '695e49163eeddc26d7c37ad7'}. Đọc phần giải thích gốc và các tài liệu được liệt kê riêng cho chủ đề này ở bên dưới.",
+          "sourceUrl": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pytorch-c@88pr5aN7cctZfDVVo-2ns.md",
+          "reference": "https://roadmap.sh/cpp",
+          "resources": [
+            {
+              "title": "Đọc chủ đề gốc: PyTorch C++",
+              "url": "https://github.com/nilbuild/developer-roadmap/blob/3e1cb72a72b15d32b236d1f558800db87e977370/roadmaps/cpp/content/pytorch-c@88pr5aN7cctZfDVVo-2ns.md",
+              "kind": "source"
+            },
+            {
+              "title": "PyTorch C++ API",
+              "url": "https://docs.pytorch.org/cppdocs/",
+              "kind": "listed-resource"
+            },
+            {
+              "title": "LibTorch: The C++ Powerhouse Driving PyTorch",
+              "url": "https://medium.com/@pouyahallaj/libtorch-the-c-powerhouse-driving-pytorch-ee0d4f7b8743",
+              "kind": "listed-resource"
+            }
+          ],
+          "sourceType": "subtopic"
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "b5EyLVAnEsPBiwy2dMr6F",
+        "type": "horizontal",
+        "x": 132.99,
+        "y": 2903.01,
+        "width": 128,
+        "height": 20
+      },
+      {
+        "id": "I1aDakZmYpe7pKczou0qC",
+        "type": "section",
+        "x": 258.02,
+        "y": 2688.24,
+        "width": 196,
+        "height": 278
+      },
+      {
+        "id": "goX6oPqweGg7J9yXJjDsR",
+        "type": "horizontal",
+        "x": 441.52,
+        "y": 2530.01,
+        "width": 92,
+        "height": 20
+      },
+      {
+        "id": "iisl6B61awdQDJVGaBqtI",
+        "type": "section",
+        "x": 532.52,
+        "y": 2381.24,
+        "width": 240,
+        "height": 385
+      },
+      {
+        "id": "SNEm8ibYyywxb0prHdlMA",
+        "type": "vertical",
+        "x": 118.26,
+        "y": 2545.24,
+        "width": 21,
+        "height": 86
+      },
+      {
+        "id": "REVHzbbcSWfylibdGZG5A",
+        "type": "vertical",
+        "x": 12.14,
+        "y": 2545.24,
+        "width": 21,
+        "height": 86
+      },
+      {
+        "id": "Tm2kjpCnwZhAw0vwqn_PK",
+        "type": "section",
+        "x": -31.73,
+        "y": 2235.23,
+        "width": 186,
+        "height": 212
+      },
+      {
+        "id": "_sUz-qKSggnUjAO281ROC",
+        "type": "vertical",
+        "x": -233.43,
+        "y": 1962.68,
+        "width": 21,
+        "height": 97
+      },
+      {
+        "id": "wGg3UBe3OqaXWxPxYiBQz",
+        "type": "vertical",
+        "x": 594.83,
+        "y": 1673.79,
+        "width": 21,
+        "height": 103
+      },
+      {
+        "id": "3SsQBuq6ie73yAMvRcqtR",
+        "type": "section",
+        "x": 466.4,
+        "y": 1470.77,
+        "width": 303,
+        "height": 174
+      },
+      {
+        "id": "ra0ZEvbILayGotRDlRwjF",
+        "type": "vertical",
+        "x": 309.99,
+        "y": 1671.79,
+        "width": 21,
+        "height": 107
+      },
+      {
+        "id": "XUHjmFhEsTjGRLlmDgl_w",
+        "type": "vertical",
+        "x": 159.99,
+        "y": 1671.79,
+        "width": 21,
+        "height": 107
+      },
+      {
+        "id": "mnUWOqBFgcuNsXUr18fJI",
+        "type": "section",
+        "x": -286.93,
+        "y": 1484.79,
+        "width": 322,
+        "height": 128
+      },
+      {
+        "id": "l5xm8tzFqMKwGdK3MYaXm",
+        "type": "vertical",
+        "x": 500.31,
+        "y": 1150.96,
+        "width": 21,
+        "height": 199
+      },
+      {
+        "id": "fG1lGRwUDPc-aiETFyEE7",
+        "type": "vertical",
+        "x": 588.12,
+        "y": 1045.95,
+        "width": 21,
+        "height": 196
+      },
+      {
+        "id": "ofwdZm05AUqCIWmfgGHk8",
+        "type": "subtopic",
+        "x": 539.09,
+        "y": 1257.54,
+        "width": 232,
+        "height": 49
+      },
+      {
+        "id": "ZHjU60uzJTezADRhDTESG",
+        "type": "subtopic",
+        "x": 66.99,
+        "y": 877.97,
+        "width": 224,
+        "height": 49
+      },
+      {
+        "id": "J7Jwh6hrrEyni5eGmuCqc",
+        "type": "horizontal",
+        "x": -44.47,
+        "y": 1130.96,
+        "width": 224,
+        "height": 20
+      },
+      {
+        "id": "Qk3hqX1Wj68FD8jXHS5NU",
+        "type": "section",
+        "x": -284.47,
+        "y": 822.07,
+        "width": 242,
+        "height": 234
+      },
+      {
+        "id": "zybofouGIVxcKvr47F3Yy",
+        "type": "section",
+        "x": -284.47,
+        "y": 1051.95,
+        "width": 242,
+        "height": 175
+      },
+      {
+        "id": "c58fcsthBlVfzfr-MHdpF",
+        "type": "vertical",
+        "x": 256.89,
+        "y": -124.6,
+        "width": 21,
+        "height": 66
+      },
+      {
+        "id": "g4hjyQF8-SpjPi8mYtIsk",
+        "type": "vertical",
+        "x": 256.89,
+        "y": 15.03,
+        "width": 21,
+        "height": 139
+      },
+      {
+        "id": "xi0QAi4kXm3-IFKgopnOP",
+        "type": "vertical",
+        "x": -82.51,
+        "y": 2967.29,
+        "width": 21,
+        "height": 85
+      },
+      {
+        "id": "NvODRFR0DLINB0RlPSsvt",
+        "type": "topic",
+        "x": 128.89,
+        "y": 150.77,
+        "width": 277,
+        "height": 49
+      },
+      {
+        "id": "x_28LiDVshqWns_aIBsdx",
+        "type": "subtopic",
+        "x": 519.4,
+        "y": 95.44,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "tl6VCQ5IEGDVyFcgj7jDm",
+        "type": "subtopic",
+        "x": 520.31,
+        "y": 149.44,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "2Ag0t3LPryTF8khHLRfy-",
+        "type": "subtopic",
+        "x": 520.31,
+        "y": 202.44,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "Zc_TTzmM36yWsu3GvOy9x",
+        "type": "topic",
+        "x": -281.69,
+        "y": 282.94,
+        "width": 283,
+        "height": 49
+      },
+      {
+        "id": "0J_ltQEJh2g28OE2ZEYJj",
+        "type": "subtopic",
+        "x": -281.69,
+        "y": 364.44,
+        "width": 283,
+        "height": 49
+      },
+      {
+        "id": "ew0AfyadpXPRO0ZY3Z19k",
+        "type": "subtopic",
+        "x": -281.69,
+        "y": 417.44,
+        "width": 283,
+        "height": 49
+      },
+      {
+        "id": "SEq0D2Zg5WTsIDtd1hW9f",
+        "type": "subtopic",
+        "x": -281.69,
+        "y": 470.44,
+        "width": 283,
+        "height": 49
+      },
+      {
+        "id": "kl2JI_Wl47c5r8SYzxvCq",
+        "type": "topic",
+        "x": 127.76,
+        "y": 282.94,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "8aOSpZLWwZv_BEYiurhyR",
+        "type": "subtopic",
+        "x": 127.76,
+        "y": 367.44,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "Y9gq8WkDA_XGe68JkY2UZ",
+        "type": "subtopic",
+        "x": 127.76,
+        "y": 420.44,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "zE4iPSq2KsrDSByQ0sGK_",
+        "type": "subtopic",
+        "x": 127.76,
+        "y": 473.44,
+        "width": 206,
+        "height": 49
+      },
+      {
+        "id": "s5Gs4yF9TPh-psYmtPzks",
+        "type": "topic",
+        "x": 518.98,
+        "y": 461.17,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "_IP_e1K9LhNHilYTDh7L5",
+        "type": "subtopic",
+        "x": 518.98,
+        "y": 347.2,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "bjpFWxiCKGz28E-ukhZBp",
+        "type": "subtopic",
+        "x": 518.98,
+        "y": 294.7,
+        "width": 252,
+        "height": 49
+      },
+      {
+        "id": "oYi3YOc1GC2Nfp71VOkJt",
+        "type": "topic",
+        "x": 517.48,
+        "y": 569.02,
+        "width": 255,
+        "height": 49
+      },
+      {
+        "id": "obZIxRp0eMWdG7gplNIBc",
+        "type": "subtopic",
+        "x": 518.46,
+        "y": 765.7,
+        "width": 255,
+        "height": 49
+      },
+      {
+        "id": "sgfqb22sdN4VRJYkhAVaf",
+        "type": "subtopic",
+        "x": 518.46,
+        "y": 809.7,
+        "width": 255,
+        "height": 49
+      },
+      {
+        "id": "llCBeut_uc9IAe2oi4KZ9",
+        "type": "subtopic",
+        "x": 518.46,
+        "y": 658.07,
+        "width": 255,
+        "height": 49
+      },
+      {
+        "id": "xjiFBVe-VGqCqWfkPVGKf",
+        "type": "subtopic",
+        "x": 518.46,
+        "y": 711.07,
+        "width": 255,
+        "height": 49
+      },
+      {
+        "id": "MwznA4qfpNlv6sqSNjPZi",
+        "type": "topic",
+        "x": 128.07,
+        "y": 569.02,
+        "width": 214,
+        "height": 49
+      },
+      {
+        "id": "f1djN0GxoeVPr_0cl6vMq",
+        "type": "subtopic",
+        "x": 128.07,
+        "y": 656.95,
+        "width": 214,
+        "height": 49
+      },
+      {
+        "id": "i0EAFEUB-F0wBJWOtrl1A",
+        "type": "subtopic",
+        "x": 128.07,
+        "y": 709.95,
+        "width": 214,
+        "height": 49
+      },
+      {
+        "id": "r0yD1gfn03wTpEBi6zNsu",
+        "type": "subtopic",
+        "x": 128.07,
+        "y": 783.58,
+        "width": 214,
+        "height": 49
+      },
+      {
+        "id": "DWw8NxkLpIpiOSUaZZ1oA",
+        "type": "topic",
+        "x": -281.97,
+        "y": 569.02,
+        "width": 237,
+        "height": 49
+      },
+      {
+        "id": "uUzRKa9wGzdUwwmAg3FWr",
+        "type": "subtopic",
+        "x": -284.47,
+        "y": 661.02,
+        "width": 242,
+        "height": 49
+      },
+      {
+        "id": "mSFwsTYvmg-GwG4_DEIEf",
+        "type": "subtopic",
+        "x": -284.47,
+        "y": 714.02,
+        "width": 242,
+        "height": 49
+      },
+      {
+        "id": "9aA_-IfQ9WmbPgwic0mFN",
+        "type": "subtopic",
+        "x": -284.47,
+        "y": 767.02,
+        "width": 242,
+        "height": 50
+      },
+      {
+        "id": "ulvwm4rRPgkpgaqGgyH5a",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 834.06,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "vUwSS-uX36OWZouO0wOcy",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 887.06,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "b5jZIZD_U_CPg-_bdndjz",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 940.06,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "k9c5seRkhgm_yHPpiz2X0",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 993.06,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "uEGEmbxegATIrvGfobJb9",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 1060.95,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "Gld0nRs0sM8kRe8XmYolu",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 1113.95,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "6w0WExQ4lGIGgok6Thq0s",
+        "type": "subtopic",
+        "x": -275.97,
+        "y": 1166.95,
+        "width": 225,
+        "height": 49
+      },
+      {
+        "id": "Zw2AOTK5uc9BoKEpY7W1C",
+        "type": "topic",
+        "x": 66.99,
+        "y": 1116.46,
+        "width": 224,
+        "height": 49
+      },
+      {
+        "id": "dKCYmxDNZubCVcR5rf8b-",
+        "type": "subtopic",
+        "x": 66.99,
+        "y": 1025.08,
+        "width": 224,
+        "height": 49
+      },
+      {
+        "id": "iIdC7V8sojwyEqK1xMuHn",
+        "type": "subtopic",
+        "x": 66.99,
+        "y": 980.08,
+        "width": 224,
+        "height": 49
+      },
+      {
+        "id": "CK7yf8Bo7kfbV6x2tZTrh",
+        "type": "subtopic",
+        "x": 66.99,
+        "y": 921.97,
+        "width": 224,
+        "height": 49
+      },
+      {
+        "id": "CMlWNQwpywNhO9B6Yj6Me",
+        "type": "topic",
+        "x": 418.86,
+        "y": 1116.46,
+        "width": 237,
+        "height": 49
+      },
+      {
+        "id": "7sdEzZCIoarzznwO4XcCv",
+        "type": "subtopic",
+        "x": 486.09,
+        "y": 1335.83,
+        "width": 285,
+        "height": 49
+      },
+      {
+        "id": "WjHpueZDK-d3oDNMVZi9w",
+        "type": "subtopic",
+        "x": 539.09,
+        "y": 1213.54,
+        "width": 232,
+        "height": 49
+      },
+      {
+        "id": "b3-QYKNcW3LYCNOza3Olf",
+        "type": "subtopic",
+        "x": 468.86,
+        "y": 1022.96,
+        "width": 307,
+        "height": 49
+      },
+      {
+        "id": "hNBErGNiegLsUJn_vgcOR",
+        "type": "subtopic",
+        "x": 468.86,
+        "y": 921.97,
+        "width": 167,
+        "height": 49
+      },
+      {
+        "id": "s99ImazcwCgAESxZd8ksa",
+        "type": "subtopic",
+        "x": 626.86,
+        "y": 921.97,
+        "width": 149,
+        "height": 49
+      },
+      {
+        "id": "7h1VivjCPDwriL7FirtFv",
+        "type": "subtopic",
+        "x": 468.86,
+        "y": 968.66,
+        "width": 307,
+        "height": 49
+      },
+      {
+        "id": "B2SGBENzUMl0SAjG4j91V",
+        "type": "topic",
+        "x": 178.53,
+        "y": 1286.83,
+        "width": 199,
+        "height": 49
+      },
+      {
+        "id": "oWygnpwHq2poXQMTTSCpl",
+        "type": "subtopic",
+        "x": 178.53,
+        "y": 1384.83,
+        "width": 199,
+        "height": 49
+      },
+      {
+        "id": "NJud5SXBAUZ6Sr78kZ7jx",
+        "type": "subtopic",
+        "x": 180.47,
+        "y": 1438.79,
+        "width": 199,
+        "height": 49
+      },
+      {
+        "id": "y4-P4UNC--rE1vni8HdTn",
+        "type": "subtopic",
+        "x": 180.47,
+        "y": 1492.79,
+        "width": 199,
+        "height": 49
+      },
+      {
+        "id": "-6fwJQOfsorgHkoQGp4T3",
+        "type": "topic",
+        "x": -286.93,
+        "y": 1286.83,
+        "width": 322,
+        "height": 49
+      },
+      {
+        "id": "CG01PTVgHtjfKvsJkJLGl",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 1389.79,
+        "width": 322,
+        "height": 49
+      },
+      {
+        "id": "PiMhw1oP9-NZEa6I9u4lX",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 1444.71,
+        "width": 322,
+        "height": 49
+      },
+      {
+        "id": "_XB2Imyf23-6AOeoNLhYQ",
+        "type": "subtopic",
+        "x": -278.29,
+        "y": 1500.21,
+        "width": 141,
+        "height": 49
+      },
+      {
+        "id": "5g22glc97siQOcTkHbwan",
+        "type": "subtopic",
+        "x": -130.52,
+        "y": 1500.21,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "4BdFcuQ5KNW94cu2jz-vE",
+        "type": "subtopic",
+        "x": -278.29,
+        "y": 1553.3,
+        "width": 141,
+        "height": 49
+      },
+      {
+        "id": "ZMyFDJrpCauGrY5NZkOwg",
+        "type": "subtopic",
+        "x": -130.52,
+        "y": 1553.3,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "IDOlquv6jlfecwQoBwkGZ",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 1618.89,
+        "width": 322,
+        "height": 49
+      },
+      {
+        "id": "YSWN7nS8vA9nMldSUrZRT",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 1672.89,
+        "width": 322,
+        "height": 49
+      },
+      {
+        "id": "Lt7ss59KZw9Jwqj234jm2",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 1726.89,
+        "width": 186,
+        "height": 49
+      },
+      {
+        "id": "zKdlfZTRHwjtmRUGW9z9-",
+        "type": "subtopic",
+        "x": -97.93,
+        "y": 1726.89,
+        "width": 133,
+        "height": 49
+      },
+      {
+        "id": "V2SeVMoQJXI2btIHr8e-u",
+        "type": "vertical",
+        "x": 122.76,
+        "y": 1310.79,
+        "width": 21,
+        "height": 365
+      },
+      {
+        "id": "DHdNBP7_ixjr6h-dIQ7g6",
+        "type": "topic",
+        "x": 93.99,
+        "y": 1658.89,
+        "width": 297,
+        "height": 49
+      },
+      {
+        "id": "Ebu8gzbyyXEeJryeE0SpG",
+        "type": "subtopic",
+        "x": 93.99,
+        "y": 1745.44,
+        "width": 153,
+        "height": 49
+      },
+      {
+        "id": "VeVxZ230xkesQsIDig8zQ",
+        "type": "subtopic",
+        "x": 250.99,
+        "y": 1746.44,
+        "width": 140,
+        "height": 49
+      },
+      {
+        "id": "whyj6Z4RXFsVQYRfYYn7B",
+        "type": "subtopic",
+        "x": 93.99,
+        "y": 1798.44,
+        "width": 153,
+        "height": 49
+      },
+      {
+        "id": "yGvE6eHKlPMBB6rde0llR",
+        "type": "subtopic",
+        "x": 250.99,
+        "y": 1799.44,
+        "width": 140,
+        "height": 49
+      },
+      {
+        "id": "OXQUPqxzs1-giAACwl3X1",
+        "type": "subtopic",
+        "x": 93.99,
+        "y": 1851.44,
+        "width": 153,
+        "height": 49
+      },
+      {
+        "id": "1pydf-SR0QUfVNuBEyvzc",
+        "type": "subtopic",
+        "x": 250.99,
+        "y": 1852.44,
+        "width": 140,
+        "height": 49
+      },
+      {
+        "id": "-6AOrbuOE7DJCmxlcgCay",
+        "type": "topic",
+        "x": 526.0,
+        "y": 1751.44,
+        "width": 161,
+        "height": 49
+      },
+      {
+        "id": "w4EIf58KP-Pq-yc0HlGxc",
+        "type": "subtopic",
+        "x": 466.4,
+        "y": 1639.77,
+        "width": 303,
+        "height": 49
+      },
+      {
+        "id": "sObOuccY0PDeGG-9GrFDF",
+        "type": "subtopic",
+        "x": 466.4,
+        "y": 1470.77,
+        "width": 303,
+        "height": 49
+      },
+      {
+        "id": "WptReUOwVth3C9-AVmMHF",
+        "type": "subtopic",
+        "x": 466.4,
+        "y": 1417.12,
+        "width": 172,
+        "height": 49
+      },
+      {
+        "id": "3C5UfejDX-1Z8ZF6C53xD",
+        "type": "subtopic",
+        "x": 642.4,
+        "y": 1417.12,
+        "width": 129,
+        "height": 49
+      },
+      {
+        "id": "6hTcmJwNnQstbWWzNCfTe",
+        "type": "subtopic",
+        "x": 478.4,
+        "y": 1529.97,
+        "width": 279,
+        "height": 49
+      },
+      {
+        "id": "1NYJtbdcdOB4-vIrnq4yX",
+        "type": "subtopic",
+        "x": 477.4,
+        "y": 1582.97,
+        "width": 281,
+        "height": 49
+      },
+      {
+        "id": "fb3bnfKXjSIjPAk4b95lg",
+        "type": "topic",
+        "x": 526.0,
+        "y": 2041.11,
+        "width": 161,
+        "height": 49
+      },
+      {
+        "id": "xjUaIp8gGxkN-cp8emJ2M",
+        "type": "subtopic",
+        "x": 446.0,
+        "y": 2138.74,
+        "width": 321,
+        "height": 49
+      },
+      {
+        "id": "YvmjrZSAOmjhVPo05MJqN",
+        "type": "subtopic",
+        "x": 446.0,
+        "y": 2191.74,
+        "width": 321,
+        "height": 49
+      },
+      {
+        "id": "lxAzI42jQdaofzQ5MXebG",
+        "type": "subtopic",
+        "x": 446.0,
+        "y": 2244.74,
+        "width": 163,
+        "height": 49
+      },
+      {
+        "id": "O2Du5gHHxFxAI2u5uO8wu",
+        "type": "subtopic",
+        "x": 612.0,
+        "y": 2244.74,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "OmHDlLxCnH8RDdu5vx9fl",
+        "type": "subtopic",
+        "x": 446.83,
+        "y": 2298.66,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "MEoWt8NKjPLVTeGgYf3cR",
+        "type": "subtopic",
+        "x": 550.33,
+        "y": 2298.66,
+        "width": 110,
+        "height": 49
+      },
+      {
+        "id": "ttt-yeIi4BPWrgvW324W7",
+        "type": "subtopic",
+        "x": 665.0,
+        "y": 2298.66,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "vvE1aUsWbF1OFcmMUHbJa",
+        "type": "topic",
+        "x": 227.76,
+        "y": 2041.11,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "T6rCTv9Dxkm-tEA-l9XEv",
+        "type": "subtopic",
+        "x": 227.76,
+        "y": 1939.02,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "R2-qWGUxsTOeSHRuUzhd2",
+        "type": "subtopic",
+        "x": 227.76,
+        "y": 2243.91,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "o3no4a5_iMFzEAGs56-BJ",
+        "type": "subtopic",
+        "x": 227.76,
+        "y": 2190.91,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "sxbbKtg7kMNbkx7fXhjR9",
+        "type": "subtopic",
+        "x": 227.76,
+        "y": 2137.91,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "PPg0V5EzGBeJsysg1215V",
+        "type": "subtopic",
+        "x": 227.76,
+        "y": 2296.91,
+        "width": 156,
+        "height": 49
+      },
+      {
+        "id": "qmHs6_BzND_xpMmls5YUH",
+        "type": "topic",
+        "x": -286.93,
+        "y": 2041.11,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "VtPb8-AJKzhTB0QbMtoU4",
+        "type": "subtopic",
+        "x": -288.08,
+        "y": 1934.02,
+        "width": 329,
+        "height": 49
+      },
+      {
+        "id": "sR_FxGZHoMCV9Iv7z2_SX",
+        "type": "subtopic",
+        "x": -288.08,
+        "y": 1880.94,
+        "width": 329,
+        "height": 49
+      },
+      {
+        "id": "y8VCbGDUco9bzGRfIBD8R",
+        "type": "subtopic",
+        "x": -288.08,
+        "y": 1826.16,
+        "width": 177,
+        "height": 49
+      },
+      {
+        "id": "BmWsoL9c_Aag5nVlMsKm2",
+        "type": "subtopic",
+        "x": -106.91,
+        "y": 1825.25,
+        "width": 147,
+        "height": 49
+      },
+      {
+        "id": "FTMHsUiE8isD_OVZr62Xc",
+        "type": "topic",
+        "x": -286.93,
+        "y": 2165.78,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "DVckzBUMgk_lWThVkLyAT",
+        "type": "subtopic",
+        "x": -38.86,
+        "y": 2138.93,
+        "width": 236,
+        "height": 49
+      },
+      {
+        "id": "hSG6Aux39X0cXi6ADy2al",
+        "type": "subtopic",
+        "x": -38.86,
+        "y": 2191.93,
+        "width": 236,
+        "height": 49
+      },
+      {
+        "id": "hurj4ktZD6sDbMg7lz3Dn",
+        "type": "label",
+        "x": -15.83,
+        "y": 2248.42,
+        "width": 152,
+        "height": 36,
+        "label": "C/lang++ / LLVM"
+      },
+      {
+        "id": "hVi9vzLaVfcXhhd7m8-ei",
+        "type": "label",
+        "x": -15.83,
+        "y": 2285.42,
+        "width": 90,
+        "height": 36,
+        "label": "Intel C++"
+      },
+      {
+        "id": "7byy5GiTl4SPpVN39UFbC",
+        "type": "label",
+        "x": -15.83,
+        "y": 2322.42,
+        "width": 102,
+        "height": 36,
+        "label": "MSVS C++"
+      },
+      {
+        "id": "2oTFuzQ6j0AmdAc9U_UwQ",
+        "type": "label",
+        "x": -15.83,
+        "y": 2359.42,
+        "width": 54,
+        "height": 36,
+        "label": "GCC"
+      },
+      {
+        "id": "9DDS861RQhuFgpaR2_KeO",
+        "type": "label",
+        "x": -15.83,
+        "y": 2396.42,
+        "width": 73,
+        "height": 36,
+        "label": "MinGW"
+      },
+      {
+        "id": "jVXFCo6puMxJ_ifn_uwim",
+        "type": "topic",
+        "x": -286.93,
+        "y": 2515.51,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "ysnXvSHGBMMozBJyXpHl5",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 2614.67,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "t6rZLH7l8JQm99ax_fEJ9",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 2667.67,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "HkUCD5A_M9bJxJRElkK0x",
+        "type": "subtopic",
+        "x": -286.93,
+        "y": 2720.67,
+        "width": 154,
+        "height": 49
+      },
+      {
+        "id": "h29eJG1hWHa7vMhSqtfV2",
+        "type": "topic",
+        "x": -30.24,
+        "y": 2515.51,
+        "width": 211,
+        "height": 49
+      },
+      {
+        "id": "PKG5pACLfRS2ogfzBX47_",
+        "type": "subtopic",
+        "x": -25.86,
+        "y": 2608.84,
+        "width": 97,
+        "height": 49
+      },
+      {
+        "id": "g0s0F4mLV16eNvMBflN2e",
+        "type": "subtopic",
+        "x": 76.76,
+        "y": 2660.94,
+        "width": 104,
+        "height": 49
+      },
+      {
+        "id": "ky_UqizToTZHC_b77qFi2",
+        "type": "subtopic",
+        "x": -25.86,
+        "y": 2661.84,
+        "width": 97,
+        "height": 49
+      },
+      {
+        "id": "3ehBc2sKVlPj7dn4RVZCH",
+        "type": "subtopic",
+        "x": 76.76,
+        "y": 2607.94,
+        "width": 104,
+        "height": 49
+      },
+      {
+        "id": "4kkX5g_-plX9zVqr0ZoiR",
+        "type": "topic",
+        "x": 245.32,
+        "y": 2515.51,
+        "width": 222,
+        "height": 49
+      },
+      {
+        "id": "5mNqH_AEiLxUmgurNW1Fq",
+        "type": "subtopic",
+        "x": 245.32,
+        "y": 2432.91,
+        "width": 222,
+        "height": 49
+      },
+      {
+        "id": "sLVs95EOeHZldoKY0L_dH",
+        "type": "subtopic",
+        "x": 245.32,
+        "y": 2379.91,
+        "width": 222,
+        "height": 49
+      },
+      {
+        "id": "1d7h5P1Q0RVHryKPVogQy",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2436.67,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "Eq3TKSFJ2F2mrTHAaU2J4",
+        "type": "subtopic",
+        "x": 649.52,
+        "y": 2437.67,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "nOkniNXfXwPPlOEJHJoGl",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2489.67,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "jpMCIWQko7p3ndezYHL4D",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2542.67,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "621J9W4xCofumNZGo4TZT",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2595.67,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "j_eNHhs0J08Dt7HVbo4Q2",
+        "type": "subtopic",
+        "x": 649.52,
+        "y": 2490.67,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "tEkvlJPAkD5fji-MMODL7",
+        "type": "subtopic",
+        "x": 649.52,
+        "y": 2596.67,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "q64qFxoCrR38RPsN2lC8x",
+        "type": "subtopic",
+        "x": 649.52,
+        "y": 2543.67,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "GGZJaYpRENaqloJzt0VtY",
+        "type": "subtopic",
+        "x": 649.52,
+        "y": 2649.67,
+        "width": 111,
+        "height": 49
+      },
+      {
+        "id": "1CqQgmHDeo1HlPdpUJS7H",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2648.67,
+        "width": 103,
+        "height": 49
+      },
+      {
+        "id": "et-dXKPYuyVW6eV2K3CM8",
+        "type": "subtopic",
+        "x": 543.58,
+        "y": 2703.67,
+        "width": 216,
+        "height": 49
+      },
+      {
+        "id": "YkaqIkt2bGBsrRwOFQpV4",
+        "type": "label",
+        "x": 609.58,
+        "y": 2392.94,
+        "width": 84,
+        "height": 36,
+        "label": "Libraries"
+      },
+      {
+        "id": "MrAM-viRaF8DSxB6sVdD9",
+        "type": "subtopic",
+        "x": 273.58,
+        "y": 2700.67,
+        "width": 170,
+        "height": 49
+      },
+      {
+        "id": "gAZ9Dqgj1_UkaLzVgzx1t",
+        "type": "subtopic",
+        "x": 273.58,
+        "y": 2753.67,
+        "width": 64,
+        "height": 49
+      },
+      {
+        "id": "s13jQuaC6gw0Lab3Cbyy6",
+        "type": "subtopic",
+        "x": 342.86,
+        "y": 2753.67,
+        "width": 101,
+        "height": 49
+      },
+      {
+        "id": "O0lVEMTAV1pq9sYCKQvh_",
+        "type": "subtopic",
+        "x": 273.58,
+        "y": 2806.67,
+        "width": 170,
+        "height": 49
+      },
+      {
+        "id": "88pr5aN7cctZfDVVo-2ns",
+        "type": "subtopic",
+        "x": 273.58,
+        "y": 2859.67,
+        "width": 170,
+        "height": 49
+      },
+      {
+        "id": "1Bm9i2IdUeDkWg4ZGEylB",
+        "type": "label",
+        "x": 300.52,
+        "y": 2919.24,
+        "width": 111,
+        "height": 36,
+        "label": "Frameworks"
+      }
+    ],
+    "edges": [
+      {
+        "source": "NvODRFR0DLINB0RlPSsvt",
+        "target": "x_28LiDVshqWns_aIBsdx",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "NvODRFR0DLINB0RlPSsvt",
+        "target": "tl6VCQ5IEGDVyFcgj7jDm",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "NvODRFR0DLINB0RlPSsvt",
+        "target": "2Ag0t3LPryTF8khHLRfy-",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "NvODRFR0DLINB0RlPSsvt",
+        "target": "Zc_TTzmM36yWsu3GvOy9x",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "Zc_TTzmM36yWsu3GvOy9x",
+        "target": "0J_ltQEJh2g28OE2ZEYJj",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "Zc_TTzmM36yWsu3GvOy9x",
+        "target": "kl2JI_Wl47c5r8SYzxvCq",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "kl2JI_Wl47c5r8SYzxvCq",
+        "target": "8aOSpZLWwZv_BEYiurhyR",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "kl2JI_Wl47c5r8SYzxvCq",
+        "target": "s5Gs4yF9TPh-psYmtPzks",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "s5Gs4yF9TPh-psYmtPzks",
+        "target": "_IP_e1K9LhNHilYTDh7L5",
+        "dashed": true,
+        "sourceHandle": "w2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "s5Gs4yF9TPh-psYmtPzks",
+        "target": "oYi3YOc1GC2Nfp71VOkJt",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "oYi3YOc1GC2Nfp71VOkJt",
+        "target": "llCBeut_uc9IAe2oi4KZ9",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "oYi3YOc1GC2Nfp71VOkJt",
+        "target": "MwznA4qfpNlv6sqSNjPZi",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "i0EAFEUB-F0wBJWOtrl1A",
+        "target": "r0yD1gfn03wTpEBi6zNsu",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "MwznA4qfpNlv6sqSNjPZi",
+        "target": "DWw8NxkLpIpiOSUaZZ1oA",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "MwznA4qfpNlv6sqSNjPZi",
+        "target": "f1djN0GxoeVPr_0cl6vMq",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "DWw8NxkLpIpiOSUaZZ1oA",
+        "target": "uUzRKa9wGzdUwwmAg3FWr",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "Zw2AOTK5uc9BoKEpY7W1C",
+        "target": "dKCYmxDNZubCVcR5rf8b-",
+        "dashed": true,
+        "sourceHandle": "w2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "Zw2AOTK5uc9BoKEpY7W1C",
+        "target": "CMlWNQwpywNhO9B6Yj6Me",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "CMlWNQwpywNhO9B6Yj6Me",
+        "target": "B2SGBENzUMl0SAjG4j91V",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "B2SGBENzUMl0SAjG4j91V",
+        "target": "oWygnpwHq2poXQMTTSCpl",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "B2SGBENzUMl0SAjG4j91V",
+        "target": "-6fwJQOfsorgHkoQGp4T3",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "-6fwJQOfsorgHkoQGp4T3",
+        "target": "CG01PTVgHtjfKvsJkJLGl",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "DHdNBP7_ixjr6h-dIQ7g6",
+        "target": "-6AOrbuOE7DJCmxlcgCay",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "-6AOrbuOE7DJCmxlcgCay",
+        "target": "fb3bnfKXjSIjPAk4b95lg",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "fb3bnfKXjSIjPAk4b95lg",
+        "target": "xjUaIp8gGxkN-cp8emJ2M",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "fb3bnfKXjSIjPAk4b95lg",
+        "target": "vvE1aUsWbF1OFcmMUHbJa",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z1"
+      },
+      {
+        "source": "vvE1aUsWbF1OFcmMUHbJa",
+        "target": "Kb2Pbz0Sq7YlO1vCwYxnX",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "Kb2Pbz0Sq7YlO1vCwYxnX",
+        "target": "qmHs6_BzND_xpMmls5YUH",
+        "dashed": false,
+        "sourceHandle": "y2",
+        "targetHandle": "z2"
+      },
+      {
+        "source": "vvE1aUsWbF1OFcmMUHbJa",
+        "target": "T6rCTv9Dxkm-tEA-l9XEv",
+        "dashed": true,
+        "sourceHandle": "w2",
+        "targetHandle": "x1"
+      },
+      {
+        "source": "qmHs6_BzND_xpMmls5YUH",
+        "target": "FTMHsUiE8isD_OVZr62Xc",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "FTMHsUiE8isD_OVZr62Xc",
+        "target": "DVckzBUMgk_lWThVkLyAT",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "FTMHsUiE8isD_OVZr62Xc",
+        "target": "hSG6Aux39X0cXi6ADy2al",
+        "dashed": true,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "FTMHsUiE8isD_OVZr62Xc",
+        "target": "jVXFCo6puMxJ_ifn_uwim",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "jVXFCo6puMxJ_ifn_uwim",
+        "target": "ysnXvSHGBMMozBJyXpHl5",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      },
+      {
+        "source": "jVXFCo6puMxJ_ifn_uwim",
+        "target": "h29eJG1hWHa7vMhSqtfV2",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y1"
+      },
+      {
+        "source": "h29eJG1hWHa7vMhSqtfV2",
+        "target": "4kkX5g_-plX9zVqr0ZoiR",
+        "dashed": false,
+        "sourceHandle": "z2",
+        "targetHandle": "y2"
+      },
+      {
+        "source": "4kkX5g_-plX9zVqr0ZoiR",
+        "target": "5mNqH_AEiLxUmgurNW1Fq",
+        "dashed": true,
+        "sourceHandle": "w2",
+        "targetHandle": "x2"
+      },
+      {
+        "source": "4kkX5g_-plX9zVqr0ZoiR",
+        "target": "I1aDakZmYpe7pKczou0qC",
+        "dashed": false,
+        "sourceHandle": "x2",
+        "targetHandle": "w1"
+      },
+      {
+        "source": "vvE1aUsWbF1OFcmMUHbJa",
+        "target": "sxbbKtg7kMNbkx7fXhjR9",
+        "dashed": true,
+        "sourceHandle": "x2",
+        "targetHandle": "w2"
+      }
+    ]
+  }
+}

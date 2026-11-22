@@ -1,0 +1,15 @@
+{
+  "short_name": "PTITSocial",
+  "name": "PTITSocial",
+  "icons": [
+    {
+      "src": "icons/ptitsocial.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#b8202e",
+  "background_color": "#f4f5f7"
+}

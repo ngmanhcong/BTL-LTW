@@ -1,0 +1,372 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 97%;
+  max-width: 500px;
+  padding: 0 !important;
+  margin: 0 6px;
+  box-shadow:
+    0 6px 28px 0 var(--shadow-2),
+    0 2px 4px 0 var(--shadow-1),
+    inset 0 0 0 1px var(--shadow-inset) !important;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  border-bottom: 1px solid var(--divider);
+  position: relative;
+}
+.header span {
+  font-size: 18px;
+  font-weight: 700;
+}
+.exit {
+  position: absolute;
+  right: 5px;
+}
+
+.profile {
+  display: flex;
+  gap: 10px;
+  margin: 0 15px;
+  padding: 15px 0;
+}
+.profile_1 {
+  display: flex;
+  gap: 2px;
+  flex-direction: column;
+}
+.photo {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px 0 var(--shadow-1);
+}
+.user_name {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.privacy {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 4px;
+  background: var(--bg-third);
+  width: fit-content;
+  padding: 3px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.privacy img {
+  width: 12px;
+}
+.container {
+  max-height: 410px;
+  overflow-y: scroll;
+}
+.post_input {
+  border: none;
+  outline: none;
+  resize: none;
+  padding: 5px 15px;
+  width: 100%;
+  font-family: inherit;
+  font-size: 24px;
+  color: var(--color-primary);
+}
+.content textarea {
+  background: transparent;
+  min-height: 120px;
+  overflow-y: visible;
+}
+.post_background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emoji_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+.emoji_wrap img {
+  width: 39px;
+}
+
+.emoji_wrap i:hover {
+  filter: invert(80%);
+}
+.add_to {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid var(--divider);
+  border-radius: 10px;
+  height: 57px;
+}
+.addto_text {
+  padding: 0 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.add_to .icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.add_to .icons div {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.cfooter {
+  margin: 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 16px;
+  padding-top: 10px;
+}
+
+.background_wrap {
+  display: flex;
+  align-items: center;
+  max-width: 90%;
+}
+.backgrounds {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  max-width: inherit;
+  overflow-x: scroll;
+  padding-left: 10px;
+}
+.backgrounds img {
+  width: 32px;
+  height: 32px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.no_bg {
+  width: 32px;
+  min-width: 32px;
+  height: 32px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid var(--divider);
+  background: var(--bg-secondary);
+}
+.backgrounds {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.backgrounds::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+.open_bg {
+  cursor: pointer;
+}
+
+.post_input_background {
+  height: 360px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.post_input_background textarea {
+  text-align: center;
+
+  /* height: inherit; */
+}
+
+:global(.dark) .privacy i,
+:global(.dark) .privacy img {
+  filter: invert(100%);
+}
+
+.privacy {
+  border: 0;
+  color: var(--color-primary);
+  cursor: pointer;
+  font-family: inherit;
+}
+.card {
+  max-height: 95vh;
+  overflow-y: auto;
+}
+
+.composerHidden {
+  display: none;
+}
+.audience {
+  padding: 18px 16px 16px;
+  color: var(--color-primary);
+}
+.audienceIntro {
+  margin: 0 0 14px;
+  font-size: 14px;
+  color: var(--color-secondary);
+}
+.audienceOption {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 6px;
+}
+.audienceOption:hover,
+.friendRow:hover {
+  background: var(--bg-third);
+}
+.activeOption {
+  border-color: #b32130;
+  background: rgba(179, 33, 48, 0.07);
+}
+.audienceIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: var(--bg-third);
+  font-size: 23px;
+}
+.optionText {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+}
+.optionText strong {
+  font-size: 14px;
+  font-weight: 600;
+}
+.optionText small {
+  font-size: 12px;
+  color: var(--color-secondary);
+}
+.audience input[type='radio'],
+.audience input[type='checkbox'] {
+  accent-color: #b32130;
+  width: 19px;
+  height: 19px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.friendPicker {
+  border-top: 1px solid var(--divider);
+  margin-top: 14px;
+  padding-top: 16px;
+}
+.friendListHeading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.friendListHeading span {
+  font-size: 12px;
+  color: var(--color-secondary);
+}
+.friendSearch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-third);
+  border-radius: 20px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  color: var(--color-secondary);
+}
+.friendSearch input {
+  width: 100%;
+  min-width: 0;
+  background: transparent;
+  color: var(--color-primary);
+  border: 0;
+  outline: none;
+  font-size: 14px;
+}
+.friendSearch:focus-within {
+  outline: 2px solid #b32130;
+}
+.viewerResults {
+  max-height: min(280px, 35vh);
+  min-height: 70px;
+  overflow-y: auto;
+}
+.friendRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+.friendRow img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.selectedFriend {
+  background: rgba(179, 33, 48, 0.07);
+}
+.listMessage {
+  text-align: center;
+  font-size: 13px;
+  color: var(--color-secondary);
+  padding: 16px 8px;
+  line-height: 1.5;
+}
+.listMessage button {
+  color: var(--color-primary);
+  background: var(--bg-third);
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.audienceDone {
+  width: 100%;
+  margin-top: 16px;
+}
+.audienceDone:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.audienceBack {
+  position: absolute;
+  left: 12px;
+  width: 36px;
+  height: 36px;
+  border: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  background: var(--bg-third);
+  color: var(--color-primary);
+  cursor: pointer;
+}

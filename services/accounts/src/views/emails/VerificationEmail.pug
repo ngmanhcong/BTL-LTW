@@ -1,0 +1,15 @@
+extend baseEmail
+
+block content
+    .headLogo
+        span Xác minh tài khoản PTITSocial
+    p Xin chào #{firstname},
+    p Bạn vừa đăng ký tài khoản PTITSocial. Vui lòng xác minh email để hoàn tất đăng ký.
+    table.btn.btn-primary(role='presentation' border='0' cellpadding='0' cellspacing='0')
+        tbody
+            tr
+                td
+                    a(href=url target='_blank') Xác minh tài khoản
+    p Sau khi xác minh, bạn có thể chia sẻ bài viết, kết bạn và trò chuyện với cộng đồng sinh viên.
+    p Nếu bạn không đăng ký tài khoản này, vui lòng bỏ qua email.
+    p Đội ngũ PTITSocial
